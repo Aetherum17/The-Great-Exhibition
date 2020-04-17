@@ -1,0 +1,1588 @@
+spriteTypes = {
+	
+	spriteType = {
+			name = "10500_ELECTION_REPUBLICAN_eventPicture"
+			texturefile = "gfx/event_pictures/JOSEON_COUNCIL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "10501_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/KOREAN_DELEGATE_TRAVEL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "10502_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/DELEGATING_KOREAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9000_MERCHANTS_TALKING_eventPicture"
+			texturefile = "gfx/event_pictures/JESUIT_MAP_JAPAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9001_MERCHANTS_TALKING_eventPicture"
+			texturefile = "gfx/event_pictures/MAP_TOKYO_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9004_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/CHRISTIANITY_ON_BOARD_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9006_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/KOREAN_PRIESTS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9008_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/ROMAN_CATHOLIC_SAINTS_IN_ASIA_SACRIFICE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9010_NAVAL_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/RED_SHIP_WATCHING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9012_DIPLOMACY_eventPicture"
+			texturefile = "gfx/event_pictures/FOREIGN_EMISSARIES_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9014_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/FUMI_E_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9016_INVENTION_eventPicture"
+			texturefile = "gfx/event_pictures/TEMPURA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9018_LAND_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/LARGE_ARQUEBUS_JAPAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9020_THEATRE_eventPicture"
+			texturefile = "gfx/event_pictures/KABUKI_PLAYWRIGHT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9022_MILITARY_CAMP_eventPicture"
+			texturefile = "gfx/event_pictures/PLEDGING_RONIN_FAITHFUL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9024_THEATRE_eventPicture"
+			texturefile = "gfx/event_pictures/NOGAKU_PERFORMANCE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9026_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/ROCK_GARDEN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9028_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/TWO_SAMURAI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		spriteType = {
+			name = "9030_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/RAIN_COURT_MONK_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9032_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/SNOW_KYOTO_SHRINE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9034_MERCHANTS_TALKING_eventPicture"
+			texturefile = "gfx/event_pictures/SHINTO_SHRINE_IN_WINTER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9036_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/RICE_CUTTING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9038_DEATH_OF_HEIR_eventPicture"
+			texturefile = "gfx/event_pictures/THE_GEISHA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9040_BATTLE_eventPicture"
+			texturefile = "gfx/event_pictures/INCAPABLE_RULER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9042_BATTLE_eventPicture"
+			texturefile = "gfx/event_pictures/JEALOUS_EYES_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9044_REFORM_eventPicture"
+			texturefile = "gfx/event_pictures/JAPANESE_MERCHANTS_WEIGHING_PACKING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9046_MERCHANTS_TALKING_eventPicture"
+			texturefile = "gfx/event_pictures/FOREIGNERS_COMING_WITH_GIFTS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "9050_PLAGUE_eventPicture"
+			texturefile = "gfx/event_pictures/FAILED_RICE_HARVEST_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "celestial_empire_events_SUFFERING_CHINESE_VILLAGE_eventPicture"
+			texturefile = "gfx/event_pictures/PRIMORDIAL_CHAOS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "celestial_empire_events.2_IMPERIAL_EXAMINATION_eventPicture"
+			texturefile = "gfx/event_pictures/EMPERORS_PALACE_PEKING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "celestial_empire_events.3_MERITOCRACY_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_BARBER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.1_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/CANTON_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.2_DIPLOMACY_eventPicture"
+			texturefile = "gfx/event_pictures/EUROPEAN_DANES_ISLAND_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.3_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/MANDARIN_PAVILION_GARDEN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.4_DEATH_OF_HEIR_eventPicture"
+			texturefile = "gfx/event_pictures/FUNERAL_HONG_KONG_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.5_MERCHANTS_TALKING_eventPicture"
+			texturefile = "gfx/event_pictures/YELLOW_RIVER_YEARLY_FLOOD_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.6_IMPORTANT_STATUE_eventPicture"
+			texturefile = "gfx/event_pictures/FOUNTAIN_CONSEQUA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.7_ECONOMY_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_MONEY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.8_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_SMOKING_OFFICIAL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.9_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/MINISTER_WITH_HAND_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.10_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/OPIUM_ADDICTED_COURT_OFFICIAL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.11_UNIVERSITY_eventPicture"
+			texturefile = "gfx/event_pictures/GAO_KAO_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.12_UNIVERSITY_eventPicture"
+			texturefile = "gfx/event_pictures/FAMILY_PLAYING_CARDS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.13_MILITARY_CAMP_eventPicture"
+			texturefile = "gfx/event_pictures/TING_HAI_VALE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.14_MILITARY_CAMP_eventPicture"
+			texturefile = "gfx/event_pictures/PUNISHMENT_OF_THE_CHA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.15_DEBATE_REPUBLICAN_eventPicture"
+			texturefile = "gfx/event_pictures/DINNER_PARTY_MANDARIN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.16_UNIVERSITY_eventPicture"
+			texturefile = "gfx/event_pictures/MERCHANT_HOUSE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.17_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/MOVABLE_TYPE_CUBE_MODERN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.18_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/FOOT_WHIPPING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.19_NAVAL_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_JUNK_KEYING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.20_ECONOMY_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_GOLD_RUSH_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.21_ECONOMY_eventPicture"
+			texturefile = "gfx/event_pictures/TIGER_ISLAND_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.22_FORT_eventPicture"
+			texturefile = "gfx/event_pictures/PORCELAIN_TOWER_NANKING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.23_MILITARY_CAMP_eventPicture"
+			texturefile = "gfx/event_pictures/APARTMENT_MANDARIN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.24_UNIVERSITY_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_BANKERS_SITTING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.25_DIPLOMACY_eventPicture"
+			texturefile = "gfx/event_pictures/EUROPEAN_FACTORIES_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.26_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/STAR_OF_HOPE_PAVILION_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.27_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/EUROPEAN_DIPLOMACY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.28_LAND_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/CHINA_GREAT_CAMPAIGN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.29_UNIVERSITY_eventPicture"
+			texturefile = "gfx/event_pictures/CAT_MERCHANT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.30_UNIVERSITY_eventPicture"
+			texturefile = "gfx/event_pictures/ADMINISTERS_CONVERSING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.31_GOOD_WITH_MONARCH_eventPicture"
+			texturefile = "gfx/event_pictures/BATTLE_OF_PALIKIAO_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.32_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/MANDARIN_PAYING_VISIT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.33_BUDDHA_eventPicture"
+			texturefile = "gfx/event_pictures/DALAI_LAMA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.34_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/EIGHTEEN_SCHOLARS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.35_DEBATE_REPUBLICAN_eventPicture"
+			texturefile = "gfx/event_pictures/ARMY_EXPEDITION_CHINA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.36_IMPORTANT_STATUE_eventPicture"
+			texturefile = "gfx/event_pictures/HIGHO_BUDDHA_STATUE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.37_UNIVERSITY_eventPicture"
+			texturefile = "gfx/event_pictures/SUN_MOON_SPECTACLE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.38_UNIVERSITY_eventPicture"
+			texturefile = "gfx/event_pictures/PLAYING_SHUTTLECOCK_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.39_ECONOMY_eventPicture"
+			texturefile = "gfx/event_pictures/SCALES_MEASURES_CHINA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.40_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/ANCIENT_TOMB_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.41_FORT_eventPicture"
+			texturefile = "gfx/event_pictures/STICKS_OF_FAITH_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.42_GOOD_WITH_MONARCH_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_COURTYARD_WAITING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.43_GOOD_WITH_MONARCH_eventPicture"
+			texturefile = "gfx/event_pictures/NANKING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.44_FORT_eventPicture"
+			texturefile = "gfx/event_pictures/CONFUCIUS_TEMPLE_GATE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.45_ANGRY_MOB_eventPicture"
+			texturefile = "gfx/event_pictures/REBELS_UNORGANIZED_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.46_BAD_WITH_MONARCH_eventPicture"
+			texturefile = "gfx/event_pictures/FLOOD_CHINESE_TOWN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.47_ANGRY_MOB_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_HIGHWAYMEN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.48_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/IMPERIAL_PALACE_PEKING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.49_BAD_WITH_MONARCH_eventPicture"
+			texturefile = "gfx/event_pictures/SOLAR_ECLIPSE_FAR_AWAY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.50_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/SUBURBS_EVENT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.51_BAD_WITH_MONARCH_eventPicture"
+			texturefile = "gfx/event_pictures/WATCHING_FROM_BALCONY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.52_PLAGUE_eventPicture"
+			texturefile = "gfx/event_pictures/DEAD_MAN_ON_TOMB_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.53_ASSASSINATION_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_ASSASSIN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.54_NEW_HEIR_eventPicture"
+			texturefile = "gfx/event_pictures/MONSTER_CHILD_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.55_BATTLE_eventPicture"
+			texturefile = "gfx/event_pictures/HEAVEN_TEMPLE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.56_BAD_WITH_MONARCH_eventPicture"
+			texturefile = "gfx/event_pictures/MANDARIN_COURT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.57_BAD_WITH_MONARCH_eventPicture"
+			texturefile = "gfx/event_pictures/AN_AUDIENCE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.58_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/YELLOW_PAGODA_RIVER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.59_BAD_WITH_MONARCH_eventPicture"
+			texturefile = "gfx/event_pictures/GULF_PECHELI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.60_BAD_WITH_MONARCH_eventPicture"
+			texturefile = "gfx/event_pictures/WALL_PAMPHLETS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.61_BAD_WITH_MONARCH_eventPicture"
+			texturefile = "gfx/event_pictures/ADMINISTRATOR_INSPECTING_COUNTRYSIDE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "china_events.62_BAD_WITH_MONARCH_eventPicture"
+			texturefile = "gfx/event_pictures/TEMPLE_OF_HEAVEN_TWO_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.1_NEO_CONFUCIANISM_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/CHINA_ZEUS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.2_NEO_CONFUCIANISM_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/KOREA_MARTYRS_GROUPING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.3_NEO_CONFUCIANISM_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/ISLAM_IN_CHINA_HUI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.4_NEO_CONFUCIANISM_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/DHARMA_QUEEN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.5_NEO_CONFUCIANISM_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/KAIFENG_JEWISH_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.6_NEO_CONFUCIANISM_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/ZOROASTRIAN_CHINA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.7_NEO_CONFUCIANISM_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/BUDDHA_TEMPLE_CANTON_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.8_NEO_CONFUCIANISM_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/THERAVADA_COMETOGETHER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.9_NEO_CONFUCIANISM_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/SACRIFICE_HARVEST_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.10_NEO_CONFUCIANISM_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/GREAT_TEMPLE_HONAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.11_MERITOCRACY_eventPicture"
+			texturefile = "gfx/event_pictures/RELIGIOUS_OFFERING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.12_MERITOCRACY_eventPicture"
+			texturefile = "gfx/event_pictures/BUDDHA_MONKS_WRITINGS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.13_MERITOCRACY_eventPicture"
+			texturefile = "gfx/event_pictures/EMPEROR_SCRIPT_STUDY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.14_GIFTS_TO_EMPEROR_eventPicture"
+			texturefile = "gfx/event_pictures/JADE_STONE_LIGHT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.15_GIFTS_TO_EMPEROR_eventPicture"
+			texturefile = "gfx/event_pictures/SHAMANISTIC_EMPEROR_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.16_IMPERIAL_SEAL_eventPicture"
+			texturefile = "gfx/event_pictures/CONFUCIUS_PRESENTING_GAUTAMA_BUDDHA_TO_LAO_TZU_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.17_GIFTS_TO_EMPEROR_eventPicture"
+			texturefile = "gfx/event_pictures/FIGHTING_QUAILS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.18_GIFTS_TO_EMPEROR_eventPicture"
+			texturefile = "gfx/event_pictures/THE_BOY_AND_THE_ELDER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.19_MERITOCRACY_eventPicture"
+			texturefile = "gfx/event_pictures/BURNING_CHINESE_BOOKS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.20_IMPERIAL_EXAMINATION_eventPicture"
+			texturefile = "gfx/event_pictures/CONFUCIANISM_PEOPLE_FOREST_MEETING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "confucian_events.21_IMPERIAL_EXAMINATION_eventPicture"
+			texturefile = "gfx/event_pictures/EMPRESS_TEMPLE_VISIT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "empire_of_china_in_name.1_IMPERIAL_SEAL_eventPicture"
+			texturefile = "gfx/event_pictures/TEMPLE_OF_HEAVEN_FORTUNE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "empire_of_china_in_name.2_GIFTS_TO_EMPEROR_eventPicture"
+			texturefile = "gfx/event_pictures/SPRING_CEREMONY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "empire_of_china_nomadic_border_events.1_SUFFERING_CHINESE_VILLAGE_eventPicture"
+			texturefile = "gfx/event_pictures/GENGHIS_KHAN_ARMY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "empire_of_china_nomadic_border_events.2_CHINESE_GENERAL_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_WALL_OUTPOST_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_hol.20_MERCHANTS_TALKING_eventPicture"
+			texturefile = "gfx/event_pictures/DEJIMA_SOMBER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_hol.21_MERCHANTS_TALKING_eventPicture"
+			texturefile = "gfx/event_pictures/NAGASAKI_DEJIMA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.1_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/FALL_OF_KYOTO_CASTLE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.2_ANGRY_MOB_eventPicture"
+			texturefile = "gfx/event_pictures/TRAINING_FOR_REBELLION_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.3_ANGRY_MOB_eventPicture"
+			texturefile = "gfx/event_pictures/INFLUX_OF_SURVIVORS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.4_NAVAL_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/NEMESIS_SHIP_FIGHT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.5_SHIP_SAILING_eventPicture"
+			texturefile = "gfx/event_pictures/FOREIGN_GIRL_SHIP_SAIL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.6_SHIP_SAILING_eventPicture"
+			texturefile = "gfx/event_pictures/DEJIMA_IN_THE_MORNING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.7_SHIP_SAILING_eventPicture"
+			texturefile = "gfx/event_pictures/DUTCH_WITH_GEISHA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.8_SHIP_SAILING_eventPicture"
+			texturefile = "gfx/event_pictures/SHIP_DE_LIEFDE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.9_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/PORTUGUESE_ARRIVE_IN_JAPAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.10_ASSASSINATION_eventPicture"
+			texturefile = "gfx/event_pictures/FIGHTING_OFF_INTRUDERS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.11_CITY_DEVELOPMENT_eventPicture"
+			texturefile = "gfx/event_pictures/CASTLE_TOWN_JAPAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.12_THEATRE_eventPicture"
+			texturefile = "gfx/event_pictures/KABUKI_THEATER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.13_UNIVERSITY_eventPicture"
+			texturefile = "gfx/event_pictures/TEACHING_ABACUS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.14_LAND_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/ARQUEBUS_JAPAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.15_MERCHANTS_TALKING_eventPicture"
+			texturefile = "gfx/event_pictures/TRADERS_JAPANESE_BRIDGE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.16_MERCHANTS_TALKING_eventPicture"
+			texturefile = "gfx/event_pictures/DEALER_IN_BRONZES_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.17_THEATRE_eventPicture"
+			texturefile = "gfx/event_pictures/PRINCESS_FLOWER_AFTERNOON_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.18_IMPORTANT_STATUE_eventPicture"
+			texturefile = "gfx/event_pictures/LARGE_TEMPLE_SQUARE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.19_ANGRY_MOB_eventPicture"
+			texturefile = "gfx/event_pictures/SEKISHO_BRIDGE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.20_REFORM_eventPicture"
+			texturefile = "gfx/event_pictures/BUKE_SHOHATTO_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.21_REFORM_eventPicture"
+			texturefile = "gfx/event_pictures/BUKE_SHOHATTO_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.22_REFORM_eventPicture"
+			texturefile = "gfx/event_pictures/GOKAIDO_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.23_REFORM_eventPicture"
+			texturefile = "gfx/event_pictures/MERCHANTS_IN_PORT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.24_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/GOLDEN_AGE_FESTIVAL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.25_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/CONFUCIUS_JAPAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.26_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/CHIVALROUS_COMMONERS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.27_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/BUDDHIST_NIO_TEMPLE_GUARD_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.28_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/FEUDAL_JAPAN_FAMILIES_WAR_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.29_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/ROYAL_PROCESSION_EMPEROR_JAPAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.30_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/FATHER_WITH_CHILDREN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.31_BATTLE_eventPicture"
+			texturefile = "gfx/event_pictures/SAMURAI_LOCAL_AUTHORITY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.32_ANGRY_MOB_eventPicture"
+			texturefile = "gfx/event_pictures/ARMED_MOB_UPRISING_JAPAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.33_ANGRY_MOB_eventPicture"
+			texturefile = "gfx/event_pictures/SWORD_HUNT_SUCCESS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.34_ANGRY_MOB_eventPicture"
+			texturefile = "gfx/event_pictures/END_SWORT_HUNT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.35_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/CHRISTIAN_GRAVES_JAPAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.36_ASSASSINATION_eventPicture"
+			texturefile = "gfx/event_pictures/NINJA_SPYING_LORD_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.37_ASSASSINATION_eventPicture"
+			texturefile = "gfx/event_pictures/NINJA_BIG_INVASION_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.38_ASSASSINATION_eventPicture"
+			texturefile = "gfx/event_pictures/LEFT_OVER_NINJA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.39_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/TEA_CULTURE_PREPARATION_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.40_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/TEA_CEREMONY_VISIT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.41_NEW_HEIR_eventPicture"
+			texturefile = "gfx/event_pictures/HEIRLESS_JAPANESE_NOBLE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.42_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/LOST_GAME_OF_GO_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.43_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/STREET_PROSPERITY_JAPAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.44_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/AMBITIOUS_RULER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.45_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/LACQUERWARE_CHEST_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.46_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/SAKE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.47_LAND_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/LEVIES_OR_TAXES_CENUS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.48_ELECTION_REPUBLICAN_eventPicture"
+			texturefile = "gfx/event_pictures/SWORD_AND_LETTER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.49_ELECTION_REPUBLICAN_eventPicture"
+			texturefile = "gfx/event_pictures/RONIN_IN_AMBUSH_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.50_NEW_HEIR_eventPicture"
+			texturefile = "gfx/event_pictures/RETURNED_CAPTIVE_BOY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.51_MILITARY_CAMP_eventPicture"
+			texturefile = "gfx/event_pictures/STEEL_FURNACE_JAPAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.52_ANGRY_MOB_eventPicture"
+			texturefile = "gfx/event_pictures/SHINOBI_LOOTING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.53_MILITARY_CAMP_eventPicture"
+			texturefile = "gfx/event_pictures/RELAXING_SAMURAI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.54_LAND_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/PROUD_JAPANESE_GENERAL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.55_ANGRY_MOB_eventPicture"
+			texturefile = "gfx/event_pictures/JAPANESE_EXECUTION_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.56_BATTLE_eventPicture"
+			texturefile = "gfx/event_pictures/ONIN_FEUDAL_WAR_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.57_BATTLE_eventPicture"
+			texturefile = "gfx/event_pictures/STREET_PROSPERITY_JAPAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.58_BATTLE_eventPicture"
+			texturefile = "gfx/event_pictures/ACCEPT_OF_DEFEAT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.59_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/GREAT_TEMPLE_DAI_BATS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.60_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/GREAT_WAVE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_jap.61_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/GOLD_PAINTING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_kor.1_MILITARY_CAMP_eventPicture"
+			texturefile = "gfx/event_pictures/MANCHU_KOREA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_kor.2_REFORM_eventPicture"
+			texturefile = "gfx/event_pictures/SEJONG_THE_GREAT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_kor.3_REFORM_eventPicture"
+			texturefile = "gfx/event_pictures/LEISURE_CHAT_KOREA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_kor.4_REFORM_eventPicture"
+			texturefile = "gfx/event_pictures/MIDDLE_CLASS_JOSEON_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_kor.5_REFORM_eventPicture"
+			texturefile = "gfx/event_pictures/IRRIGATION_WHEEL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_kor.6_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/YI_SUN_SIN_TRIAL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mch.1_REFORM_eventPicture"
+			texturefile = "gfx/event_pictures/KHAN_NURHACI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mch.2_HORDE_ON_HORSEBACK_eventPicture"
+			texturefile = "gfx/event_pictures/GROUP_OF_CHINESE_RIDERS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mch.3_REFORM_eventPicture"
+			texturefile = "gfx/event_pictures/BOW_MAN_TRAINING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mch.4_LAND_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_BUILDING_IN_RUIN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mch.5_BATTLE_eventPicture"
+			texturefile = "gfx/event_pictures/COSTUMES_OF_IMPERIAL_MANDARIN_SOLDIERS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mch.6_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/TWO_CHINESE_CHRISTIAN_PRIESTS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mch.7_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/HESHEN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.1_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/ZHENG_HE_TRADITIONAL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.2_REVOLUTION_eventPicture"
+			texturefile = "gfx/event_pictures/GREAT_WALL_OF_CHINA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.3_REVOLUTION_eventPicture"
+			texturefile = "gfx/event_pictures/GREAT_WALL_OF_CHINA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.4_IMPORTANT_STATUE_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_VASE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.5_MERCHANTS_TALKING_eventPicture"
+			texturefile = "gfx/event_pictures/ESTUARY_TAHEA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.6_REFORM_eventPicture"
+			texturefile = "gfx/event_pictures/QI_JIQUANG_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.7_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/JESUIT_TANG_RUOWANG_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.8_FAMINE_eventPicture"
+			texturefile = "gfx/event_pictures/FAMINE_CHINA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.9_ANGRY_MOB_eventPicture"
+			texturefile = "gfx/event_pictures/MANCHU_REBELLION_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.10_ANGRY_MOB_eventPicture"
+			texturefile = "gfx/event_pictures/AUDIENCE_HALL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.11_ECONOMY_eventPicture"
+			texturefile = "gfx/event_pictures/CITY_STREET_BUSTLING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.12_ANGRY_MOB_eventPicture"
+			texturefile = "gfx/event_pictures/LI_ZECHENG_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.13_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/WESTERN_TEACHER_CHINESE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.14_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/NIOHURU_HESHEN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.15_DIPLOMACY_eventPicture"
+			texturefile = "gfx/event_pictures/LORD_MACARTNEY_DIPLOMACY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.16_ANGRY_MOB_eventPicture"
+			texturefile = "gfx/event_pictures/AUDIENCE_HALL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.17_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/CHINA_ON_ICE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.18_DIPLOMACY_eventPicture"
+			texturefile = "gfx/event_pictures/MATTEO_RICCI_eventPicture.dds"
+			allwaystransparent = yes
+		}		
+	spriteType = {
+			name = "flavor_mng.19_BIG_BOOK_eventPicture"
+			texturefile = "gfx/event_pictures/KUNYU_WANGUO_QUANTU_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.20_UNIVERSITY_eventPicture"
+			texturefile = "gfx/event_pictures/ALESSANDRO_VALIGNANO_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.21_BUDDHA_eventPicture"
+			texturefile = "gfx/event_pictures/PUZZLING_PRIESTS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.22_ST_PETERS_CHURCH_eventPicture"
+			texturefile = "gfx/event_pictures/ATTACK_ON_WESTERNERS_CHINA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.23_ST_PETERS_CHURCH_eventPicture"
+			texturefile = "gfx/event_pictures/ATTACK_ON_WESTERNERS_CHINA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.24_RELIGIOUS_CONVERSION_eventPicture"
+			texturefile = "gfx/event_pictures/GRAND_TEMPLE_POO-TOO_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.25_RELIGIOUS_CONVERSION_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_WOMAN_RECLINED_PARROT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_mng.26_RELIGIOUS_CONVERSION_eventPicture_eventPicture"
+			texturefile = "gfx/event_pictures/PORTRAIT_OF_HESING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_tib.1_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/TIBET_POTALA_PALACE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "meritocracy_events.1_IMPERIAL_EXAMINATION_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_PAMPHLETER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "meritocracy_events.2_IMPERIAL_EXAMINATION_eventPicture"
+			texturefile = "gfx/event_pictures/CANTON_STREET_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "meritocracy_events.3_MERITOCRACY_eventPicture"
+			texturefile = "gfx/event_pictures/GRAND_SECRETARIAT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "meritocracy_events.4_IMPERIAL_EXAMINATION_eventPicture"
+			texturefile = "gfx/event_pictures/ASKING_FOR_SUITS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "meritocracy_events.5_MERITOCRACY_eventPicture"
+			texturefile = "gfx/event_pictures/THREATENING_DARKNESS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "prices.2_TRADEGOODS_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_VASE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.1_WOKOU_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/WOKOU_JUNK_WAITING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.2_WOKOU_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/NAGASAKI_JUNKS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.3_WOKOU_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/COAST_SIMODA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.4_WOKOU_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/ATTACK_ON_PIRATE_SQUADRON_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.5_WOKOU_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/MARTYR_CHAPDELAINE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.6_WOKOU_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/COASTAL_PATROL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.7_URBANISATION_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/RAINY_SHABBY_STREET_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.8_URBANISATION_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/GOD_OF_POVERTY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.9_URBANISATION_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/MERCHANT_DELEGATION_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.10_URBANISATION_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/SNOW_AT_MIYAJIMA_TEMPLE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.11_URBANISATION_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/IMPERIAL_PALACE_KYOTO_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.12_URBANISATION_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/CONSTRUCTION_TOWN_JAPAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.13_IKKO_IKKI_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/BUDDHIST_TEMPLE_NAGASAKI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.14_IKKO_IKKI_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/SHRINE_AT_SHIBA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.15_IKKO_IKKI_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/IKKO_IKKI_TAX_COLLECTION_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.16_IKKO_IKKI_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/IKKO_IKKI_UNDER_CONTROL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.17_IKKO_IKKI_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/SAMURAI_FORCED_BACK_SYMBOLIC_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.18_IKKO_IKKI_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/BUDDHIST_MINISTERS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.19_NEO_CONFUCIANISM_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/TRIBUNE_DAIMYO_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.20_WOKOU_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/NAGASAKI_JUNKS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.21_NEO_CONFUCIANISM_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/JAPANESE_INVESTITURE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.22_NEO_CONFUCIANISM_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/FUTAMI_GA_URA_ROCKS_AT_ISE_LAND_OF_DAWN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.23_NEO_CONFUCIANISM_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/POET_WRITING_AT_NIGHT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.24_NEO_CONFUCIANISM_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/ZHU_XI_RITES_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.25_NANBAN_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/SHOGUN_WILLIAM_ADAMS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.26_NANBAN_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/PLOTTING_NANBAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.27_NANBAN_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/CIRCULATING_LIBRARY_RANGAKU_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.28_NANBAN_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/MOCHI_MAKER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.29_NANBAN_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/JAPANESE_IN_EUROPE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.30_NANBAN_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/TOWN _OF_SHIMONOSEKI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.31_NANBAN_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/DEJIMA_SOLE_PORT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.32_FIREARMS_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/JAPANESE_INSPECTING_DUTCH_GOODS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.33_FIREARMS_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/FLINTLOCK_DESIGN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.34_FIREARMS_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/TRADITION_OF_THE_BOW_JAPAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.35_FIREARMS_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/MUSKET_USE_IN_JAPANESE_BATTLE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.36_FIREARMS_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/JAPANESE_MUSKET_UNIT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.37_FIREARMS_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/FLOWER_SWORD_BLOW_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.38_SHOGUNATE_AUTHORITY_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/HOLY_TORTURE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.39_NANBAN_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/GIVING_ALMS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.40_NANBAN_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/CHRISTIAN_TRADERS_ON_INVITE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.41_SHOGUNATE_AUTHORITY_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/WRITING_JAPANESE_POET_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.42_NEO_CONFUCIANISM_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/SHINTO_CEREMONY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.43_NEO_CONFUCIANISM_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/CATHOLIC_LEADER_AND_SAMURAI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.44_NEO_CONFUCIANISM_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/TWO_BUDDHIST_PRIEST_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.45_SUFFERING_CHINESE_VILLAGE_eventPicture"
+			texturefile = "gfx/event_pictures/PORT_WAREHOUSE_FIRE_CHINESE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.46_SHOGUNATE_AUTHORITY_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/JAPANESE_ANGEL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.47_SHOGUNATE_AUTHORITY_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_CHRISTIANITY_GROUP_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.48_SHOGUNATE_AUTHORITY_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/WESTERN_SHIPS_ARRIVING_AT_ASIAN_COAST_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.49_SHOGUNATE_AUTHORITY_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/SAINTS_CRUCIFIXION_JAPAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.50_SHOGUNATE_AUTHORITY_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/JAPANESE_SURPRISE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.51_SHOGUNATE_AUTHORITY_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/JAPANESE_FAMILY_GROUP_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.52_SHOGUNATE_AUTHORITY_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/FEARING_SCRUTINY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.53_SHOGUNATE_AUTHORITY_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/OFFERED_APOLOGY_JAPANESE_NOBLE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.54_SHOGUNATE_AUTHORITY_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/INDULGENT_HEIR_JAPAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.55_SHOGUNATE_AUTHORITY_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/JAPANESE_NOBLE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.56_SHOGUNATE_AUTHORITY_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/DAIMYO_DELEGATION_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.57_SHOGUNATE_AUTHORITY_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/DAIMYO_DELEGATION_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "shinto_events.58_SHOGUNATE_AUTHORITY_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/PEASANT_CONSCRIPTS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.1_MERITOCRACY_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_LADIES_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.2_TRIBUTARY_FLEET_eventPicture"
+			texturefile = "gfx/event_pictures/THEATRE_TIEN_SIN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.3_IMPERIAL_SEAL_eventPicture"
+			texturefile = "gfx/event_pictures/EMPEROR_PARTY_OUTDOORS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.4_GIFTS_TO_EMPEROR_eventPicture"
+			texturefile = "gfx/event_pictures/ZHU_DI_EMPEROR_ENTRANCE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.5_MERITOCRACY_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_ASTRONOMERS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.6_TRIBUTARY_FLEET_eventPicture"
+			texturefile = "gfx/event_pictures/DRAGON_BOAT_FESTIVAL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.7_GIFTS_TO_EMPEROR_eventPicture"
+			texturefile = "gfx/event_pictures/MENCIUS_TALKS_POLITICS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.8_GIFTS_TO_EMPEROR_eventPicture"
+			texturefile = "gfx/event_pictures/BIRD_MERCHANT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.9_MERITOCRACY_eventPicture"
+			texturefile = "gfx/event_pictures/AUDIENCE_WITH_EMPEROR_OUTSIDE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.10_WOKOU_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/RUMBLE_ROOM_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.11_WOKOU_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/FLOWER_BOAT_SHANGHAI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.12_WOKOU_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/TREASURES_BEING_CARRIED_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.13_TRIBUTARY_FLEET_eventPicture"
+			texturefile = "gfx/event_pictures/LOADING_TEA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.14_TRIBUTARY_FLEET_eventPicture"
+			texturefile = "gfx/event_pictures/CAP_VENDOR_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.15_TRIBUTARY_FLEET_eventPicture"
+			texturefile = "gfx/event_pictures/LANTERN_MERCHANT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.16_WOKOU_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/EMPRESS_DUTY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.17_GIFTS_TO_EMPEROR_eventPicture"
+			texturefile = "gfx/event_pictures/YOUNG_SCHOOL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.18_WOKOU_INCIDENT_eventPicture"
+			texturefile = "gfx/event_pictures/NEMESIS_SHIP_FIGHT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.19_GIFTS_TO_EMPEROR_eventPicture"
+			texturefile = "gfx/event_pictures/MONGOLS_TRAVELING_TO_CHINA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.20_GIFTS_TO_EMPEROR_eventPicture"
+			texturefile = "gfx/event_pictures/ARRIVAL_HARBOR_VILLAGE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.21_GIFTS_TO_EMPEROR_eventPicture"
+			texturefile = "gfx/event_pictures/PIRATE_HAVEN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.22_GIFTS_TO_EMPEROR_eventPicture"
+			texturefile = "gfx/event_pictures/BELLS_INSTRUMENTS_DANCE_AT_DUNHUANG_AT_SILK_ROAD_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.23_CHINESE_GENERAL_eventPicture"
+			texturefile = "gfx/event_pictures/IMPERIAL_PALACE_BEIJING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.24_TRIBUTARY_FLEET_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_JUNK_SHIP_WITH_HOLES_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.25_CHINESE_GENERAL_eventPicture"
+			texturefile = "gfx/event_pictures/HOT_FIGHTING_ROUND_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.26_BORDER_TENSION_eventPicture"
+			texturefile = "gfx/event_pictures/DANCING_WITH_SWORDS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.27_CHINESE_GENERAL_eventPicture"
+			texturefile = "gfx/event_pictures/CONSULTING_CHINESE_FORTUNE_TELLER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.28_CHINESE_GENERAL_eventPicture"
+			texturefile = "gfx/event_pictures/FIGHT_BETWEEN_LION_AND_TIGER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.29_GIFTS_TO_EMPEROR_eventPicture"
+			texturefile = "gfx/event_pictures/CROSSING_FOOCHOW_BRIDGE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.30_CHINESE_GENERAL_eventPicture"
+			texturefile = "gfx/event_pictures/QIN_ARMY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.31_CHINESE_GENERAL_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_EMBASSY_NORTH_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "tributary_events.32_IMPERIAL_SEAL_eventPicture"
+			texturefile = "gfx/event_pictures/VICTORIOUS_ARMY_UNDER_PEOPLE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+}

@@ -1,0 +1,2082 @@
+spriteTypes = {
+
+    spriteType = {
+        name = "flavor_gra.1_BIG_BOOK_eventPicture"
+        texturefile = "gfx/event_pictures/SALIDA_FAMILY_LEAVING_ALHAMBRA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.1_HORDE_ON_HORSEBACK_eventPicture"
+        texturefile = "gfx/event_pictures/FALL_OF_CONSTANTINOPLE_EAGLE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.10_REVOLUTION_eventPicture"
+        texturefile = "gfx/event_pictures/MEDINA_VIEW_OF_BEYONDS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.11_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/SPAIN_MAMLUKS_RELATIONS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.12_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/SPAIN_MAMLUKS_RELATIONS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.13_PLAGUE_eventPicture"
+        texturefile = "gfx/event_pictures/BLACK_DEATH_CAIRO_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.14_ECONOMY_eventPicture"
+        texturefile = "gfx/event_pictures/DUCATS_ON_TABLE_JEWISH_BANKER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.15_MERCHANTS_TALKING_eventPicture"
+        texturefile = "gfx/event_pictures/BATTLE_OF_DIU_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.16_MERCHANTS_TALKING_eventPicture"
+        texturefile = "gfx/event_pictures/BATTLE_OF_DIU_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.17_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/PERSIAN_AMBASSADOR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.18_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/PERSIAN_AMBASSADOR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.19_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/PERSIAN_AMBASSADOR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.2_UNIVERSITY_eventPicture"
+        texturefile = "gfx/event_pictures/QASABA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.20_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/AMBASSADOR_RETURNS_FROM_VENICE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.21_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/PERSIAN_AMBASSADOR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.22_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/PERSIAN_AMBASSADOR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.3_NEW_HEIR_eventPicture"
+        texturefile = "gfx/event_pictures/BODYGUARDS_DOOR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.4_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/USURPER_JACQUES_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.5_NEW_HEIR_eventPicture"
+        texturefile = "gfx/event_pictures/NEW_KING_OF_CYPRUS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.6_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/QUEEN_OF_CYPRUS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.7_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/JACQUES_THE_CAT_MAMLUKS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.8_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/IBN_TAGHRIBIRDI_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mam.9_DEBATE_REPUBLICAN_eventPicture"
+        texturefile = "gfx/event_pictures/BACK_MAMLUK_NOBLE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mor.1_FAMINE_eventPicture"
+        texturefile = "gfx/event_pictures/ARAB_CHIEFTAIN_MOROCCO_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mor.10_BORDER_TENSION_eventPicture"
+        texturefile = "gfx/event_pictures/TUAT_OASIS_ARMY_MORROCANS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mor.11_FAMINE_eventPicture"
+        texturefile = "gfx/event_pictures/ARAB_CHIEFTAIN_MOROCCO_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mor.2_HARBOUR_eventPicture"
+        texturefile = "gfx/event_pictures/EXPULSION_MOORS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mor.3_BIG_BOOK_eventPicture"
+        texturefile = "gfx/event_pictures/DALAIL_AL_KHAYRAT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mor.4_RELIGIOUS_CONVERSION_eventPicture"
+        texturefile = "gfx/event_pictures/IDRISID_SHARIFS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mor.5_KING_SICK_IN_BED_eventPicture"
+        texturefile = "gfx/event_pictures/MOOR_WITH_TIGER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mor.6_ACCUSATION_eventPicture"
+        texturefile = "gfx/event_pictures/WATTASID_GROW_IN_POWER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mor.7_CIVIL_WAR_eventPicture"
+        texturefile = "gfx/event_pictures/BEHEADED_WATTASID_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mor.8_CIVIL_WAR_eventPicture"
+        texturefile = "gfx/event_pictures/WATTASID_OPEN_REVOLT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_mor.9_EXPLORERS_eventPicture"
+        texturefile = "gfx/event_pictures/GOLDEN_CARAVAN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_oma.1_LIBERUM_VETO_eventPicture"
+        texturefile = "gfx/event_pictures/IMAM_WORSHIP_QUESTION_DUKE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_oma.2_BATTLE_eventPicture"
+        texturefile = "gfx/event_pictures/VASCO_DE_GAMA_OMAN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_oma.3_MILITARY_CAMP_eventPicture"
+        texturefile = "gfx/event_pictures/VASCO_DE_GAMA_OMAN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_oma.4_SHIP_SAILING_eventPicture"
+        texturefile = "gfx/event_pictures/OMANI_HARBOR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.1_REFORM_eventPicture"
+        texturefile = "gfx/event_pictures/SHAH_PERSIA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.10_RELIGIOUS_CONVERSION_eventPicture"
+        texturefile = "gfx/event_pictures/MUSHA_SHA_IYYAH_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.11_RELIGIOUS_CONVERSION_eventPicture"
+        texturefile = "gfx/event_pictures/ISLAMIC_SECT_TEACHINGS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.12_RELIGIOUS_TURMOIL_eventPicture"
+        texturefile = "gfx/event_pictures/KURDISH_TURKS_JANISSARY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.13_RELIGIOUS_CONVERSION_eventPicture"
+        texturefile = "gfx/event_pictures/FUTURE_OF_PERSIA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.14_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/ULEMA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.15_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/SHIITE_BRAIN_DRAIN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.16_CITY_VIEW_eventPicture"
+        texturefile = "gfx/event_pictures/ISFAHAN_MOSQUE_INSIDE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.17_CITY_VIEW_eventPicture"
+        texturefile = "gfx/event_pictures/ISFAHAN_MOSQUE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.2_REFORM_eventPicture"
+        texturefile = "gfx/event_pictures/SHAH_ABBAS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.3_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/ROBERT_SHIRLEY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.3560_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/PERSIAN_TURKMEN_REVOLT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.3562_BATTLE_eventPicture"
+        texturefile = "gfx/event_pictures/OTTOMAN_SAFAVID_WAR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.3563_LAND_MILITARY_eventPicture"
+        texturefile = "gfx/event_pictures/SPAHI_REVOLTS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.4_LIBERUM_VETO_eventPicture"
+        texturefile = "gfx/event_pictures/TURKMEN_WANING_POWER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.5_LIBERUM_VETO_eventPicture"
+        texturefile = "gfx/event_pictures/BEGIN_OF_CHAOS_PERSIA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.6_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/MIRWAIS_KHAN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.7_BIG_BOOK_eventPicture"
+        texturefile = "gfx/event_pictures/PERSIAN_MINIATURE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.8_BIG_BOOK_eventPicture"
+        texturefile = "gfx/event_pictures/ISKANDAR_MUNSHI_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_per.9_PRAYING_eventPicture"
+        texturefile = "gfx/event_pictures/LEAVING_ORIENTAL_LARGE_CITY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.1_RAMADAN_eventPicture"
+        texturefile = "gfx/event_pictures/RAMADAN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.10_REFORM_eventPicture"
+        texturefile = "gfx/event_pictures/AURANGZEB_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.11_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/CELESTIAL_GLOBE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.12_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/MIAN_MIR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.13_REVOLUTION_eventPicture"
+        texturefile = "gfx/event_pictures/CONSTANTINOPLE_FROM_ABOVE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.14_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/CHISHTI_ORDER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.15_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/QADIRIYYA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.16_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/IMAM_PREACHING_RULER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.17_REVOLUTION_eventPicture"
+        texturefile = "gfx/event_pictures/GHULAMS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.18_PAINTER_ARTIST_eventPicture"
+        texturefile = "gfx/event_pictures/REZA_ABBASI_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.19_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/ISTANBUL_ASTRONOMY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.2_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/BREAKING_THE_FAST_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.20_MOSQUE_HAGA_SOPHIA_eventPicture"
+        texturefile = "gfx/event_pictures/MUSLIM_HAGHIA_SOPHIA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.21_UNIVERSITY_eventPicture"
+        texturefile = "gfx/event_pictures/MADRASSA_CHILDREN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.22_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/WELL_IN_DESERT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.23_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/ISLAMIC_OLD_SURGEON_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.24_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/ISLAMIC_ASTRONOMER_BIRANI_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.25_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/ABRAHAMIC_GOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.26_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/MAHDI_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.27_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/SHIITE_AND_SUNNI_IN_TENT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.28_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/SHIITE_AND_SUNNI_IN_TENT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.3_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/RULERS_TOGETHER_BREAKING_FAST_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.4_HAJJ_eventPicture"
+        texturefile = "gfx/event_pictures/HAJJ_ENTOURAGE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.5_HAJJ_eventPicture"
+        texturefile = "gfx/event_pictures/HAJJ_IN_FRONT_OF_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.6_HAJJ_eventPicture"
+        texturefile = "gfx/event_pictures/MECCA_HAJJ_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.7_GREAT_BUILDING_eventPicture"
+        texturefile = "gfx/event_pictures/MOSQUE_MECCA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.8_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/FUTUWWA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_dlc.9_REFORM_eventPicture"
+        texturefile = "gfx/event_pictures/MURAD_IV_NIGHT_RAIDS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.1_RELIGIOUS_TURMOIL_eventPicture"
+        texturefile = "gfx/event_pictures/FURNITURE_MAKER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.10_WOUNDED_SOLDIERS_eventPicture"
+        texturefile = "gfx/event_pictures/CAVALRY_MEN_ISLAMIC_POSING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.11_ECONOMY_eventPicture"
+        texturefile = "gfx/event_pictures/FOOD_FOR_THE_POOR_ISLAM_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.12_REFORM_eventPicture"
+        texturefile = "gfx/event_pictures/ABRAHAM_TO_THE_STARS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.13_RELIGIOUS_TURMOIL_eventPicture"
+        texturefile = "gfx/event_pictures/ISLAMIC_REVOLT_GATHERING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.14_BATTLE_eventPicture"
+        texturefile = "gfx/event_pictures/NON_MUSLIM_OTTOMAN_RECRUITS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.15_ECONOMY_eventPicture"
+        texturefile = "gfx/event_pictures/IMAM_READING_BOOK_GOLD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.16_CORRUPTION_eventPicture"
+        texturefile = "gfx/event_pictures/RAMPANT_CORRUPTION_JEWELRY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.2_CORRUPTION_eventPicture"
+        texturefile = "gfx/event_pictures/IMAMS_ASKING_FOR_ALMS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.20_DEATH_OF_HEIR_eventPicture"
+        texturefile = "gfx/event_pictures/PUNISHING_CHILD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.21_MOSQUE_HAGA_SOPHIA_eventPicture"
+        texturefile = "gfx/event_pictures/MUSLIM_HAGHIA_SOPHIA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.3_INVENTION_eventPicture"
+        texturefile = "gfx/event_pictures/HERETICAL_IMAM_RESEARCH_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.4_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/BOOK_BURNING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.5_HORDE_ON_HORSEBACK_eventPicture"
+        texturefile = "gfx/event_pictures/BRIGANDS_TRAVELING_THROUGH_MOUNTAIN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.6_ACCUSATION_eventPicture"
+        texturefile = "gfx/event_pictures/WESTERNER_PORTRAIT_MIDDLE_EAST_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.7_RELIGIOUS_TURMOIL_eventPicture"
+        texturefile = "gfx/event_pictures/TURKISH_REFUGEES_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.8_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/SLAUGHTERED_DHIMMI_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.9_INVENTION_eventPicture"
+        texturefile = "gfx/event_pictures/ISAAC_NEWTON_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "cultural_event.8_INVENTION_eventPicture"
+        texturefile = "gfx/event_pictures/DWANI_SCRIPT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.200_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/IMAM_KHATIB_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.201_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/AL_SHURA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.202_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/PEOPLE_AT_FOUNTAIN_ORIENT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.203_FARMING_eventPicture"
+        texturefile = "gfx/event_pictures/TAXES_COINS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.204_BIG_BOOK_eventPicture"
+        texturefile = "gfx/event_pictures/FATIMA_WOMAN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.205_MERCHANTS_TALKING_eventPicture"
+        texturefile = "gfx/event_pictures/SEATED_BAZAAR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.206_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/SMASHING_IDOLS_MIDDLE_EAST_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.207_CORRUPTION_eventPicture"
+        texturefile = "gfx/event_pictures/CORRUPT_OFFICIAL_ORIENT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.208_ACCUSATION_eventPicture"
+        texturefile = "gfx/event_pictures/READING_THE_QURAN_PRONED_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.209_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/OLD_MAN_IN_HAREM_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.21_DEBATE_REPUBLICAN_eventPicture"
+        texturefile = "gfx/event_pictures/SECULAR_MOB_IN_FRONT_OF_GATE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.210_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/ISLAMIC_RELIGIOUS_CEREMONY_UPHEAVEL_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.211_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/RELIGIOUS_CEREMONY_UPHEAVEL_PROCESSION_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.212_DEBATE_REPUBLICAN_eventPicture"
+        texturefile = "gfx/event_pictures/MAKING_STORIES_DECEIT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.213_ACCUSATION_eventPicture"
+        texturefile = "gfx/event_pictures/MANUSCRIPTS_IDOLTARY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.214_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/WALL_PRAYER_ORIENT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.215_FARMING_eventPicture"
+        texturefile = "gfx/event_pictures/DUST_STORM_HERDER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.216_REFORM_eventPicture"
+        texturefile = "gfx/event_pictures/RURAL_CARPET_GIRL_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.217_UNIVERSITY_eventPicture"
+        texturefile = "gfx/event_pictures/MADRASSA_FREE_FOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.218_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/LOOKING_OVER_PAPERS_RULER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "devotion_events.219_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/IMAM_COMING_FOR_VISIT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "janissary_decadence.1_MILITARY_CAMP_eventPicture"
+        texturefile = "gfx/event_pictures/JANISSARY_OFFICERS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "janissary_decadence.100_LAND_MILITARY_eventPicture"
+        texturefile = "gfx/event_pictures/JANISSARY_CORRUPTION_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "janissary_decadence.2_ASSASSINATION_eventPicture"
+        texturefile = "gfx/event_pictures/JANNISARRY_CIVIL_WAR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "janissary_decadence.3_BATTLE_eventPicture"
+        texturefile = "gfx/event_pictures/POLES_DEFEAT_OTTOMANS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "janissary_decadence.4_MILITARY_CAMP_eventPicture"
+        texturefile = "gfx/event_pictures/INCAPABLE_JANISSARY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "dhimmi_estate_events.1_DHIMMI_ESTATE_UPSET_eventPicture"
+        texturefile = "gfx/event_pictures/MUSLIMS_ATTACKING_CHURCH_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "dhimmi_estate_events.2_DHIMMI_ESTATE_UPSET_eventPicture"
+        texturefile = "gfx/event_pictures/PROCESSION_TO_THE_MOSQUE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "dhimmi_estate_events.3_DHIMMI_ESTATE_eventPicture"
+        texturefile = "gfx/event_pictures/EUROPEAN_MERCHANTS_ORIENT_DOCK_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "dhimmi_estate_events.4_DHIMMI_ESTATE_eventPicture"
+        texturefile = "gfx/event_pictures/STANDING_ON_MAN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "dhimmi_estate_events.5_DHIMMI_ESTATE_eventPicture"
+        texturefile = "gfx/event_pictures/DHIMMI_INSULTED_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "dhimmi_estate_events.6_DHIMMI_ESTATE_eventPicture"
+        texturefile = "gfx/event_pictures/ORIENT_COCKY_EUROPEAN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "dhimmi_estate_events.7_DHIMMI_ESTATE_UPSET_eventPicture"
+        texturefile = "gfx/event_pictures/WOODEN_RUINS_AT_SEA_PORT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "dhimmi_estate_events.8_DHIMMI_ESTATE_eventPicture"
+        texturefile = "gfx/event_pictures/DHIMMI_IN_TOWN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "dhimmi_estate_events.9_DHIMMI_ESTATE_UPSET_eventPicture"
+        texturefile = "gfx/event_pictures/GREEK_REVOLT_AGAINST_TURKS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_cri.1_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/CRIMEAN_SULTAN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_cri.2_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/CRIMEAN_OPPORTUNITY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_cri.3_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/CRIMEAN_OPPORTUNITY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_cri.4_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/CRIMEAN_ACCEPT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_cri.5_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/CRIMEAN_REJECT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_cri.6_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/MENGLI_GIRAY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_cri.7_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/MENGLI_GIRAY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.1_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/AFTER_CONQUEST_ORIENT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.100_MILITARY_CAMP_eventPicture"
+        texturefile = "gfx/event_pictures/JANISSARY_RULER_LEADING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.101_MILITARY_CAMP_eventPicture"
+        texturefile = "gfx/event_pictures/CHILD_SLAVE_TRADE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.102_MILITARY_CAMP_eventPicture"
+        texturefile = "gfx/event_pictures/UNRULY_JANISSARY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.105_MILITARY_CAMP_eventPicture"
+        texturefile = "gfx/event_pictures/ARNAUT_AND_DOG_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.106_MILITARY_CAMP_eventPicture"
+        texturefile = "gfx/event_pictures/DISSOLUTION_JANISSARY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.111_LAND_MILITARY_eventPicture"
+        texturefile = "gfx/event_pictures/JANISSARY_DEMAND_PAY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.2_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/GOOD_NEWS_PERSIAN_ENVOY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/BAD_NEWS_PERSIAN_ENVOY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3352_REFORM_eventPicture"
+        texturefile = "gfx/event_pictures/PORT_ISTANBUL_LOADING_SHIP_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3354_REFORM_eventPicture"
+        texturefile = "gfx/event_pictures/SULEIMAN_ARMY_AND_NAVY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3357_UNIVERSITY_eventPicture"
+        texturefile = "gfx/event_pictures/ENDERUN_ACADAMY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3358_REFORM_eventPicture"
+        texturefile = "gfx/event_pictures/CODIFYING_LAW_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3359_BATTLE_eventPicture"
+        texturefile = "gfx/event_pictures/CONQUEST_ENTRANCE_CITY_BODIES_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3360_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/SHIITE_REBELLION_CRUSHED_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3362_BATTLE_eventPicture"
+        texturefile = "gfx/event_pictures/MURAD_III_CONCUBINE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3363_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/OTTOMAN_BATTLE_CHARGE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3366_COURT_eventPicture"
+        texturefile = "gfx/event_pictures/SULEIMAN_THE_MAGNIFICENT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3367_REFORM_eventPicture"
+        texturefile = "gfx/event_pictures/SELIM_CONSTRUCTION_NAVY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3368_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/REVOLT_CEM_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3370_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/OTTOMAN_BATTLE_OF_BROTHERS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3371_COURT_eventPicture"
+        texturefile = "gfx/event_pictures/OTTOMAN_VICTORY_MAMLUK_CELEBRATION_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3373_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/EGYPT_REVOLT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3374_UNIVERSITY_eventPicture"
+        texturefile = "gfx/event_pictures/GREAT_CONSTRUCTIONS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3375_REFORM_eventPicture"
+        texturefile = "gfx/event_pictures/SULEIMAN_THE_LAWGIVER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3377_COURT_eventPicture"
+        texturefile = "gfx/event_pictures/SULTANA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3384_DEATH_OF_HEIR_eventPicture"
+        texturefile = "gfx/event_pictures/SULTANA_STRANGLED_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3385_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/MEHMED_KOPRULU_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3386_REFORM_eventPicture"
+        texturefile = "gfx/event_pictures/KEMANKES_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3387_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/AFTER_CONQUEST_ORIENT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3391_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/ALI_AGHA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3392_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/ALGERIAN_REBEL_SULTAN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3394_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/SULTAN_EGYPT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3395_PLAGUE_eventPicture"
+        texturefile = "gfx/event_pictures/OTTOMAN_HOSPICE_CARE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3750_COURT_eventPicture"
+        texturefile = "gfx/event_pictures/PATRIARCH_CONSTANTINOPLE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.3897_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/BEY_OF_ALGIERS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.5_COURT_eventPicture"
+        texturefile = "gfx/event_pictures/TWO_KALIFS_DISCUSSING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.1_3_SONS_eventPicture"
+        texturefile = "gfx/event_pictures/CHILDREN_OF_SULTANA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.10_SPY_eventPicture"
+        texturefile = "gfx/event_pictures/KNIVING_WOMAN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.11_QUEEN_AND_MALE_HEIR_eventPicture"
+        texturefile = "gfx/event_pictures/HEIR_ABSOLVED_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.12_3_SONS_eventPicture"
+        texturefile = "gfx/event_pictures/HEIR_ORGANIZES_ARMY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.13_DEATH_OF_HEIR_eventPicture"
+        texturefile = "gfx/event_pictures/ASSASSIN_HAREM_SUCCESS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.14_3_SONS_eventPicture"
+        texturefile = "gfx/event_pictures/HEIR_FLEES_CONSTANTINOPLE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.15_MILITARISTICALLY_TALENTED_RULER_eventPicture"
+        texturefile = "gfx/event_pictures/OTTOMAN_GOVERNER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.16_COURT_INTRIGUE_eventPicture"
+        texturefile = "gfx/event_pictures/SULTANA_TENDING_TO_HERSELF_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.17_COURT_INTRIGUE_eventPicture"
+        texturefile = "gfx/event_pictures/HAREM_GIRL_AT_WINDOW_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.18_QUEEN_AT_COUNCIL_TABLE_eventPicture"
+        texturefile = "gfx/event_pictures/ARISTROCRATIC_HAREM_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.19_QUEEN_AT_COUNCIL_TABLE_eventPicture"
+        texturefile = "gfx/event_pictures/HAREM_CHART_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.2_SWORD_OF_OSMAN_eventPicture"
+        texturefile = "gfx/event_pictures/KILIC_ALAYI_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.20_COURT_INTRIGUE_eventPicture"
+        texturefile = "gfx/event_pictures/HAREM_BATHS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.21_COURT_INTRIGUE_eventPicture"
+        texturefile = "gfx/event_pictures/PRESENTING_NEW_HAREM_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.22_BABBLING_BAFFOON_eventPicture"
+        texturefile = "gfx/event_pictures/LAZY_OTTOMAN_PRINCE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.23_MILITARISTICALLY_TALENTED_RULER_eventPicture"
+        texturefile = "gfx/event_pictures/CALLING_SELF_OTTOMAN_EMPEROR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.24_ECONOMICALLY_TALLANTED_RULER_eventPicture"
+        texturefile = "gfx/event_pictures/PROSPERING_STREET_ORIENT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.3_3_SONS_eventPicture"
+        texturefile = "gfx/event_pictures/PROVINCIAL_GOVERNANCE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.4_3_SONS_eventPicture"
+        texturefile = "gfx/event_pictures/HEIR_IN_HAREM_INDULGING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.5_3_SONS_eventPicture"
+        texturefile = "gfx/event_pictures/HEIR_GRAB_FOR_POWER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.6_3_SONS_eventPicture"
+        texturefile = "gfx/event_pictures/GAZING_ARAB_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.7_3_SONS_eventPicture"
+        texturefile = "gfx/event_pictures/CLAN_SILK_CORD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.8_DEATH_OF_HEIR_eventPicture"
+        texturefile = "gfx/event_pictures/DAVID_MOURNS_SON_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "harem_events.9_QUEEN_AND_MALE_HEIR_eventPicture"
+        texturefile = "gfx/event_pictures/HEIR_IDLING_AWAY_TIME_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "5003_PRAYING_eventPicture"
+        texturefile = "gfx/event_pictures/MUSLIM_INFLUENCES_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "5004_PRAYING_eventPicture"
+        texturefile = "gfx/event_pictures/MUSLIM_INFLUENCES_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "6175_PRAYING_eventPicture"
+        texturefile = "gfx/event_pictures/ALI_FOLLOWING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "6176_PRAYING_eventPicture"
+        texturefile = "gfx/event_pictures/SUNNI_PREACHINGS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "religious_events.19_COURT_eventPicture"
+        texturefile = "gfx/event_pictures/RULER_CONVERTS_TO_ISLAM_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "religious_events.23_COURT_eventPicture"
+        texturefile = "gfx/event_pictures/JEWISH_CONVERSION_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "janissary_decadence.5_REVOLUTION_eventPicture"
+        texturefile = "gfx/event_pictures/EXPLOITED_POPULACE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "janissary_decadence.6_BATTLE_eventPicture"
+        texturefile = "gfx/event_pictures/CHESS_GAME_JANISSARY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "janissary_decadence.7_REVOLUTION_eventPicture"
+        texturefile = "gfx/event_pictures/BEHEADED_HEADS_BEHEADED_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tim.0_OVEREXTENSION_eventPicture"
+        texturefile = "gfx/event_pictures/TIMURID_KING_ILL_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tim.4_OVEREXTENSION_eventPicture"
+        texturefile = "gfx/event_pictures/TIMURID_KING_ILL_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tim.1_COURT_eventPicture"
+        texturefile = "gfx/event_pictures/MASSACRED_WHITE_SHEEP_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tim.2_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/ESTABLISHMENT_IRAN_TURKMEN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tim.3_FORT_eventPicture"
+        texturefile = "gfx/event_pictures/TIMURID_ASTRONOMER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.107_MILITARY_CAMP_eventPicture"
+        texturefile = "gfx/event_pictures/TURKISH_BECOME_JANISSARIES_DECLINE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "flavor_tur.108_MILITARY_CAMP_eventPicture"
+        texturefile = "gfx/event_pictures/CHANGE_IN_MILITARY_COMPOSITION_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "mamluk_events.0_THREE_HEIRS_eventPicture"
+        texturefile = "gfx/event_pictures/COLLAPSED_OLD_MAN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "mamluk_events.1_ACCUSATION_eventPicture"
+        texturefile = "gfx/event_pictures/MAMLUK_GUARD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "mamluk_events.2_SAD_MERCHANT_eventPicture"
+        texturefile = "gfx/event_pictures/OVERPRODUCTION_CROPS_SOLUTION_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "mamluk_events.3_MAMLUK_WARRIORS_eventPicture"
+        texturefile = "gfx/event_pictures/MARCHING_MAMLUKS_ARMY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "mamluk_events.4_THREE_HEIRS_eventPicture"
+        texturefile = "gfx/event_pictures/FACTIONALISM_MAMLUKS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "mamluk_events.5_THREE_HEIRS_eventPicture"
+        texturefile = "gfx/event_pictures/PALACE_COUP_MAMLUKS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "mamluk_events.6_BIG_ARABIAN_CITY_eventPicture"
+        texturefile = "gfx/event_pictures/EAST_VIEW_CAIRO_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "mamluk_events.7_CARAVAN_EVENT_Picture"
+        texturefile = "gfx/event_pictures/HAJJ_PROCESSION_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "mamluk_events.8_QIZILBASH_CAVALRY_CHARGING_eventPicture"
+        texturefile = "gfx/event_pictures/RAID_CARAVAN_RESULT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "mamluk_events.9_MECCA_eventPicture"
+        texturefile = "gfx/event_pictures/PEACEFUL_HAJJ_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "mamluk_events.10_THREE_HEIRS_eventPicture"
+        texturefile = "gfx/event_pictures/NOBILITY_FALCONRY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "mamluk_events.11_THREE_HEIRS_eventPicture"
+        texturefile = "gfx/event_pictures/MIDDLE_EAST_SLAVE_TRADE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "mamluk_events.12_MAMLUK_WARRIORS_eventPicture"
+        texturefile = "gfx/event_pictures/JEREED_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.17_CITY_VIEW_eventPicture"
+        texturefile = "gfx/event_pictures/DHIMMI_BUILDING_RESTRICTIONS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_piety.22_PRAYING_eventPicture"
+        texturefile = "gfx/event_pictures/FRIDAY_PRAYER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_opinion_events.1_MUSLIM_SCHOLAR_WRITING_eventPicture"
+        texturefile = "gfx/event_pictures/DIFFERENT_SCHOOLS_ONE_MOSQUE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_opinion_events.2_MUSLIM_SCHOLAR_WRITING_eventPicture"
+        texturefile = "gfx/event_pictures/MUTUAL_RESPECT_MOSQUE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_opinion_events.3_MUSLIM_SCHOLAR_WRITING_eventPicture"
+        texturefile = "gfx/event_pictures/RELGIOUS_INTOLERANCE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.1_MUSLIM_SCHOLAR_WRITING_eventPicture"
+        texturefile = "gfx/event_pictures/YOUNG_LEARNED_IMAM_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.2_MUSLIM_SCHOLAR_WRITING_eventPicture"
+        texturefile = "gfx/event_pictures/ISLAMIC_SCRIBE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.3_BIG_ARABIAN_CITY_eventPicture"
+        texturefile = "gfx/event_pictures/GOLD_DINARS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.4_QIZILBASH_CAVALRY_CHARGING_eventPicture"
+        texturefile = "gfx/event_pictures/HOLY_WARRIORS_HORSEBACK_ISLAM_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.5_MECCA_eventPicture
+PRAYER_IN_MOSQUE_eventPicture"
+        texturefile = "gfx/event_pictures/JERUSALEM_MOSQUE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.6_PRAYER_IN_MOSQUE_eventPicture"
+        texturefile = "gfx/event_pictures/OUT_OF_SECRECY_SHIA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.7_MYSTIC_IN_PRAYER_eventPicture"
+        texturefile = "gfx/event_pictures/SUFI_BLIND_TRIBAL_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.8_MUSLIM_SCHOLAR_WRITING_eventPicture"
+        texturefile = "gfx/event_pictures/FOREIGN_SCHOLARS_ULEMA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.9_MUSLIM_SCHOLAR_WRITING_eventPicture"
+        texturefile = "gfx/event_pictures/HELPING_SCHOLAR_ULEMA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.10_MUSLIM_SCHOLAR_WRITING_eventPicture"
+        texturefile = "gfx/event_pictures/LOST_REPUTATION_IMAM_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.11_TRADE_GOODS_eventPicture"
+        texturefile = "gfx/event_pictures/MERCHANT_USING_ULEMA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.12_MYSTICS_DANCING_eventPicture"
+        texturefile = "gfx/event_pictures/SHIITE_CONVERTS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.13_REVOLT_eventPicture"
+        texturefile = "gfx/event_pictures/TAKING_UP_ARMS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.14_SOUP_KITCHEN_eventPicture"
+        texturefile = "gfx/event_pictures/SLUM_MARKET_CAIRO_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.15_MECCA_eventPicture
+PRAYER_IN_MOSQUE_eventPicture"
+        texturefile = "gfx/event_pictures/CITY_DEVELOPMENT_STRETCHED_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.16_PRAYER_IN_MOSQUE_eventPicture"
+        texturefile = "gfx/event_pictures/NEW_MARKET_DEVELOPMENT_MASRA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.17_MYSTIC_IN_PRAYER_eventPicture"
+        texturefile = "gfx/event_pictures/SHRINE_FOR_DEAD_IMAM_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.18_PRAYER_IN_MOSQUE_eventPicture"
+        texturefile = "gfx/event_pictures/TURKIC_NOMAD_ENCAMPMENT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.19_MUSLIM_SCHOLAR_WRITING_eventPicture"
+        texturefile = "gfx/event_pictures/INSPECTING_ULEMA_FUNDS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.20_MYSTIC_IN_PRAYER_eventPicture"
+        texturefile = "gfx/event_pictures/LACKING_A_SCHOOL_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.21_PRAYER_IN_MOSQUE_eventPicture"
+        texturefile = "gfx/event_pictures/NEO_SUFIISM_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.22_PRAYER_IN_MOSQUE_eventPicture"
+        texturefile = "gfx/event_pictures/MOHAMMED_PREACHING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "muslim_school_events.23_MYSTIC_IN_PRAYER_eventPicture"
+        texturefile = "gfx/event_pictures/TOMB_SUFI_PROVIDING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "propagate_religion_events.1_SULTAN_AND_MERCHANT_eventPicture"
+        texturefile = "gfx/event_pictures/BAZAR_WITHIN_CITY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "propagate_religion_events.2_MYSTIC_IN_PRAYER_eventPicture"
+        texturefile = "gfx/event_pictures/ISLAMIC_WOMEN_AT_MARKET_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "propagate_religion_events.3_DHOW_AT_SEA_eventPicture"
+        texturefile = "gfx/event_pictures/ISLAMIC_SAILING_VESSEL_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "propagate_religion_events.4_MYSTIC_IN_PRAYER_eventPicture"
+        texturefile = "gfx/event_pictures/CURED_PRINCESS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "propagate_religion_events.5_PRAYER_IN_MOSQUE_eventPicture"
+        texturefile = "gfx/event_pictures/BUILD_MOSQUE_RUSSIA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "propagate_religion_events.6_SULTAN_AND_MERCHANT_eventPicture"
+        texturefile = "gfx/event_pictures/ISLAMIC_INFLUENCES_EUROPEAN_KING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "propagate_religion_events.7_SULTAN_AND_MERCHANT_eventPicture"
+        texturefile = "gfx/event_pictures/EUROPEAN_IN_ISLAMIC_DRESS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "propagate_religion_events.8_MUSLIM_SCHOLAR_WRITING_eventPicture"
+        texturefile = "gfx/event_pictures/LEARNED_SCHOLAR_MUSLIM_PROP_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "propagate_religion_events.9_HEIR_AND_FOREIGN_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/MUSLIM_CHIEF_DRESS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "propagate_religion_events.10_MYSTICS_DANCING_eventPicture"
+        texturefile = "gfx/event_pictures/TRAVELLING_SUFI_DESERT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "propagate_religion_events.11_SOUP_KITCHEN_eventPicture"
+        texturefile = "gfx/event_pictures/DISEMBARKING_MUSLIM_REFUGEES_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.31_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COCOA_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.32_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COCOA_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.33_TRADEGOODS_eventPicture
+PRINTING_PRESS_eventPicture"
+        texturefile = "gfx/event_pictures/PAPER_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.34_TRADEGOODS_eventPicture
+PRINTING_PRESS_eventPicture"
+        texturefile = "gfx/event_pictures/PAPER_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.35_BIG_BOOK_eventPicture"
+        texturefile = "gfx/event_pictures/PAPER_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.36_BIG_BOOK_eventPicture"
+        texturefile = "gfx/event_pictures/PAPER_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.37_EXPLORERS_eventPicture"
+        texturefile = "gfx/event_pictures/CORN_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.38_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/GEMS_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.39_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/BRAZILIAN_DIAMOND_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.40_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/INCENSE_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.41_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/PERFUME_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.42_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/LIVESTOCK_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.44_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/GLASS_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.45_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/GLASS_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial.13_MERCHANTS_TALKING_eventPicture"
+        texturefile = "gfx/event_pictures/FUR_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial.18_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COFFEE_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.100_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/GRAIN_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.101_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/GRAIN_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.102_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/WINE_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.103_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/WINE_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.104_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/WOOL_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.105_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/WOOL_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.106_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/CLOTH_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.107_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/CLOTH_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.108_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/FISH_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.109_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/FISH_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.110_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/FUR_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.111_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/FUR_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.112_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SALT_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.113_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SALT_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.114_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/NAVAL_SUPPLIES_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.115_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/NAVAL_SUPPLIES_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.116_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COPPER_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.117_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COPPER_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.118_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/IRON_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.119_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/IRON_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.120_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/IVORY_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.121_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/IVORY_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.122_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/TEA_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.123_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/TEA_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.124_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/CHINAWARE_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.125_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/CHINAWARE_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.126_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SPICES_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.127_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SPICES_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.128_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COFFEE_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.129_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COFFEE_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.130_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COTTON_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.131_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COTTON_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.132_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SUGAR_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.133_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SUGAR_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.134_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/TOBACCO_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.135_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/TOBACCO_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.136_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COCOA_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.137_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COCOA_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.140_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/GRAIN_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.141_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/GRAIN_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.142_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/WINE_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.143_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/WINE_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.144_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/WOOL_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.145_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/WOOL_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.146_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/CLOTH_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.147_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/CLOTH_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.148_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/FISH_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.149_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/FISH_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.150_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/FUR_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.151_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/FUR_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.152_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SALT_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.153_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SALT_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.154_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/NAVAL_SUPPLIES_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.155_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/NAVAL_SUPPLIES_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.156_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COPPER_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.157_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COPPER_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.158_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/IRON_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.159_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/IRON_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.160_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/IVORY_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.161_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/IVORY_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.162_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/TEA_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.163_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/TEA_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.164_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/CHINAWARE_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.165_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/CHINAWARE_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.166_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SPICES_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.167_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SPICES_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.168_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COFFEE_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.169_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COFFEE_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.170_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COTTON_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.171_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COTTON_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.172_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SUGAR_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.173_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SUGAR_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.174_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/TOBACCO_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.175_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/TOBACCO_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.176_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COCOA_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "colonial_nation.177_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COCOA_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.1_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SLAVES_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.10_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/HUAYNAPUTINA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.11_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/LITTLE_ICE_AGE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.12_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/CORK_BOTTLE_STOPPERS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.13_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/CLOTH_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.14_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/MILTARY_UNIFORMS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.15_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/FISHING_NETS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.16_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/INDIAN_WEAVERS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.17_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/BEAVER_DEPLETION_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.18_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/FELT_HATS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.19_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/STANDING_NAVY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.2_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/EUROPEANS_IN_CHINA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.20_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COPPER_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.21_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/JAPANESE_TEA_UKIYOE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.22_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SPICES_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.23_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SUGAR_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.24_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SILK_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.25_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/DYES_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.26_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/VENEERING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.27_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/BORNEO_PYGMY_ELEPHANT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.28_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/IRON_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.29_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/HOT_CHOCOLATE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.3_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/BOTTGER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.30_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/TOBACCO_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.4_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/FISH_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.5_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COFFEE_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.6_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COTTON_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.7_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/TEA_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.8_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/EAST_INDIAN_TRADE_ROUTE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "prices.9_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SLAVERY_BANNED_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "6421_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/WOOL_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "6014_FEAST_eventPicture"
+        texturefile = "gfx/event_pictures/ROYAL_HARVEST_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "6015_COURT_eventPicture"
+        texturefile = "gfx/event_pictures/HARVEST_FESTIVAL_CELEBRATION_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "6418_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/GRAIN_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "6419_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/GOOD_VINTAGE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "6420_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/BAD_VINTAGE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "6422_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/MILTARY_UNIFORMS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "6423_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/HARDY_SEAMEN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "6424_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/UNCOOPERATIVE_NATIVES_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "6425_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SALT_TRADEGOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "6426_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/SHIP_CONSTRUCTION_NAUTULUS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "6427_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/COPPER_MINE_WINNING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "6428_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/GOLD_VEIN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "6429_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/IRON_GOODS_WARFARE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "6431_TRADEGOODS_eventPicture"
+        texturefile = "gfx/event_pictures/EXPENSIVE_IVORY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "6432_HARBOUR_eventPicture"
+        texturefile = "gfx/event_pictures/THROWING_TEA_OVERBOARD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+    spriteType = {
+        name = "5037_FARMING_eventPicture"
+        texturefile = "gfx/event_pictures/CONSTRUCTION_IRRIGATION_eventPicture.dds"
+        allwaystransparent = yes
+    }
+}
