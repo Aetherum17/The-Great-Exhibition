@@ -56,13 +56,21 @@ guiTypes = {
 		instantTextBoxType = {
 			name = "Title"
 			position = { x = -43 y = 39 }
-			textureFile = ""
+			
 			font = "vic_29s"
 			borderSize = {x = 0 y = 0}
 			text = "Long text here!"	
 			maxWidth = 656
 			maxHeight = 32
 			format = centre
+		}
+		guiButtonType = {
+			name = "event_goto_province"
+			position = { x = 0 y = 14 }
+			quadTextureSprite ="GFX_event_goto_province"
+			buttonFont = "Main_14_black"
+			shortcut = "f"
+			clicksound = click
 		}
 		
 		instantTextBoxType = {
@@ -82,7 +90,6 @@ guiTypes = {
 		{
 			name = "event_option_listbox"
 			position = { x = 0 y = 0 }
-			backGround = ""
 			size = { x = 547 y = 100 }
 			Orientation = "UPPER_LEFT"
 			horizontal = 0
@@ -96,23 +103,25 @@ guiTypes = {
 	windowType = {
 		name = "event_option_entry"
 		backGround = ""
-		position = { x = 0 y = 0 }	
 		size = { x = 547 y = 30 }
 		moveable = 0
-		dontRender = ""
-		horizontalBorder = ""
-		verticalBorder = ""
+		
 		fullScreen = no
 		
 		guiButtonType = {
 			name = "event_option_button"
-			position = { x = 0 y = 0 }
 			quadTextureSprite = "GFX_event_button_547"
-			tooltip = ""
-			tooltipText = ""
-			delayedTooltipText = ""
-			buttonText = ""
 			buttonFont = "vic_18"
+		}
+		guiButtonType = {
+			name = "event_option_goto_button"
+			position = { x = -60 y = 0 }
+			quadTextureSprite ="GFX_event_option_goto_province"
+			buttonFont = "Main_14_black"
+			clicksound = click
+			tooltipText = "GOTO"
+
+			orientation = "UPPER_RIGHT"
 		}
 	}
 	

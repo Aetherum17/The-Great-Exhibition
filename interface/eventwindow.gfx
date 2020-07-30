@@ -52,12 +52,28 @@ spriteTypes = {
 	textSpriteType = {
 		name = "GFX_event_button_547"
 		texturefile = "gfx/interface/event_button_547.dds"
-		noOfFrames = 1
-		effectFile = "gfx/FX/buttonstate.lua"
-		norefcount = yes
 		clicksound = click
 	}	
 
+	textSpriteType = {
+		name = "GFX_event_button_547_green"
+		texturefile = "gfx/interface/event_button_547_green.dds"
+		clicksound = click
+	}
+
+	spriteType = {
+		name = "GFX_event_goto_province"
+		texturefile = "gfx//interface//event_button_banner.dds"
+		noOfFrames = 1
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_event_option_goto_province"
+		texturefile = "gfx//interface//go_to_province_option_button.dds"
+		noOfFrames = 1
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
 	##########################################
 	### EVENT PICTURES
 

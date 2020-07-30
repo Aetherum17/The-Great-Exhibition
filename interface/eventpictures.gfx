@@ -1,36 +1,4 @@
 spriteTypes = {
-
-#--------------------------------------------------------------------------------------------------------
-# Unique Tutorial Events [Override Block]
-# Image of Tomás de Torquemada, first Grand Inquisitor speaking to King Ferdinand and Queen Isabella.
-spriteType = {
-			name = "tutorial.2_ANGRY_MOB_eventPicture"
-			texturefile = "gfx/event_pictures/tutorial/SPAIN_INQ_eventPicture.dds"
-			allwaystransparent = yes
-			}
-
-# Columbus Potrait.
-spriteType = {
-			name = "tutorial.4_SHIP_SAILING_eventPicture"
-			texturefile = "gfx/event_pictures/tutorial/CHRIS_COLUMBUS_eventPicture.dds"
-			allwaystransparent = yes
-			}
-	
-# Columbus landing in the Americas.
-spriteType = {
-			name = "tutorial.5_NATIVES_eventPicture"
-			texturefile = "gfx/event_pictures/tutorial/CHRIS_AND_NATIVES_eventPicture.dds"
-			allwaystransparent = yes
-			}
-
-# From the Talbot Shrewsbury Book.
-spriteType = {
-			name = "tutorial.6_ANGRY_MOB_eventPicture"
-			texturefile = "gfx/event_pictures/tutorial/HENVI_COURT_eventPicture.dds"
-			allwaystransparent = yes
-			}
-#--------------------------------------------------------------------------------------------------------
-			
 	spriteType = {
 		name = "BLACK_DEATH_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/BLACK_DEATH_eventPicture.dds"

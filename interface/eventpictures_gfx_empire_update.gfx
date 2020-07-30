@@ -1,0 +1,263 @@
+spriteTypes = {
+	
+	spriteType = {
+			name = "flavor_aimara.3_BATTLE_eventPicture"
+			texturefile = "gfx/event_pictures/TUPAC_AND_MICAELA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_aimara.2_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/LAKE_TITICACA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "elections.711_ELECTION_REPUBLICAN_eventPicture"
+			texturefile = "gfx/event_pictures/CONTINENTAL_CONGRESS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "1021_ANGRY_MOB_eventPicture"
+			texturefile = "gfx/event_pictures/CONCORD_1775_eventPicture.dds"
+			allwaystransparent = yes
+		}		
+	spriteType = {
+			name = "1022_ELECTION_LIBERUM_VETO_eventPicture"
+			texturefile = "gfx/event_pictures/BOSTON_HARBOR_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {#
+			name = "innovativeness_events.11_CHAMBER_OF_CURIOSITIES_eventPicture"
+			texturefile = "gfx/event_pictures/TERRA_AUSTRALIS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "flavor_nor.19_TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture"
+			texturefile = "gfx/event_pictures/ROROS_COPPER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "anglican_events.12_MONASTERIES_DISSOLUTION_eventPicture"
+			texturefile = "gfx/event_pictures/ICONOCLASTIC_RIOT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
+			texturefile = "gfx/event_pictures/event_pictures_GE/TRADEGOODS_eventPicture.dds"
+			allwaystransparent = yes
+		}	
+	spriteType = {
+			name = "TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture"
+			texturefile = "gfx/event_pictures/event_pictures_GE/TRADEGOODS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	spriteType = {
+			name = "TRADE_GOODS_FURS_FISH_AND_SALT_eventPicture"
+			texturefile = "gfx/event_pictures/event_pictures_GE/TRADEGOODS_eventPicture.dds"
+			allwaystransparent = yes
+		}		
+
+	spriteType = {
+			name = "prices.1_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
+			texturefile = "gfx/event_pictures/SLAVE_TRADE_eventPicture.dds"
+			allwaystransparent = yes
+		}			
+
+	spriteType = {#bottger
+			name = "prices.3_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
+			texturefile = "gfx/event_pictures/BOETTGER_ALCHEMY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#spice trade
+			name = "prices.8_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
+			texturefile = "gfx/event_pictures/DUTCH_AT_ARAKAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#abolition
+			name = "prices.9_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
+			texturefile = "gfx/event_pictures/ABOLITION_OF_COLONIES_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#replace with sugar
+			name = "prices.23_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
+			texturefile = "gfx/event_pictures/event_pictures_GE/TRADEGOODS_eventPicture.dds"
+			allwaystransparent = yes
+		}		
+
+	spriteType = {#hot chocolate
+			name = "prices.29_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
+			texturefile = "gfx/event_pictures/HOT_CHOCOLATE_DRINKS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#Popularization of Tobacco
+			name = "prices.30_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
+			texturefile = "gfx/event_pictures/SMOKERS_IN_PUB_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#Stealing coffee from Mocha would be better
+			name = "prices.31_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
+			texturefile = "gfx/event_pictures/JAVA_COFFEE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#Mocha decline
+			name = "prices.32_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
+			texturefile = "gfx/event_pictures/MOCHA_DECLINE_eventPicture.dds"
+			allwaystransparent = yes
+		}		
+
+	spriteType = {#Protestant no lent
+			name = "prices.4_TRADE_GOODS_FURS_FISH_AND_SALT_eventPicture"
+			texturefile = "gfx/event_pictures/FISH_MARKET_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#little ice age
+			name = "prices.11_TRADE_GOODS_FURS_FISH_AND_SALT_eventPicture"
+			texturefile = "gfx/event_pictures/WINTER_LITTLE_ICEAGE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#beaver hats
+			name = "prices.18_TRADE_GOODS_FURS_FISH_AND_SALT_eventPicture"
+			texturefile = "gfx/event_pictures/BEAVER_HATS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#prospectors
+			name = "flavor_nor.18_TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture"
+			texturefile = "gfx/event_pictures/MINERS_AMERICA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#buillion
+			name = "bullion_famine.1_TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture"
+			texturefile = "gfx/event_pictures/GOLD_COINS_eventPicture.dds"
+			allwaystransparent = yes
+		}	
+
+	spriteType = {#bronze cannon
+			name = "prices.20_TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture"
+			texturefile = "gfx/event_pictures/BRONZE_CANNON_CASTING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#iron working
+			name = "prices.28_TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture"
+			texturefile = "gfx/event_pictures/IRON_TRADEGOOD_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#iron working
+			name = "6429_TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture"
+			texturefile = "gfx/event_pictures/IRON_TRADEGOOD_eventPicture.dds"
+			allwaystransparent = yes
+		}		
+
+	spriteType = {#bronze cannon
+			name = "prices.46_TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture"
+			texturefile = "gfx/event_pictures/COAL_BOAT_LONDON_eventPicture.dds"
+			allwaystransparent = yes
+		}	
+
+	spriteType = {#bronze cannon
+			name = "prices.46_TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture"
+			texturefile = "gfx/event_pictures/BRONZE_CANNON_CASTING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#gold rush 
+			name = "6428_TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture"
+			texturefile = "gfx/event_pictures/MINERS_AMERICA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#gold rush chinese doesn't work
+			name = "asiangfx_6428_TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_GOLD_RUSH_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#synthetics
+			name = "SYNTHETICS_eventPicture"
+			texturefile = "gfx/event_pictures/SYNTHETIC_DAWN_eventPicture.dds"
+			allwaystransparent = yes
+		}	
+
+	spriteType = {#Hussars
+			name = "HUSSARS_eventPicture"
+			texturefile = "gfx/event_pictures/HUSSARS_CHARGE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#Mongolian charge
+			name = "MONGOL_BANNERS_eventPicture"
+			texturefile = "gfx/event_pictures/MONGOLIAN_CHARGE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#natives iberian
+			name = "iberian_NATIVES_eventPicture"
+			texturefile = "gfx/event_pictures/event_pictures_GE/NATIVES_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#natives iberian
+			name = "andalucian_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/ANDALUSIAN_ADVISOR_eventPicture.dds"
+			allwaystransparent = yes
+		}				
+
+	spriteType = {#Aclla
+			name = "inti_events.10_GUARDED_TREASURE_eventPicture"
+			texturefile = "gfx/event_pictures/INCAN_BLESSING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#Aclla
+			name = "inti_events.22_GUARDED_TREASURE_eventPicture"
+			texturefile = "gfx/event_pictures/INCA_ACLLA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#iberian colonization
+			name = "iberian_COLONIZATION_eventPicture"
+			texturefile = "gfx/event_pictures/IBERIAN_COLONIZATION_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#iberian economy
+			name = "iberian_ECONOMY_eventPicture"
+			texturefile = "gfx/event_pictures/event_pictures_GE/ECONOMY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {#british fort
+			name = "british_FORT_eventPicture"
+			texturefile = "gfx/event_pictures/event_pictures_GE/FORT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	spriteType = {
+		name = "iberian_GREAT_BUILDING_eventPicture"
+		texturefile = "gfx\event_pictures\IBERIAN_GREAT_BUILDING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "malay_HARBOUR_eventPicture"
+		texturefile = "gfx\event_pictures\MALAY_HARBOUR_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "iberian_PRAYING_eventPicture"
+			texturefile = "gfx/event_pictures/IBERIAN_PRAYING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+}
