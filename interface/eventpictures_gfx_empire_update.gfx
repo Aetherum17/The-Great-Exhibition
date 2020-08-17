@@ -260,4 +260,64 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 
+	spriteType = {
+		name = "19_Monsoon_eventPicture"
+			texturefile = "gfx/event_pictures/AFTER_THUNDERSTORM_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "westerngfx_16_Trade_Company_eventPicture"
+			texturefile = "gfx/event_pictures/CORRUPT_DEALINGS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "muslim_16_Trade_Company_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_COC/trade_goods.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "16_Trade_Company_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_COC/trade_goods.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "indiangfx_16_Trade_Company_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_COC/trade_goods.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "muslimgfx_16_Trade_Company_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_COC/trade_goods.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "investment_events.7_16_Trade_Company_eventPicture"
+			texturefile = "gfx/event_pictures/EAST_INDIA_COMPANY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "investment_events.8_16_Trade_Company_eventPicture"
+			texturefile = "gfx/event_pictures/FLOURISHING_TRADE_COMPANY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#meeting with locals
+		name = "15_Trade_Company_eventPicture"
+			texturefile = "gfx/event_pictures/EAST_INDIES_SUMMIT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "institution_events.401_SHIP_SAILING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ROM/PRINTING_PRESS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
 }
