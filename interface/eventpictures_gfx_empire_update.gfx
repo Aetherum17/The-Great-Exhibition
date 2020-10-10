@@ -80,6 +80,12 @@ spriteTypes = {
 			allwaystransparent = yes
 		}
 
+	spriteType = {#grand banks fisheries
+			name = "prices.15_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
+			texturefile = "gfx/event_pictures/FISH_MARKET_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
 	spriteType = {#replace with sugar
 			name = "prices.23_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
 			texturefile = "gfx/event_pictures/event_pictures_GE/TRADEGOODS_eventPicture.dds"
@@ -319,5 +325,252 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_ROM/PRINTING_PRESS_eventPicture.dds"
 		allwaystransparent = yes
 	}
+
+	spriteType = {
+		name = "institution_events.401_SHIP_SAILING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ROM/PRINTING_PRESS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "GOLDEN_STOOL_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_AOW/GOLDEN_STOOL_eventPicture.dds"
+		allwaystransparent = yes
+	}		
+
+	spriteType = {
+		name = "west_african.19_GOLDEN_STOOL_eventPicture"
+			texturefile = "gfx/event_pictures/ASHANTI_AUDIENCE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "20_Monsoon_eventPicture"
+			texturefile = "gfx/event_pictures/FAMINE_REMNANTS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "yorumba_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/BENIN_CITY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "aka_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/OSEI_ASHANTI_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "west_african_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/DAHOMEY_KINGS_WEALTH_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+
+	spriteType = {
+		name = "kongo_group_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/CONGOLESE_THRONE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+        name = "westerngfx_MERCHANTS_TALKING_eventPicture"
+        texturefile = "gfx/event_pictures/event_pictures_GE/MERCHANTS_TALKING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+    spriteType = {
+        name = "easterngfx_MERCHANTS_TALKING_eventPicture"
+        texturefile = "gfx/event_pictures/event_pictures_GE/MERCHANTS_TALKING_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+    spriteType = {
+        name = "pirates.5_BARBARY_PIRATES_eventPicture"
+        texturefile = "gfx/event_pictures/SAYIDDA_AL_HURRA_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+    spriteType = {
+        name = "pirates.4_BARBARY_PIRATES_eventPicture"
+        texturefile = "gfx/event_pictures/JANS_JANSZOON_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+    spriteType = {
+        name = "flavor_mlc.8_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/MALACCA_SHIPS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+    spriteType = {
+        name = "flavor_eth.3_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/MENELIK_II_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "PIRATE_CAPTAINS_eventPicture"
+        texturefile = "gfx/event_pictures/PIRATE_MEETING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+    spriteType = {
+        name = "pirates.6_PIRATE_CAPTAINS_eventPicture"
+        texturefile = "gfx/event_pictures/PORT_ROYAL_INN_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "pirates.8_SMUGGLERS_eventPicture"
+        texturefile = "gfx/event_pictures/CHINESE_PIRATES_ATTACK_SHIP_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+    spriteType = {
+        name = "pirates.9_SMUGGLERS_eventPicture"
+        texturefile = "gfx/event_pictures/CHINESE_PIRATES_ATTACK_SHIP_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+    spriteType = {
+        name = "pirates.20_PIRATE_CAPTAINS_eventPicture"
+        texturefile = "gfx/event_pictures/PIRATE_SHIP_CREW_ROGER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+    spriteType = {
+        name = "pirates.21_SMUGGLERS_eventPicture"
+        texturefile = "gfx/event_pictures/WOKOU_JUNK_WAITING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "pirates.22_SMUGGLERS_eventPicture"
+        texturefile = "gfx/event_pictures/BUNTE_KUH_VS_VICTUAL_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "pirates.10_FLAGSHIP_SUNK_eventPicture"
+        texturefile = "gfx/event_pictures/ATOCHA_WRECK_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "pirates.16_PIRATE_CAPTAINS_eventPicture"
+        texturefile = "gfx/event_pictures/CAREENING_ASHORE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.9_POPE_PREACHING_eventPicture"
+        texturefile = "gfx/event_pictures/PAUL_III_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.4_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/ROMAN_INQUISITION_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.3_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/PAUL_III_APPROVES_JESUITS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.2_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/PAUL_III_APPROVES_JESUITS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flagship_events.4_FLAGSHIP_SUNK_eventPicture"
+        texturefile = "gfx/event_pictures/ACHILLE_DESTRUCTION_BY_FIRE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "iberian_FORT_eventPicture"
+        texturefile = "gfx/event_pictures/SPANISH_FORT_BIZERTE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "christian_CHURCH_ESTATE_2_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_COS/CHURCH_ESTATE_1_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "FLAGSHIP_SUNK_eventPicture"
+        texturefile = "gfx/event_pictures/ACHILLE_DESTRUCTION_BY_FIRE_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "muslimgfx_FLAGSHIP_SUNK_eventPicture"
+        texturefile = "gfx/event_pictures/BATTLE_OF_DIU_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "turkish_FLAGSHIP_SUNK_eventPicture"
+        texturefile = "gfx/event_pictures/OTTOMAN_FLEET_DESTROYED_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "french_FLAGSHIP_SUNK_eventPicture"
+        texturefile = "gfx/event_pictures/FRENCH_SHIP_AT_NILE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "english_FLAGSHIP_SUNK_eventPicture"
+        texturefile = "gfx/event_pictures/MARY_ROSE_WRECK_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "NED_FLAGSHIP_SUNK_eventPicture"
+        texturefile = "gfx/event_pictures/NETHERLANDS_SHIP_DESTROYED_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "asiangfx_FLAGSHIP_SUNK_eventPicture"
+        texturefile = "gfx/event_pictures/QING_SHIP_DESTROYED_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "NSS_FLAGSHIP_SUNK_eventPicture"
+        texturefile = "gfx/event_pictures/QUEEN_ANNES_REVENGE_WRECK_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "swedish_FLAGSHIP_SUNK_eventPicture"
+        texturefile = "gfx/event_pictures/VASA_WRECK_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "french_FLAGSHIP_CAPTURED_eventPicture"
+        texturefile = "gfx/event_pictures/FRENCH_CAPTURE_SHIP_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "FLAGSHIP_CAPTURED_eventPicture"
+        texturefile = "gfx/event_pictures/CAPTURED_FLAGSHIP_NOMAST_eventPicture.dds"
+        allwaystransparent = yes
+    }
 
 }
