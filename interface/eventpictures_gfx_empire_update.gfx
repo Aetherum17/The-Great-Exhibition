@@ -496,6 +496,426 @@ spriteTypes = {
     }
 
 	spriteType = {
+        name = "flavor_pap.5_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/GIORDANO_BRUNO_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "flavor_pap.7_REFORM_eventPicture"
+        texturefile = "gfx/event_pictures/MEETING_OF_CARDINALS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.8_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/COUNCIL_OF_TRENT_MEETING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.8_COUNCIL_TRENT_eventPicture"
+        texturefile = "gfx/event_pictures/COUNCIL_OF_TRENT_MEETING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.21_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/TRENT_FRESCO_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.21_COUNCIL_TRENT_eventPicture"
+        texturefile = "gfx/event_pictures/TRENT_FRESCO_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.14_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/RICCI_AND_GUANGQI_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.13_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/JESUIT_ASTRONOMERS_IN_CHINA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.16_POPE_PREACHING_eventPicture"
+        texturefile = "gfx/event_pictures/BORGIA_POPE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = { #REPLACE
+        name = "BAD_POPE_eventPicture"
+        texturefile = "gfx/event_pictures/BORGIA_POPE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.16_BAD_POPE_eventPicture"
+        texturefile = "gfx/event_pictures/BORGIA_POPE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.17_LAND_MILITARY_eventPicture"
+        texturefile = "gfx/event_pictures/CESARE_BORGIA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.17_BAD_POPE_eventPicture"
+        texturefile = "gfx/event_pictures/CESARE_BORGIA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.18_CORRUPTION_eventPicture"
+        texturefile = "gfx/event_pictures/BORGIA_FAMILY_WINE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.18_BAD_POPE_eventPicture"
+        texturefile = "gfx/event_pictures/BORGIA_FAMILY_WINE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.19_POPE_PREACHING_eventPicture"
+        texturefile = "gfx/event_pictures/CESARE_FLEES_VATICAN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.19_BAD_POPE_eventPicture"
+        texturefile = "gfx/event_pictures/CESARE_FLEES_VATICAN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_pap.20_LAND_MILITARY_eventPicture"
+        texturefile = "gfx/event_pictures/CESARE_BORGIA_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "PAP_COURT_eventPicture"
+        texturefile = "gfx/event_pictures/GREGORY_APPROVES_DECRETALS_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "PAP_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/LEGATE_WOLSEY_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "PAP_LAND_MILITARY_eventPicture"
+        texturefile = "gfx/event_pictures/SWISS_GUARD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_fra.3105_ITALIAN_wars_eventPicture"
+        texturefile = "gfx/event_pictures/BATTLE_OF_BOYNE_eventPicture.dds"
+        allwaystransparent = yes
+    }		
+
+	spriteType = { #REPLACE?
+        name = "ITALIAN_wars_eventPicture"
+        texturefile = "gfx/event_pictures/BATTLE_OF_BOYNE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_fra.3105_COURT_eventPicture"
+        texturefile = "gfx/event_pictures/BATTLE_OF_BOYNE_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "3114_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/TELLIER_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "flavor_fra.3115_MERCHANTS_TALKING_eventPicture"
+        texturefile = "gfx/event_pictures/CHAMPLAIN_AND_HURONS_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "flavor_fra.5004_INVENTION_eventPicture"
+        texturefile = "gfx/event_pictures/VAUBAN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_fra.5003_INVENTION_eventPicture"
+        texturefile = "gfx/event_pictures/DESCARTES_PORTRAIT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "GUILLOTINE_eventPicture"
+        texturefile = "gfx/event_pictures/FRENCH_GUILLOTINE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "french_revolution.5_GUILLOTINE_eventPicture"
+        texturefile = "gfx/event_pictures/EXECUTION_OF_LOUIS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "french_revolution.5_REVOLUTION_eventPicture"
+        texturefile = "gfx/event_pictures/EXECUTION_OF_LOUIS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "french_revolution.303_GUILLOTINE_eventPicture"
+        texturefile = "gfx/event_pictures/REIGN_OF_TERROR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "french_revolution.303_REVOLUTION_eventPicture"
+        texturefile = "gfx/event_pictures/REIGN_OF_TERROR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "french_revolution.304_GUILLOTINE_eventPicture"
+        texturefile = "gfx/event_pictures/REIGN_OF_TERROR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "french_revolution.304_REVOLUTION_eventPicture"
+        texturefile = "gfx/event_pictures/REIGN_OF_TERROR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "french_revolution.1_LIBERUM_VETO_eventPicture"
+        texturefile = "gfx/event_pictures/THE_GENERAL_ESTATES_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "french_revolution.7_IMPORTANT_STATUE_eventPicture"
+        texturefile = "gfx/event_pictures/NAPOLEON_BONAPARTE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "french_wars_of_religion.2_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/BARTHOLOMEWS_MASSACRE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "french_wars_of_religion.100_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/END_OF_WARS_OF_RELIGION_eventPicture.dds"
+        allwaystransparent = yes
+    }
+	
+	spriteType = {
+        name = "french_wars_of_religion.3_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/LA_LIQUE_CATHOLIQUE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "french_wars_of_religion.5_ASSASSINATION_eventPicture"
+        texturefile = "gfx/event_pictures/ASSASSINATION_OF_GUISE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_fra.3125_UNIVERSITY_eventPicture"
+        texturefile = "gfx/event_pictures/VERSAILLE_COMMISSION_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_fra.3119_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/RICHELIEU_LA_ROCHELLE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_fra.3122_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/FRONDE_IN_FRANCE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_fra.3125_UNIVERSITY_eventPicture"
+        texturefile = "gfx/event_pictures/VERSAILLE_COMMISSION_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_fra.3120_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/RICHELIEU_PORTRAIT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_fra.3135_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/CHARLES_DE_BROGLIE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_fra.3137_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/FLEURY_PORTRAIT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_fra.5000_ECONOMY_eventPicture"
+        texturefile = "gfx/event_pictures/ROUSSEAU_PORTRAIT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_fra.5001_ECONOMY_eventPicture"
+        texturefile = "gfx/event_pictures/VOLTAIRE_PORTRAIT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_fra.5002_ECONOMY_eventPicture"
+        texturefile = "gfx/event_pictures/MONTESQUIEU_PORTRAIT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_fra.9000_REFORM_eventPicture"
+        texturefile = "gfx/event_pictures/FRANCOIS_VILLON_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_fra.3123_UNIVERSITY_eventPicture"
+        texturefile = "gfx/event_pictures/SCIENTIFIC_ACADEMIE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_fra.5_LAND_MILITARY_eventPicture"
+        texturefile = "gfx/event_pictures/MUSKETEERS_MOUNTED_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_fra.3142_ECONOMY_eventPicture"
+        texturefile = "gfx/event_pictures/NECKER_PORTRAIT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_fra.3141_ECONOMY_eventPicture"
+        texturefile = "gfx/event_pictures/TURGOT_PORTRAIT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "french_COURT_eventPicture"
+        texturefile = "gfx/event_pictures/FONTAINEBLEAU_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+    spriteType = {
+        name = "flavor_spa.3716_DIPLOMACY_eventPicture"
+        texturefile = "gfx/event_pictures/IBERIAN_WEDDING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_spa.3710_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/BALTASAR_DE_ZUNIGA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_spa.3710_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/BALTASAR_DE_ZUNIGA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_spa.3150_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/TORQUEMADA_CONVERSION_MOORS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_spa.3152_EXPLORERS_eventPicture"
+        texturefile = "gfx/event_pictures/CONQUISTADOR_NEW_WORLD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_spa.3154_COURT_eventPicture"
+        texturefile = "gfx/event_pictures/FUGGERS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_spa.1003_COLONIZATION_eventPicture"
+        texturefile = "gfx/event_pictures/CASA_CONTRATACION_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "iberian_EXPLORERS_eventPicture"
+        texturefile = "gfx/event_pictures/CONQUISTADOR_NEW_WORLD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_spa.1011_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/LOYOLA_VISION_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "flavor_spa.1000_BATTLE_eventPicture"
+        texturefile = "gfx/event_pictures/CRUSADE_AGAINST_ORAN_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "flavor_spa.3155_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/COMMUNEROS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_spa.3160_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/EXPULSIO_DELS_MORISCOS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_spa.3161_ECONOMY_eventPicture"
+        texturefile = "gfx/event_pictures/EXPULSION_PUERTO_DE_DENIA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
         name = "iberian_FORT_eventPicture"
         texturefile = "gfx/event_pictures/SPANISH_FORT_BIZERTE_eventPicture.dds"
         allwaystransparent = yes
@@ -573,4 +993,722 @@ spriteTypes = {
         allwaystransparent = yes
     }
 
+#women in history
+		# Queen Elizabeth I (1533-1603)
+		spriteType = {
+			name = "women_history_events.1_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/ELIZABETH_I_eventPicture.dds"
+			allwaystransparent = yes
+		}
+	# Queen Catherine II (the Great) (1729-1796)
+		spriteType = {
+			name = "women_history_events.2_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/CATHERINE_II_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Kösem Sultan (1590-1651)
+		spriteType = {
+			name = "women_history_events.3_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/KOSEM_SULTAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Maria Theresa (1717-1780)
+		spriteType = {
+			name = "women_history_events.4_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/MARIA_THERESA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Roxelana (1500-1558)
+		spriteType = {
+			name = "women_history_events.5_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/ROXELANA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		#  Queen Christina of Sweden (1626-1689)
+		spriteType = {
+			name = "women_history_events.6_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/QUEEN_CHRISTINA_OF_SWEDEN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Germaine de Staël (1766-1817)
+		spriteType = {
+			name = "women_history_events.7_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/GERMAINE_DE_STAEL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Mary Wollstonecraft (1759-1797)
+		spriteType = {
+			name = "women_history_events.8_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/MARY_WOLLSTONECRAFT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Aphra Behn (1640-1689)
+		spriteType = {
+			name = "women_history_events.9_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/APHRA_BEHN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Eliza Lucas 1722-1793
+		spriteType = {
+			name = "women_history_events.10_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/ELIZA_LUCAS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Isabella of Castile (1451-1504)
+		spriteType = {
+			name = "women_history_events.11_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/ISABELLA_OF_CASTILE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Sophie Germain (1776 - 1831)
+		spriteType = {
+			name = "women_history_events.12_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/SOPHIE_GERMAIN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Caterina Sforza
+		spriteType = {
+			name = "women_history_events.13_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/CATERINA_SFORZA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Catherine de Medici 1519-1589
+		spriteType = {
+			name = "women_history_events.14_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/CATHERINE_DE_MEDICI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Amalie Elisabeth
+		spriteType = {
+			name = "women_history_events.15_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/AMELIE_ELISABETH_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# La Malinche (c. 1500-unknown)
+		spriteType = {
+			name = "women_history_events.16_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/LA_MALINCHE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Juana Ines de la Cruz
+		spriteType = {
+			name = "women_history_events.17_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/JUANA_INES_DE_LA_CRUZ_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Jeanne d'Albret
+		spriteType = {
+			name = "women_history_events.18_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/JEANNE_D_ALBRET_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Nzinga of Ndongo and Matamba
+		spriteType = {
+			name = "women_history_events.19_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/NZINGA_OF_NDONGO_AND_MATAMBA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Tarabai
+		spriteType = {
+			name = "women_history_events.20_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/TARABAI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Jane Austen
+		spriteType = {
+			name = "women_history_events.21_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/JANE_AUSTEN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Gráinne Ní Mháille
+		spriteType = {
+			name = "women_history_events.22_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/GRAINNE_NI_MHAILLE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Julie d'Aubigny
+		spriteType = {
+			name = "women_history_events.23_wihgfx_FEMALE_GENERAL_eventPicture"
+			texturefile = "gfx/event_pictures/JULIE_D_AUBIGNY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Anne Boleyn
+		spriteType = {
+			name = "women_history_events.24_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/ANNE_BOLEYN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Siti Wan Kembang
+		spriteType = {
+			name = "women_history_events.25_wihgfx_FEMALE_GENERAL_eventPicture"
+			texturefile = "gfx/event_pictures/SITI_WAN_KEMBANG_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Catherine of Aragon 
+		spriteType = {
+			name = "women_history_events.26_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/CATHERINE_OF_ARAGON_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Margaret of Anjou
+		spriteType = {
+			name = "women_history_events.27_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/MARGARET_OF_ANJOU_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Louise of Mecklenburg-Strelitz (1776 – 1810)
+		spriteType = {
+			name = "women_history_events.28_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/LOUISE_OF_MECKLENBURG_STRELITZ_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Ayse Hafsa Sultan
+		spriteType = {
+			name = "women_history_events.29_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/AYSE_HAFSA_SULTAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Roshanara Begum
+		spriteType = {
+			name = "women_history_events.30_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/ROSHANARA_BEGUM_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Abigail Adams (1744 – 1818)
+		spriteType = {
+			name = "women_history_events.31_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/ABIGAIL_ADAMS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Rani Abbakka Chowta
+		spriteType = {
+			name = "women_history_events.32_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/RANI_ABBAKKA_CHOWTA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Sacagawea (1787? – 1812)
+		spriteType = {
+			name = "women_history_events.33_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/SACAGAWEA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Pari Khan Khanum (d. 1578)
+		spriteType = {
+			name = "women_history_events.34_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/PARI_KHAN_KHANUM_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Meera Bai
+		spriteType = {
+			name = "women_history_events.35_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/MIRA_BAI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		#  Amina
+		spriteType = {
+			name = "women_history_events.36_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/AMINA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Mandukhai Khatun
+		spriteType = {
+			name = "women_history_events.37_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/MANDHUKAI_KHATUN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Ho Xuan Huong
+#		spriteType = {
+#			name = "women_history_events.38_wihgfx_FEMALE_SCHOLAR_eventPicture"
+#			texturefile = "gfx/event_pictures/HO_XUAN_HUONG_NAKED_eventPicture.dds"
+#			allwaystransparent = yes
+#		}
+
+		# Inion Dubh
+		spriteType = {
+			name = "women_history_events.39_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/INION_DUBH_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Rani Durgavati
+		spriteType = {
+			name = "women_history_events.40_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/RANI_ABBAKKA_CHOWTA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Kateri Tekakwitha
+		spriteType = {
+			name = "women_history_events.41_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/KATARI_TEKAKWITHA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Maria Sibylla Merian
+		spriteType = {
+			name = "women_history_events.42_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/MARIA_SIBYLLA_MERIAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Kenau Simonsdochter Hasselaer
+		spriteType = {
+			name = "women_history_events.43_wihgfx_FEMALE_GENERAL_eventPicture"
+			texturefile = "gfx/event_pictures/KENAU_SIMONSDOCHTER_HASSELAER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Elena Cornaro Piscopia
+		spriteType = {
+			name = "women_history_events.44_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/ELENA_CORNARA_PISCOPIA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Yekaterina Romanovna Vorontsova-Dashkova
+		spriteType = {
+			name = "women_history_events.45_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/YEKATERINA_ROMANOVNA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Marie Crous
+		spriteType = {
+			name = "women_history_events.46_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/MARIE_CROUS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Ohatsu
+		spriteType = {
+			name = "women_history_events.47_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/OHATSU_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Empress Dowager Xiaozhuang (1613 – 1688)
+		spriteType = {
+			name = "women_history_events.48_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/DOWAGER_XIAOZHUANG_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Inés de Suárez
+		spriteType = {
+			name = "women_history_events.49_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/INES_DE_SUAREZ_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Kaihime
+		spriteType = {
+			name = "women_history_events.50_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/KAIHIME_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Nazo Tokhi
+		spriteType = {
+			name = "women_history_events.51_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/NAZO_TOKHI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Qin Liangyu
+		spriteType = {
+			name = "women_history_events.52_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/QIN_LIANGYU_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Ilona Zrinyi
+		spriteType = {
+			name = "women_history_events.53_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/ILONA_ZRINYI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Wang Zhenyi
+		spriteType = {
+			name = "women_history_events.54_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/WANG_ZHENYI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Suriyothai
+		spriteType = {
+			name = "women_history_events.55_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/SURIYOTHAI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Sayyida al Hurra
+		spriteType = {
+			name = "women_history_events.56_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/SAYYIDA_AL_HURRA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Olympe de Gouges
+		spriteType = {
+			name = "women_history_events.57_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/OLYMPE_DE_GOUGES_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Izumo no Okuni
+		spriteType = {
+			name = "women_history_events.58_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/IZUMO_NO_OKUNI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Nora of Kelmendi
+		spriteType = {
+			name = "women_history_events.59_wihgfx_FEMALE_GENERAL_eventPicture"
+			texturefile = "gfx/event_pictures/NORA_OF_KELMENDI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Martha Washington
+		spriteType = {
+			name = "women_history_events.60_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/MARTHA_WASHINGTON_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Elizabeth Wilbraham
+		spriteType = {
+			name = "women_history_events.61_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/ELIZABETH_WILBRAHAM_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Anna Bunina
+		spriteType = {
+			name = "women_history_events.62_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/ANNA_BUNINA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Dorothea of Saxe-Lauenburg
+		spriteType = {
+			name = "women_history_events.63_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/DOROTHEA_OF_SAXE_LAUENBURG_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Mary of Hungary
+		spriteType = {
+			name = "women_history_events.64_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/MARY_OF_HUNGARY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Margaret of Austria, Duchess of Savoy
+		spriteType = {
+			name = "women_history_events.65_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/MARGARET_OF_AUSTRIA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		
+		# Isabella Clara Eugenia
+		spriteType = {
+			name = "women_history_events.66_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/ISABELLA_CLARA_EUGENIA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Urszula Meyerin
+		spriteType = {
+			name = "women_history_events.67_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/URSZULA_MEYERIN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Elzbieta Helena Sieniawska
+		spriteType = {
+			name = "women_history_events.68_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/ELZBIETA_HELENA_SIENIAWSKA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		# Marie Louise Gonzaga
+		spriteType = {
+			name = "women_history_events.69_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/MARIE_LOUISE_GONZAGA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		
+		# Maria Carolina of Austria
+		spriteType = {
+			name = "women_history_events.70_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/MARIA_CAROLINA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		
+		# Marie Antoinette
+		spriteType = {
+			name = "women_history_events.71_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/MARIE_ANTIONETTE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Anacaona
+		spriteType = {
+			name = "women_history_events.72_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/ANACAONA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Barbara of Cilli
+		spriteType = {
+			name = "women_history_events.73_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/BARBARA_OF_CILLI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Eleni of Ethiopia
+		spriteType = {
+			name = "women_history_events.74_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/ELENI_OF_ETHIOPIA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Tun Fatimah
+		spriteType = {
+			name = "women_history_events.75_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/TUN_FATIMAH_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Khayr al-Nisa Begum
+		spriteType = {
+			name = "women_history_events.76_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/KYAR_AL_NISA_BEGUM_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Sophia Alekseyevna
+		spriteType = {
+			name = "women_history_events.77_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/SOPHIA_ALEKSEYEVNA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Madame Tussaud
+		spriteType = {
+			name = "women_history_events.78_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/MADAME_TUSSAUD_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Queen Pokou
+		spriteType = {
+			name = "women_history_events.79_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/QUEEN_POKOU_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Ratu Hijau
+		spriteType = {
+			name = "women_history_events.80_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/RATU_HIJAU_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Rani Mangammal
+		spriteType = {
+			name = "women_history_events.81_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/RANI_MANGAMMAL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Anne Bonny
+		spriteType = {
+			name = "women_history_events.82_wihgfx_FEMALE_GENERAL_eventPicture"
+			texturefile = "gfx/event_pictures/ANNY_BONNY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Lucrezia Borgia
+		spriteType = {
+			name = "women_history_events.83_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/LUCREZIA_BORGIA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Nur Jahan
+		spriteType = {
+			name = "women_history_events.84_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/NUR_JAHAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Mary Read
+		spriteType = {
+			name = "women_history_events.85_wihgfx_FEMALE_GENERAL_eventPicture"
+			texturefile = "gfx/event_pictures/MARY_READ_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Mumtaz Mahal
+		spriteType = {
+			name = "women_history_events.86_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/MUMTAZ_MAHAL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Nanyehi
+		spriteType = {
+			name = "women_history_events.87_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/NANYEHI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Vendela Skytte
+		spriteType = {
+			name = "women_history_events.88_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/VENDELA_SKYTTE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Ahilyabai Holkar
+		spriteType = {
+			name = "women_history_events.89_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/AHILYABAI_HOLKAR_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Jahanzeb Banu Begum
+		spriteType = {
+			name = "women_history_events.90_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/JAHANZEB_BANU_BEGUM_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Ching Shih
+		spriteType = {
+			name = "women_history_events.91_wihgfx_FEMALE_GENERAL_eventPicture"
+			texturefile = "gfx/event_pictures/CHING_SHIH_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Mentewab
+		spriteType = {
+			name = "women_history_events.92_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/MENTEWAB_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Safiye Sultan
+		spriteType = {
+			name = "women_history_events.93_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/SAFIYE_SULTAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Angelica Kauffman
+		spriteType = {
+			name = "women_history_events.94_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/ANGELICA_KAUFFMAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Elizabeth of Russia
+		spriteType = {
+			name = "women_history_events.95_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/ELIZABETH_OF_RUSSIA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Anna of Russia
+		spriteType = {
+			name = "women_history_events.96_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/event_pictures_WiH/.dds"
+			allwaystransparent = yes
+		}
+		# Nurbanu Sultan
+		spriteType = {
+			name = "women_history_events.97_wihgfx_FEMALE_RULER_eventPicture"
+			texturefile = "gfx/event_pictures/NURBANU_SULTAN_eventPicturedds"
+			allwaystransparent = yes
+		}
+		# Heo Nanseolheon
+		spriteType = {
+			name = "women_history_events.98_wihgfx_FEMALE_SCHOLAR_eventPicture"
+			texturefile = "gfx/event_pictures/HEO_NANSEOLHEON_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Mariam-uz-Zamani
+		spriteType = {
+			name = "women_history_events.99_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/Mariam-uz-Zamani.dds"
+			allwaystransparent = yes
+		}
+		# Franciszka Urszula Radziwillowa
+		spriteType = {
+			name = "women_history_events.100_wihgfx_FEMALES_eventPicture"
+			texturefile = "gfx/event_pictures/FRANCISZKA_URSZULA_RADZIWILLOWA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Jane Grey
+		spriteType = {
+			name = "flavor_eng.9113_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/JANE_GREY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Bloody Mary and King Felipé of England
+		spriteType = {
+			name = "flavor_eng.9114_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/MARY_TUDOR_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Elizabeth Bathory
+		spriteType = {
+			name = "flavor_hun.8_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/ELIZABETH_BATHORY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Magira Aisha
+		spriteType = {
+			name = "flavor_kbo.7_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/MAGIRA_AISHA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Mira Bai
+		spriteType = {
+			name = "flavor_mer.4_PRAYING_eventPicture"
+			texturefile = "gfx/event_pictures/MIRA_BAI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Kösem Sultana
+		spriteType = {
+			name = "flavor_tur.3377_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/KOSEM_SULTAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Molla
+		spriteType = {
+			name = "flavor_vij.7_IMPORTANT_STATUE_eventPicture"
+			texturefile = "gfx/event_pictures/MOLLA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		# Tallapaka Tirumalamma
+		spriteType = {
+			name = "flavor_vij.8_IMPORTANT_STATUE_eventPicture"
+			texturefile = "gfx/event_pictures/TALLAPAKA_TIRUMALAMMA_eventPicture.dds"
+			allwaystransparent = yes
+		}
 }
