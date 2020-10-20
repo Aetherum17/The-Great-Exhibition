@@ -1,0 +1,46 @@
+———————————— The Great Exhibition Mod for Europa Universalis 4 ———————————
+
+[h1]Description:[/h1]
+
+This modification adds many new pictures to events that change depending on your culture, religion or location. It is based on the Vanilla'd - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=943561459]The Grand Exhibition[/url] - made by Tinholt. However, since he decided to leave the modding scene, further development of his project will take place on this page. I originally picked this mod since no one was updating it for 1.30, as I enjoyed it a lot while playing my pre 1.30 games with it. Hope you will like it too now! 
+_______________________________________________________________
+
+[h1]Features:[/h1]
+
+1) Doesn't change Checksum, Save-Games, Anything gameplay related.
+2) Changes 2000+ event pictures (all Modules combined).
+3) Increases the size of the Event pictures.
+4) Provide you with range of artwork to gaze at, representing artists from Rembrandt to Hokusai.
+5) Culture Specific Event Pictures, that change depending on which nation you play. 
+_______________________________________________________________
+
+[h1]Follow The Great Exhibition:[/h1]
+
+[url=https://discord.gg/bGVcZyK]DISCORD + Trouble Shooting Instructions[/url]
+_______________________________________________________________
+
+[h1]If you find a bug - write about it - I'll try to fix the problem in the shortest possible time.[/h1]
+_______________________________________________________________
+
+[h1]Credits:[/h1]
+
+- [url=https://steamcommunity.com/id/Tinholt]Tinholt[/url]  for creating the Vanilla'd - The Grand Exhibition.
+- [url=https://steamcommunity.com/id/snaekomu]Kami[/url]  for helping us automate the event data and some of the scripting. 
+- La Mancha for developing the Great Exhibition.
+- [url=https://steamcommunity.com/profiles/76561197978644420]Ernesttico[/url] for help with the project.
+- (ReaPeR2039) for help with the project.
+- [url=https://steamcommunity.com/id/Uberepiczach]UberEpicZach[/url] for help with the project.
+- Shwartz99 for help with the project.
+- Doan for help with the project.
+_______________________________________________________________
+
+[h1]See other mods for Europa Universalis 4:[/h1]
+
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1449952810]Elder Scrolls Universalis[/url] 
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1796527319]World of Warcraft Universalis[/url] 
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1351632822]Gameplay Extension[/url]
+_______________________________________________________________
+
+[i]I hope that you will like the result of my labors, that you will spend your time well and will discover this magnificent game from the new side![/i]
+
+[h1]And do not forget to put the likes, to add mod to favorites and to tell friends about it![/h1]
