@@ -634,6 +634,12 @@ spriteTypes = {
     }		
 
 	spriteType = { #REPLACE?
+        name = "latin_BATTLE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/BATTLE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = { #REPLACE?
         name = "ITALIAN_wars_eventPicture"
         texturefile = "gfx/event_pictures/BATTLE_OF_BOYNE_eventPicture.dds"
         allwaystransparent = yes
@@ -1190,7 +1196,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "flavor_por.11_SHIP_SAILING_eventPicture"
-		texturefile = "gfx/event_pictures/DA_GAMA_ARRIVES_INDIA_eventPicture.dds"
+		texturefile = "gfx/event_pictures/DE_GAMA_BEFORE_ZAMORIN_OF_CALICUT_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
@@ -1857,7 +1863,682 @@ spriteTypes = {
         texturefile = "gfx/event_pictures/BATTLE_OF_GARIGLIANO_eventPicture.dds"
         allwaystransparent = yes
     }
-	
+
+	spriteType = {
+        name = "flavor_nap.2_COURT_eventPicture"
+        texturefile = "gfx/event_pictures/ENTRY_OF_CHARLES_VIII_NAPLES_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_nap.3_IMPORTANT_STATUE_eventPicture"
+        texturefile = "gfx/event_pictures/DARSENA_DELLE_GALERE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_nap.4_IMPORTANT_STATUE_eventPicture"
+        texturefile = "gfx/event_pictures/STATUA_GIGANTE_DI_PALAZZO_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_nap.5_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/MASSANIELLO_REVOLT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_nap.6_PLAGUE_eventPicture"
+        texturefile = "gfx/event_pictures/PLAGUE_OF_NAPLES_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "new_flavour_nap.1_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/ITALIAN_REVOLT_HABSBOURG_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "new_flavour_nap.2_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/ITALIAN_REVOLT_HABSBOURG_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "new_flavour_nap.3_ANGRY_MOB_eventPicture"
+        texturefile = "gfx/event_pictures/ITALIAN_REVOLT_HABSBOURG_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "SCOTTISH_MERCENARIES_eventPicture"
+        texturefile = "gfx/event_pictures/SCOTTISH_MERCENARIES_ARRIVE_NORWAY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "tyw_events.8_SCOTTISH_MERCENARIES_eventPicture"
+        texturefile = "gfx/event_pictures/SCOTTISH_MERCENARIES_ARRIVE_NORWAY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "tyw_events.9_SCOTTISH_MERCENARIES_eventPicture"
+        texturefile = "gfx/event_pictures/SCOTTISH_MERCENARIES_ARRIVE_NORWAY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "flavor_sco.11_CITY_DEVELOPMENT_eventPicture"
+        texturefile = "gfx/event_pictures/LONDON_BRIDGE_16TH_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	# spriteType = {
+    #     name = "scottish_LAND_MILITARY_eventPicture"
+    #     texturefile = "gfx/event_pictures/SCOTTISH_MARCH_CULLODEN_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }	
+
+	# spriteType = {
+    #     name = "burgundian_LAND_MILITARY_eventPicture"
+    #     texturefile = "gfx/event_pictures/BURGUNDY_PIKE_SHOT_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
+
+	spriteType = {
+        name = "burgundian_COURT_eventPicture"
+        texturefile = "gfx/event_pictures/BURGUNDY_PHILIP_THE_GOOD_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "swiss_COURT_eventPicture"
+        texturefile = "gfx/event_pictures/SWITZERLAND_DIET_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+
+	spriteType = {
+        name = "more_flavor_por.1_PORTUGUESE_MERCHANTS_eventPicture"
+        texturefile = "gfx/event_pictures/MACAU_DRAWING_INK_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "more_flavor_por.2_PORTUGUESE_MERCHANTS_eventPicture"
+        texturefile = "gfx/event_pictures/MACAU_SHIPS_BAY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "emp_mission_events.1_POPE_PREACHING_eventPicture"
+        texturefile = "gfx/event_pictures/AVIGNON_SCENE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {#Corruption in the church
+		name = "5098_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/WOMAN_PURCHASING_INDULGENCES_eventPicture.dds"
+		allwaystransparent = yes
+	}		
+
+
+	spriteType = {
+		name = "1081_POPE_PREACHING_eventPicture"
+		texturefile = "gfx/event_pictures/PAPAL_STATE_ROME_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "1082_POPE_PREACHING_eventPicture"
+		texturefile = "gfx/event_pictures/PAPAL_STATE_FEALTY_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "1083_POPE_PREACHING_eventPicture"
+		texturefile = "gfx/event_pictures/CARDINALS_DEBATING_AT_TABLE_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "1084_POPE_PREACHING_eventPicture"
+		texturefile = "gfx/event_pictures/POPE_SELECTION_CARDINALS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "catholic_flavor.2_POPE_PREACHING_eventPicture"
+		texturefile = "gfx/event_pictures/GOD_ON_THRONE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "catholic_flavor.4_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/SIMONY_JUDGED_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "catholic_flavor.5_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/WOMAN_PURCHASING_INDULGENCES_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "catholic_flavor.6_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/VENERATION_OF_RELICS_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "catholic_flavor.7_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/VENERATION_OF_MARY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "catholic_flavor.9_POPE_PREACHING_eventPicture"
+		texturefile = "gfx/event_pictures/WYCLIFFE_DUKE_OF_LANCASTER__eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "curia.4_BAD_POPE_eventPicture"
+		texturefile = "gfx/event_pictures/TREASURY_TRANSPORTED_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "curia.5_BAD_POPE_eventPicture"
+		texturefile = "gfx/event_pictures/TREASURY_TRANSPORTED_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "curia.6_BAD_POPE_eventPicture"
+		texturefile = "gfx/event_pictures/HIGHWAYMEN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "curia.12_BAD_POPE_eventPicture"
+		texturefile = "gfx/event_pictures/RAYMOND_IV_TAKING_THE_CROSS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "curia.13_BAD_POPE_eventPicture"
+		texturefile = "gfx/event_pictures/RAYMOND_IV_TAKING_THE_CROSS_eventPicture.dds"
+		allwaystransparent = yes
+	}		
+
+	spriteType = {
+		name = "canal_events.26_HARBOUR_eventPicture"
+		texturefile = "gfx/event_pictures/SUEZ_CANAL_REIGNER_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_tun.1_BARBARY_PIRATES_eventPicture"
+		texturefile = "gfx/event_pictures/HAYREDDIN_BARBAROSSA_SUN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "incidents_bur_inheritance.5_DEATH_OF_HEIR_eventPicture"
+		texturefile = "gfx/event_pictures/MARY_HORSE_BURGUNDIAN_INCIDENT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "incidents_bur_inheritance.501_DEATH_OF_HEIR_eventPicture"
+		texturefile = "gfx/event_pictures/MARY_HORSE_BURGUNDIAN_INCIDENT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "incidents_bur_inheritance.502_DEATH_OF_HEIR_eventPicture"
+		texturefile = "gfx/event_pictures/MARY_HORSE_BURGUNDIAN_INCIDENT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "incidents_bur_inheritance.6_wihgfx_FEMALE_RULER_eventPicture"
+		texturefile = "gfx/event_pictures/MARY_OF_BURGUNDY_GRANTING_PRIVILEGE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "incidents_bur_inheritance.101_DEATH_OF_HEIR_eventPicture"
+		texturefile = "gfx/event_pictures/MARY_OF_BURGUNDY_GRANTING_PRIVILEGE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "incidents_bur_inheritance.102_DEATH_OF_HEIR_eventPicture"
+		texturefile = "gfx/event_pictures/MARY_OF_BURGUNDY_GRANTING_PRIVILEGE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_swi.5_PROTESTANT_PRINTED_eventPicture"
+		texturefile = "gfx/event_pictures/CALVIN_AND_PROFESSORS_GENEVA_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_swi.6_PROTESTANT_GREAT_REFORMER_eventPicture"
+		texturefile = "gfx/event_pictures/JOHN_CALVIN_AGED_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_swi.7_PROTESTANT_GREAT_REFORMER_eventPicture"
+		texturefile = "gfx/event_pictures/JOHN_CALVIN_GENEVA_CONFERENCE_1549_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_swi.8_PROTESTANT_GREAT_REFORMER_eventPicture"
+		texturefile = "gfx/event_pictures/JOHN_CALVIN_DENYING_COMMUNION_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_swi.9_LAND_MILITARY_eventPicture"
+		texturefile = "gfx/event_pictures/HUNDRED_YEARS_WAR_MERCENARIES_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_swi.10_LAND_MILITARY_eventPicture"
+		texturefile = "gfx/event_pictures/SWISS_PIKEMEN_BATTLE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "bavarian_LAND_MILITARY_eventPicture"
+		texturefile = "gfx/event_pictures/BAVARIAN_ARMY_SIEGESTOR_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "new_flavour_bav.20_CITY_VIEW_eventPicture"
+		texturefile = "gfx/event_pictures/THEATINERKIRCHE_DRAWING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "new_flavour_bav.201_CITY_VIEW_eventPicture"
+		texturefile = "gfx/event_pictures/THEATINERKIRCHE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_hun.1_DEBATE_REPUBLICAN_eventPicture"
+		texturefile = "gfx/event_pictures/JANOS_HUNYADI_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_hun.2_ELECTION_REPUBLICAN_eventPicture"
+		texturefile = "gfx/event_pictures/CORVINUS_PALACE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_hun.4_REFORM_eventPicture"
+		texturefile = "gfx/event_pictures/MATTHIAS_CORVINUS_THRONE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_hun.9_BATTLE_eventPicture"
+		texturefile = "gfx/event_pictures/ADVANCE_OF_TURKS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_hun.20_MILITARY_CAMP_eventPicture"
+		texturefile = "gfx/event_pictures/BELGRADE_FORTRESS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_hun.21_BORDER_TENSION_eventPicture"
+		texturefile = "gfx/event_pictures/SERBIAN_SURRENDER_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_hun.23_ADVISOR_eventPicture"
+		texturefile = "gfx/event_pictures/TAMAS_NADASDY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_hun.33_BORDER_TENSION_eventPicture"
+		texturefile = "gfx/event_pictures/KURUK_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "flavor_hun.34_ELECTION_REPUBLICAN_eventPicture"
+		texturefile = "gfx/event_pictures/RAKOCZI_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_hun.35_ELECTION_REPUBLICAN_eventPicture"
+		texturefile = "gfx/event_pictures/RAKOCZI_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_hun.36_ELECTION_REPUBLICAN_eventPicture"
+		texturefile = "gfx/event_pictures/RAKOCZI_REVOLT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_hun.37_ELECTION_REPUBLICAN_eventPicture"
+		texturefile = "gfx/event_pictures/RAKOCZI_REVOLT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "knights_missions.1_RELIGIOUS_WARS_eventPicture"
+		texturefile = "gfx/event_pictures/HOSPITALERS_CAPTURE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "knights_missions.2_RELIGIOUS_WARS_eventPicture"
+		texturefile = "gfx/event_pictures/JERUSALEM_CAPTURE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "knights_missions.3_RELIGIOUS_WARS_eventPicture"
+		texturefile = "gfx/event_pictures/BALDWIN_OF_FLOWERS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "knights_missions.4_DEATH_OF_HEIR_eventPicture"
+		texturefile = "gfx/event_pictures/ARK_OF_COVENANT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_ser.4_COURT_eventPicture"
+		texturefile = "gfx/event_pictures/CARIGRAD_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.1_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/SWISS_GUARD_THREE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.5_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/PASSETTO_DI_BORGO_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.6_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/PAUL_III_AND_GRANDSONS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.7_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/PAUL_III_AND_GRANDSONS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.8_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/PAUL_III_SPEAKS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.9_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/PAUL_III_SPEAKS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.10_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/SACK_OF_ROME_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.11_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/VATICAN_LIBRARY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.12_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/SISTINE_CHAPEL_COMMISSIONER_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.13_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/SISTINE_CHAPEL_PAINTING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.14_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/WOMAN_PURCHASING_INDULGENCES_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.15_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/SIMONY_JUDGED_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.16_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/VENERATION_OF_RELICS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.17_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/GALILEO_AND_MONK_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.22_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/WITCH_TRIAL_MARK_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.23_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/PAUL_III_SPEAKS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.26_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/WITCH_TRIAL_MARK_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.27_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/PAUL_III_SPEAKS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.28_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/PAUL_III_SPEAKS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "papacy_events.29_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/POPE_LEO_X_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+
+	spriteType = {
+		name = "papacy_events.30_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/POPE_LEO_X_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "seven_cities_events.204_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/UNDERGROUND_SPRING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "industrialization_events.2_URBANIZATION_eventPicture"
+		texturefile = "gfx/event_pictures/COKE_BLAST_FURNACE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "industrialization_events.4_INDUSTRIALIZATION_eventPicture"
+		texturefile = "gfx/event_pictures/ROTTERHAM_PLOW_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "industrialization_events.5_TEXTILE_INDUSTRY_eventPicture"
+		texturefile = "gfx/event_pictures/FLYING_SHUTTLE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "industrialization_events.6_TEXTILE_INDUSTRY_eventPicture"
+		texturefile = "gfx/event_pictures/SPINNING_JENNY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "industrialization_events.7_LARGE_SHIPYARD_eventPicture"
+		texturefile = "gfx/event_pictures/CANAL_SCENE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "industrialization_events.11_PRINTING_PRESS_eventPicture"
+		texturefile = "gfx/event_pictures/PAPER_INDUSTRIALIZATION_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "industrialization_events.12_RIOTING_workers_eventPicture"
+		texturefile = "gfx/event_pictures/HOSTITILITY_TO_PRODUCTION_METHODS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "industrialization_events.18_RIOTING_workers_eventPicture"
+		texturefile = "gfx/event_pictures/POOR_ARTISANS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "industrialization_events.19_PLAGUE_eventPicture"
+		texturefile = "gfx/event_pictures/CHILD_DISEASE_INDUSTRIAL_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "industrialization_events.21_PLAGUE_eventPicture"
+		texturefile = "gfx/event_pictures/URBAN_FIRE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "industrialization_events.20_RIOTING_workers_eventPicture"
+		texturefile = "gfx/event_pictures/MINING_EXPLOSION_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "industrialization_events.22_TEXTILE_INDUSTRY_eventPicture"
+		texturefile = "gfx/event_pictures/SAD_EMBROIDERY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "industrialization_events.3_ATMOSPHERIC_ENGINE_eventPicture"
+		texturefile = "gfx/event_pictures/WATTS_PROTOTYPE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "industrialization_events.12_URBANIZATION_eventPicture"
+		texturefile = "gfx/event_pictures/GLASS_INDUSTRY_FURNACE_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "industrialization_events.13_URBANIZATION_eventPicture"
+		texturefile = "gfx/event_pictures/URBANIZATION_INDUSTRIAL_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "industrialization_events.14_URBANIZATION_eventPicture"
+		texturefile = "gfx/event_pictures/METALWORKS_SMELTING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+        name = "austrian_NAVAL_MILITARY_eventPicture"
+        texturefile = "gfx/event_pictures/AUSTRIAN_SHIPS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "austrian_FLAGSHIP_SUNK_eventPicture"
+        texturefile = "gfx/event_pictures/AUSTRIAN_FLAGSHIP_WRECKED_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "austrian_COURT_eventPicture"
+        texturefile = "gfx/event_pictures/MARIA_THERESA_VIENNA_ARCHIVE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "austrian_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/WENZEL_ANTON_PORTRAIT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "5083_RELIGION_eventPicture"
+        texturefile = "gfx/event_pictures/DA_VINCI_WITH_SIEGE_DRAWINGS_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
 	spriteType = {
         name = "5083_ADVISOR_eventPicture"
         texturefile = "gfx/event_pictures/DA_VINCI_WITH_SIEGE_DRAWINGS_eventPicture.dds"
@@ -2298,7 +2979,7 @@ spriteTypes = {
 		# Catherine of Aragon 
 		spriteType = {
 			name = "women_history_events.26_wihgfx_FEMALE_RULER_eventPicture"
-			texturefile = "gfx/event_pictures/CATHERINE_OF_ARAGON_eventPicture.dds"
+			texturefile = "gfx/event_pictures/CATHERINE_OF_ARAGON_COLOR_eventPicture.dds"
 			allwaystransparent = yes
 		}
 
