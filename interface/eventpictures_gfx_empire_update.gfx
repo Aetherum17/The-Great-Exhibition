@@ -1254,6 +1254,17 @@ spriteTypes = {
         allwaystransparent = yes
     }
 
+	spriteType = {
+        name = "fee_POR.4_UNIVERSITY_eventPicture"
+        texturefile = "gfx/event_pictures/HENRYS_NAVIGATORS_SCHOOL_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "fee_POR.1_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/LUIS_DE_CAMOES_eventPicture.dds"
+        allwaystransparent = yes
+    }
 
 	spriteType = {
         name = "flavor_mlo.1_DEBATE_REPUBLICAN_eventPicture"
@@ -1399,6 +1410,18 @@ spriteTypes = {
         texturefile = "gfx/event_pictures/ARTE_ABBACO_eventPicture.dds"
         allwaystransparent = yes
     }	
+
+	spriteType = {
+		name = "flavor_ven.11_POPE_PREACHING_eventPicture"
+		texturefile = "gfx/event_pictures/ROLAND_OF_PARMA_WITH_LETTER_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_ven.13_MERCHANTS_TALKING_eventPicture"
+		texturefile = "gfx/event_pictures/PORTUGUESE_SHIP_OFFLOADING_eventPicture.dds"
+		allwaystransparent = yes
+	}
 
 	spriteType = {
         name = "flavor_ven.12_POPE_PREACHING_eventPicture"
@@ -2041,7 +2064,7 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "catholic_flavor.9_POPE_PREACHING_eventPicture"
+		name = "catholic_flavor.10_RELIGION_eventPicture"
 		texturefile = "gfx/event_pictures/WYCLIFFE_DUKE_OF_LANCASTER__eventPicture.dds"
 		allwaystransparent = yes
 	}
@@ -2414,6 +2437,478 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "seven_cities_events.1_LAKE_TREASURE_eventPicture"
+		texturefile = "gfx/event_pictures/DORADO_LEGEND_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Bad End of El Dorado
+		name = "seven_cities_events.200_NOTHING_FOUND_eventPicture"
+		texturefile = "gfx/event_pictures/DORADO_MYTH_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Ultimate End of El Dorado
+		name = "seven_cities_events.202_GOLDEN_CITY_eventPicture"
+		texturefile = "gfx/event_pictures/EL_DORADO_FOUND_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Cibola
+		name = "seven_cities_events.3_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/MARCOS_DE_NIZA_GOLDEN_CITY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Bad End of Cibola
+		name = "seven_cities_events.206_NOTHING_FOUND_eventPicture"
+		texturefile = "gfx/event_pictures/CIBOLA_DISAPOINTED_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Good End of Cibola
+		name = "seven_cities_events.207_INCA_CITY_eventPicture"
+		texturefile = "gfx/event_pictures/MARCOS_DE_NIZA_GOLDEN_CITY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Ultimate End of Cibola
+		name = "seven_cities_events.208_GOLDEN_CITY_eventPicture"
+		texturefile = "gfx/event_pictures/CIBOLA_LEGEND_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "seven_cities_events.4_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/CITY_OF_CAESARS_GOOD_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Good End of City of the Caesars
+		name = "seven_cities_events.210_INCA_CITY_eventPicture"
+		texturefile = "gfx/event_pictures/DISCOVERING_INCAN_CITY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "seven_cities_events.6_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/NORUMBEGA_MYTH_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {# 
+		name = "seven_cities_events.213_INCA_CITY_eventPicture"
+		texturefile = "gfx/event_pictures/SILVER_MOUNTAIN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Bad End of Norumbega
+		name = "seven_cities_events.215_NOTHING_FOUND_eventPicture"
+		texturefile = "gfx/event_pictures/NORUMBEGA_MYTH_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {# Good End of Norumbega
+		name = "seven_cities_events.216_NATIVES_LOW_eventPicture"
+		texturefile = "gfx/event_pictures/VIKING_VILLAGE_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {# Ultimate End of Norumbega
+		name = "seven_cities_events.217_GOLDEN_CITY_eventPicture"
+		texturefile = "gfx/event_pictures/VIKING_LEGEND_NORUMBEGA_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "seven_cities_events.8_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/QUIVIRA_LEGEND_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Bad End of Quivira
+		name = "seven_cities_events.221_NOTHING_FOUND_eventPicture"
+		texturefile = "gfx/event_pictures/ETZANOA_OUTDATED_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Good End of Quivira
+		name = "seven_cities_events.222_INCA_CITY_eventPicture"
+		texturefile = "gfx/event_pictures/ETZANOA_LARGE_CITY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Ultimate End of Quivira
+		name = "seven_cities_events.223_GOLDEN_CITY_eventPicture"
+		texturefile = "gfx/event_pictures/QUIVIRA_LEGEND_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "seven_cities_events.310_HUNTER_GATHERERS_eventPicture"
+		texturefile = "gfx/event_pictures/TIPI_IN_WINTER_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Saved by a Princess
+		name = "seven_cities_events.301_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/SAVED_BY_A_PRINCESS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Attacked by [Root.Culture.GetGroupName]s
+		name = "seven_cities_events.302_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/CONQUISTADOR_ATTACKED_BY_NATIVE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#  A Dog's Life
+		name = "seven_cities_events.304_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/CONQUISTADOR_DOG_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Faster, slowpokes!
+		name = "seven_cities_events.305_NATIVES_LOW_eventPicture"
+		texturefile = "gfx/event_pictures/FASTER_SLOWPOKES_CONQUISTADOR_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Lost in Mind and Space - dedicated to Maja Wendel-?rtqvist (disappearing sister extraordinary)
+		name = "seven_cities_events.303_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/CONQUISTADOR_IN_RIVER_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#The trail goes cold (for country searching for three cities)
+		name = "seven_cities_events.1000_NOTHING_FOUND_eventPicture"
+		texturefile = "gfx/event_pictures/CONQUISTADOR_LOST_IN_FOREST_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#Mutiny in $PROVINCENAME$!
+		name = "seven_cities_events.309_HUNTER_GATHERERS_eventPicture"
+		texturefile = "gfx/event_pictures/ACCEPTING_PEACE_PIPE_FROM_NATIVES_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# The Amazons
+		name = "seven_cities_events.308_NATIVES_LOW_eventPicture"
+		texturefile = "gfx/event_pictures/AMAZON_AMBUSH_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# The Survivor
+		name = "seven_cities_events.400_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/EXPLORERS_AMBUSHED_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Drunken Whiskey Thieves
+		name = "seven_cities_events.401_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/FUR_TRADER_CASK_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Poison Rock
+		name = "seven_cities_events.406_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/SERRA_DO_MAR_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# False as diamonds of $PROVINCENAME$ - Idea by Guillaume HJ
+		name = "seven_cities_events.407_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/JEWEL_EXAMINATION_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# # A Deserter Resurfaces! - Idea by Guillaume HJ
+		name = "seven_cities_events.408_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/PYLE_CANOE_SOLDIER_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Hic Sunt Dracones - Idea by Guillaume HJ
+		name = "seven_cities_events.413_NATIVES_LOW_eventPicture"
+		texturefile = "gfx/event_pictures/CORONADO_IN_CANYON_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# A Glimmer of Hope - Landmark sighted!
+		name = "seven_cities_events.103_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/GIANT_RUINS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#Start: Abandoned Mounds - Idea by Guillaume HJ
+		name = "seven_cities_events.410_AZTEC_PYRAMID_eventPicture"
+		texturefile = "gfx/event_pictures/RUINS_IN_JUNGLE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#Bad End: Abandoned Mounds
+		name = "seven_cities_events.411_NOTHING_FOUND_eventPicture"
+		texturefile = "gfx/event_pictures/CROSSING_RIO_PARAIBA_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#Good End: Abandoned Mounds
+		name = "seven_cities_events.412_AZTEC_PYRAMID_eventPicture"
+		texturefile = "gfx/event_pictures/MAYAN_TEMPLE_TORCH_BURNING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# A most deadly lake - Idea by Guillaume HJ
+		name = "seven_cities_events.414_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/DEADLY_LAKE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Explorer dies
+		name = "seven_cities_events.100_GUARDED_TREASURE_eventPicture"
+		texturefile = "gfx/event_pictures/EXPLORER_DIES_IN_AMBUSH_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Starvation
+		name = "seven_cities_events.101_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/SURVIVORS_OF_NARVAEZ_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Long Pig
+		name = "seven_cities_events.105_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/LONG_PIG_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# The Woman Among Us
+		name = "seven_cities_events.300_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/SACAGAWEA_AT_THREE_FORKS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {# Attacked by natives
+		name = "seven_cities_events.102_NATIVES_LOW_eventPicture"
+		texturefile = "gfx/event_pictures/AMAZON_AMBUSH_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#  Kingdom of Saguenay
+		name = "seven_cities_events.7_CONQUISTADORS_eventPicture"
+		texturefile = "gfx/event_pictures/SAGUENAY_LEGEND_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#Bad End of Kingdom of Saguenay
+		name = "seven_cities_events.218_NOTHING_FOUND_eventPicture"
+		texturefile = "gfx/event_pictures/SAGUENAY_MYTH_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#Good End of Kingdom of Saguenay
+		name = "seven_cities_events.219_NATIVES_HIGH_eventPicture"
+		texturefile = "gfx/event_pictures/SAGUENAY_HOAX_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#Ultimate End of Kingdom of Saguenay
+		name = "seven_cities_events.220_GOLDEN_CITY_eventPicture"
+		texturefile = "gfx/event_pictures/SAGUENAY_MYTHICAL_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+
+	#Reform
+	spriteType = {
+		name = "westerngfx_REVOLUTION_eventPicture"
+		texturefile = "gfx/event_pictures/LIGHT_ON_BARRICADES_RED_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "germanic_REVOLUTION_eventPicture"
+		texturefile = "gfx/event_pictures/LIGHT_ON_BARRICADES_BERLIN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "french_REVOLUTION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/REVOLUTION_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	#Reform
+	# spriteType = {
+	# 	name = "east_slavic_REFORM_eventPicture"
+	# 	texturefile = "gfx/event_pictures/IVAN_AND_WET_NURSE_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+
+	spriteType = {
+		name = "asiangfx_REFORM_eventPicture"
+		texturefile = "gfx/event_pictures/ADMINISTERS_CONVERSING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#was missing picture replaced picture file with IVAN_AND_WET_NURSE_eventPicture
+		name = "east_slavic_REFORM_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_TR/WESTERN_TZAR_AND_PETERSBURG_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "africangfx_COURT_eventPicture"
+		texturefile = "gfx/event_pictures/ASHANTI_RULER_AT_COURT_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {#same as africangfx COURT
+		name = "africangfx_REFORM_eventPicture"
+		texturefile = "gfx/event_pictures/ASHANTI_RULER_AT_COURT_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {#same as africangfx COURT
+		name = "africangfx_DIPLOMACY_eventPicture"
+		texturefile = "gfx/event_pictures/ASHANTI_RULER_AT_COURT_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "cushitic_COURT_eventPicture"
+		texturefile = "gfx/event_pictures/EASTER_CELEBRATION_IN_ADDIS_ABABA_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#same as kongo_group_COURT_eventPicture
+		name = "kongolese_REFORM_eventPicture"
+		texturefile = "gfx/event_pictures/CONGOLESE_THRONE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#same as kongo_group_COURT_eventPicture
+		name = "kongolese_DIPLOMACY_eventPicture"
+		texturefile = "gfx/event_pictures/CONGOLESE_THRONE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "cushitic_REFORM_eventPicture"
+		texturefile = "gfx/event_pictures/EASTER_CELEBRATION_IN_ADDIS_ABABA_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "cushitic_DIPLOMACY_eventPicture"
+		texturefile = "gfx/event_pictures/EASTER_CELEBRATION_IN_ADDIS_ABABA_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "korean_ANGRY_MOB_eventPicture"
+		texturefile = "gfx/event_pictures/JAPANESE_MAURADERS_PILLAGING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "japanese_g_HEIR_EDUCATION_eventPicture"
+		texturefile = "gfx/event_pictures/TEACHING_ABACUS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "HEIR_EDUCATION_eventPicture"
+		texturefile = "gfx/event_pictures/EDUCATION_JOHN_OF_ASTURIA_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "africangfx_HEIR_EDUCATION_eventPicture"
+		texturefile = "gfx/event_pictures/ASHANTI_PRINCE_GOLD_COAST_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "southamericagfx_HEIR_EDUCATION_eventPicture"
+		texturefile = "gfx/event_pictures/MAYAN_ASTRONOMER_AND_STUDENTS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "northamericagfx_HEIR_EDUCATION_eventPicture"
+		texturefile = "gfx/event_pictures/NA_HISTORIAN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "asiangfx_HEIR_EDUCATION_eventPicture"
+		texturefile = "gfx/event_pictures/CONFUCIAN_EDUCATION_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "confucian_HEIR_EDUCATION_eventPicture"
+		texturefile = "gfx/event_pictures/CONFUCIAN_EDUCATION_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "muslimgfx_HEIR_EDUCATION_eventPicture"
+		texturefile = "gfx/event_pictures/AL_AZHAR_COURTYARD_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "9450_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/MADAME_DE_PAMPADOUR_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_azt.1_GREAT_BUILDING_eventPicture"
+		texturefile = "gfx/event_pictures/GREAT_PYRAMID_TENOCHTILAN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_azt.2_GREAT_BUILDING_eventPicture"
+		texturefile = "gfx/event_pictures/GREAT_PYRAMID_TENOCHTILAN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_azt.6_COMET_SIGHTED_eventPicture"
+		texturefile = "gfx/event_pictures/NEW_FIRE_CEREMONY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "nahuatl_events.18_MILITARY_CAMP_eventPicture"
+		texturefile = "gfx/event_pictures/OLLAMALITZLI_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "nahuatl_events.21_HUMAN_SACRIFICE_eventPicture"
+		texturefile = "gfx/event_pictures/GLADIATOR_AZTEC_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "nahuatl_events.22_HUMAN_SACRIFICE_eventPicture"
+		texturefile = "gfx/event_pictures/GLADIATOR_STONE_ALTERNATE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "nahuatl_events.23_HUMAN_SACRIFICE_eventPicture"
+		texturefile = "gfx/event_pictures/GLADIATOR_AZTEC_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+
+	spriteType = {
 		name = "industrialization_events.2_URBANIZATION_eventPicture"
 		texturefile = "gfx/event_pictures/COKE_BLAST_FURNACE_eventPicture.dds"
 		allwaystransparent = yes
@@ -2569,6 +3064,54 @@ spriteTypes = {
         allwaystransparent = yes
     }
 
+	spriteType = {
+        name = "fee_gbr_eng.6_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/SAMUEL_PEPYS_DESK_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "fee_gbr_eng.9_BANKRUPTCY_eventPicture"
+        texturefile = "gfx/event_pictures/SOUTH_SEA_BUBBLE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "fee_gbr_eng.8_ECONOMY_eventPicture"
+        texturefile = "gfx/event_pictures/SOUTH_SEA_COMPANY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "fee_gbr_eng.11_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/JENKINS_EAR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "fee_gbr_eng.12_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/COVENT_GARDEN_THEATRE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "fee_gbr_eng.15_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/ELIZABETH_KNIGHTING_DRAKE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "fee_gbr_eng.17_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/PETER_JACKSON_GREAT_FIRE_LONDON_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "fee_gbr_eng.18_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/WREN_PLAN_LONDON_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
     spriteType = {
         name = "flavor_boh.1_HUSSITE_eventPicture"
         texturefile = "gfx/event_pictures/JIRI_PODEBRAD_CALL_TO_ARMS_eventPicture.dds"
@@ -2620,6 +3163,68 @@ spriteTypes = {
 	spriteType = {
         name = "flavor_boh.12_POPE_PREACHING_eventPicture"
         texturefile = "gfx/event_pictures/JAN_HUSS_PREACHING_BETHLEHEM_eventPicture.dds"
+        allwaystransparent = yes
+    }
+#new
+
+
+	spriteType = {
+        name = "CE_ansbach_expanded.1_ELECTION_REPUBLICAN_eventPicture"
+        texturefile = "gfx/event_pictures/ALBRECHT_ACHILLES_IN_BATTLE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "CE_brandenburg_expanded.51_ELECTION_REPUBLICAN_eventPicture"
+        texturefile = "gfx/event_pictures/COINS_ON_THE_TABLE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "CE_brandenburg_expanded.52_ELECTION_REPUBLICAN_eventPicture"
+        texturefile = "gfx/event_pictures/TINY_SCALES_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "CE_brandenburg_expanded.56_ELECTION_REPUBLICAN_eventPicture"
+        texturefile = "gfx/event_pictures/ORDER_OF_ST_JOHN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "CE_brandenburg_expanded.56_ELECTION_REPUBLICAN_eventPicture"
+        texturefile = "gfx/event_pictures/ORDER_OF_ST_JOHN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "CE_brandenburg_expanded.57_ELECTION_REPUBLICAN_eventPicture"
+        texturefile = "gfx/event_pictures/ORDER_OF_ST_JOHN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "CE_brandenburg_expanded.58_ELECTION_REPUBLICAN_eventPicture"
+        texturefile = "gfx/event_pictures/ORDER_OF_ST_JOHN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "CE_brandenburg_expanded.59_ELECTION_REPUBLICAN_eventPicture"
+        texturefile = "gfx/event_pictures/ORDER_OF_ST_JOHN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "CE_brandenburg_expanded.31_ELECTION_REPUBLICAN_eventPicture"
+        texturefile = "gfx/event_pictures/GERMAN_WINE_TASTING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "CE_brandenburg_expanded.32_ELECTION_REPUBLICAN_eventPicture"
+        texturefile = "gfx/event_pictures/MERRY_MONKS_eventPicture.dds"
         allwaystransparent = yes
     }
 
