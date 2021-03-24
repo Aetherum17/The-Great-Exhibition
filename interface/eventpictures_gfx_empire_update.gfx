@@ -41,6 +41,11 @@ spriteTypes = {
 			allwaystransparent = yes
 		}
 	spriteType = {
+			name = "subject_interaction_events.27_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/event_pictures_GE/TRADEGOODS_eventPicture.dds"
+			allwaystransparent = yes
+		}			
+	spriteType = {
 			name = "TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
 			texturefile = "gfx/event_pictures/event_pictures_GE/TRADEGOODS_eventPicture.dds"
 			allwaystransparent = yes
@@ -61,6 +66,12 @@ spriteTypes = {
 			texturefile = "gfx/event_pictures/SLAVE_TRADE_eventPicture.dds"
 			allwaystransparent = yes
 		}			
+
+	spriteType = {
+			name = "prices.26_TRADEGOODS_eventPicture"
+			texturefile = "gfx/event_pictures/event_pictures_GE/TRADEGOODS_eventPicture.dds"
+			allwaystransparent = yes
+		}		
 
 	spriteType = {#bottger
 			name = "prices.3_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
@@ -2745,11 +2756,285 @@ spriteTypes = {
 	# 	allwaystransparent = yes
 	# }
 
+	#new
+
+	#vietnamese
+	spriteType = {
+		name = "vietnamese_COURT_eventPicture"
+		texturefile = "gfx/event_pictures/NGUYEN_MINISTRY_OF_PUBLIC_WORKS_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "africangfx_ADVISOR_eventPicture"
+		texturefile = "gfx/event_pictures/MOSTAERT_AFRICAN_PORTRAIT_eventPicture.dds"
+		allwaystransparent = yes
+	}		
+
+	spriteType = {
+        name = "fetishist_flavor.1_FETISHIST_FIRE_eventPicture"
+        texturefile = "gfx/event_pictures/ORISHAS_COLLECTIVE_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "fetishist_flavor.4_FETISHIST_FIRE_eventPicture"
+        texturefile = "gfx/event_pictures/BABALAWO_DIVINING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "fetishist_flavor.131_FETISHIST_FIRE_eventPicture"
+        texturefile = "gfx/event_pictures/IBADAN_TEMPLE_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "fetishist_flavor.173_TRIBES_MEETING_eventPicture"
+        texturefile = "gfx/event_pictures/SYBIL_JANSSENS_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "fetishist_flavor.175_TRIBES_MEETING_eventPicture"
+        texturefile = "gfx/event_pictures/IBADAN_TEMPLE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "fetishist_flavor.204_TRIBES_MEETING_eventPicture"
+        texturefile = "gfx/event_pictures/RAINMAKER_DANCE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "fetishist_flavor.205_FARMING_eventPicture"
+        texturefile = "gfx/event_pictures/AFRICAN_BOUNTIFUL_HARVEST_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {#fetishist_flavor.206.t:0 "The Indifference of God"
+		name = "africangfx_FAMINE_eventPicture"
+		texturefile = "gfx/event_pictures/DROUGHT_SAVANNAH_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "sahelian_FAMINE_eventPicture"
+		texturefile = "gfx/event_pictures/DROUGHT_DESERT_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "sudanese_FAMINE_eventPicture"
+		texturefile = "gfx/event_pictures/DROUGHT_DESERT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+        name = "fetishist_flavor.400_POPE_PREACHING_eventPicture"
+        texturefile = "gfx/event_pictures/MISSIONARIES_SON_OF_GOD_AFRICA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "fetishist_flavor.401_PRAYING_eventPicture"
+        texturefile = "gfx/event_pictures/ONENESS_OF_GOD_FETISHIST_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "fetishist_flavor.402_BUDDHA_eventPicture"
+        texturefile = "gfx/event_pictures/FOUR_NOBLE_TRUTHS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "fetishist_flavor.403_NEW_HEIR_eventPicture"
+        texturefile = "gfx/event_pictures/THE_ETERNAL_WAY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "fetishist_flavor.404_COMET_SIGHTED_eventPicture"
+        texturefile = "gfx/event_pictures/THE_MIGHT_OF_THE_SUN_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "fetishist_flavor.405_HORDE_ON_HORSEBACK_eventPicture"
+        texturefile = "gfx/event_pictures/LADY_OF_SLAIN_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "fetishist_flavor.406_BIG_BOOK_eventPicture"
+        texturefile = "gfx/event_pictures/THE_LAWS_OF_IGZIABEHER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "fetishist_flavor.407_PRAYING_eventPicture"
+        texturefile = "gfx/event_pictures/THE_ETERNAL_FIRE_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "fetishist_flavor.461_POPE_PREACHING_eventPicture"
+        texturefile = "gfx/event_pictures/FIRE_EXTINGUISHED_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "fetishist_flavor.500_ACCUSATION_eventPicture"
+        texturefile = "gfx/event_pictures/COUNCIL_OF_CAPITAL_FETISHIST_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "fetishist_flavor.501_INVENTION_eventPicture"
+        texturefile = "gfx/event_pictures/STAR_GAZING_PYRAMID_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "FEE_Scotland_Events.18_COURT_eventPicture"
+        texturefile = "gfx/event_pictures/SCOTTISH_SIGNING_OF_NATIONAL_CONVENTION_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "FEE_Scotland_Events.33_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/WATTS_PROTOTYPE_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "FEE_Scotland_Events.32_ADVISOR_eventPicture"
+        texturefile = "gfx/event_pictures/ADAM_SMITH_WEALTH_NATIONS_eventPicture.dds"
+        allwaystransparent = yes
+    }		
+
+	spriteType = {
+        name = "FEE_Iberia_Events.10_ENLIGHTENMENT_eventPicture"
+        texturefile = "gfx/event_pictures/JIMINEZ_DE_CISNEROS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "FEE_Iberia_Events.13_ENLIGHTENMENT_eventPicture"
+        texturefile = "gfx/event_pictures/JUAN_DE_AVILA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "FEE_Iberia_Events.14_ENLIGHTENMENT_eventPicture"
+        texturefile = "gfx/event_pictures/BENEDICTINE_ORDER_REFORM_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "FEE_Iberia_Events.15_ENLIGHTENMENT_eventPicture"
+        texturefile = "gfx/event_pictures/REFORM_AMONG_FRANCISCANS_eventPicture.dds"
+        allwaystransparent = yes
+    }		
+
+	spriteType = {
+        name = "flavor_oir.8_MONGOL_BANNERS_eventPicture"
+        texturefile = "gfx/event_pictures/DZUNGARS_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+	
+	spriteType = {
+        name = "flavor_oir.1_MONGOL_BANNERS_eventPicture"
+        texturefile = "gfx/event_pictures/TUMU_CRISIS_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "flavor_oir.5_MONGOL_BANNERS_eventPicture"
+        texturefile = "gfx/event_pictures/BEIJING_CAPTURED_eventPicture.dds"
+        allwaystransparent = yes
+    }			
+
+	spriteType = {
+        name = "flavor_oir.6_MONGOL_BANNERS_eventPicture"
+        texturefile = "gfx/event_pictures/BEIJING_CAPTURED_eventPicture.dds"
+        allwaystransparent = yes
+    }			
+
 	spriteType = {
 		name = "asiangfx_REFORM_eventPicture"
 		texturefile = "gfx/event_pictures/ADMINISTERS_CONVERSING_eventPicture.dds"
 		allwaystransparent = yes
 	}
+
+	spriteType = {#current base picture was from COC this is from LAND_MILIARY replace?
+		name = "asiangfx_DISCIPLINED_SOLDIERS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/LAND_MILITARY_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "east_asian_DISCIPLINED_SOLDIERS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_MOH/CHINESE_GENERAL_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "shinto_DISCIPLINED_SOLDIERS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_MOH/SENGOKU_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "confucianism_DISCIPLINED_SOLDIERS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_MOH/CHINESE_GENERAL_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	#Land Military
+	spriteType = {
+		name = "muslim_DISCIPLINED_SOLDIERS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_COC/disciplined_soldiers.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "southamericagfx_DISCIPLINED_SOLDIERS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ED/AZTEC_WARRIOR_LIFE_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "northamericagfx_DISCIPLINED_SOLDIERS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_PARADISE/LAND_MILITARY_eventPicture.dds"
+	}
+
+	#Land Military
+	spriteType = {
+		name = "east_slavic_DISCIPLINED_SOLDIERS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_TR/STRELTSY_MARCHING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "indiangfx_DISCIPLINED_SOLDIERS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_WON/LAND_MILITARY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "easterngfx_DISCIPLINED_SOLDIERS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/LAND_MILITARY_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "westerngfx_DISCIPLINED_SOLDIERS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/LAND_MILITARY_eventPicture.dds"
+		allwaystransparent = yes
+	}		
 
 	spriteType = {#was missing picture replaced picture file with IVAN_AND_WET_NURSE_eventPicture
 		name = "east_slavic_REFORM_eventPicture"
@@ -2822,6 +3107,12 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/EDUCATION_JOHN_OF_ASTURIA_eventPicture.dds"
 		allwaystransparent = yes
 	}
+
+	spriteType = {
+		name = "easterngfx_HEIR_EDUCATION_eventPicture"
+		texturefile = "gfx/event_pictures/DYAK_ZOTOV_INSTRUCTING_PETR_eventPicture.dds"
+		allwaystransparent = yes
+	}	
 
 	spriteType = {
 		name = "africangfx_HEIR_EDUCATION_eventPicture"
@@ -3165,7 +3456,6 @@ spriteTypes = {
         texturefile = "gfx/event_pictures/JAN_HUSS_PREACHING_BETHLEHEM_eventPicture.dds"
         allwaystransparent = yes
     }
-#new
 
 
 	spriteType = {
@@ -3332,7 +3622,13 @@ spriteTypes = {
         name = "christian_CHURCH_ESTATE_2_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COS/CHURCH_ESTATE_1_eventPicture.dds"
         allwaystransparent = yes
-    }	
+    }
+
+	spriteType = {
+        name = "christian_CHURCH_ESTATE_2_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_COS/CHURCH_ESTATE_1_eventPicture.dds"
+        allwaystransparent = yes
+    }		
 
 	spriteType = {
         name = "FLAGSHIP_SUNK_eventPicture"
@@ -3401,8 +3697,8 @@ spriteTypes = {
     }
 
 	spriteType = {
-        name = "PIRATE_QUEEN_eventPicture"
-        texturefile = "gfx/event_pictures/PIRATE_QUEEN_eventPicture.dds"
+        name = "PIRATE_QUEENS_eventPicture"
+        texturefile = "gfx/event_pictures/PIRATE_QUEENS_eventPicture.dds"
         allwaystransparent = yes
     }
 
