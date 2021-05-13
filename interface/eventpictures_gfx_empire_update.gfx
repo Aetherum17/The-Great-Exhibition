@@ -2738,11 +2738,53 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "germanic_REVOLUTION_eventPicture"
+		name = "pommeranian_REVOLUTION_eventPicture"
 		texturefile = "gfx/event_pictures/LIGHT_ON_BARRICADES_BERLIN_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
+	spriteType = {
+		name = "prussian_REVOLUTION_eventPicture"
+		texturefile = "gfx/event_pictures/LIGHT_ON_BARRICADES_BERLIN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "lower_saxon_REVOLUTION_eventPicture"
+		texturefile = "gfx/event_pictures/LIGHT_ON_BARRICADES_BERLIN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "hannoverian_REVOLUTION_eventPicture"
+		texturefile = "gfx/event_pictures/LIGHT_ON_BARRICADES_BERLIN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "saxon_REVOLUTION_eventPicture"
+		texturefile = "gfx/event_pictures/LIGHT_ON_BARRICADES_BERLIN_eventPicture.dds"
+		allwaystransparent = yes
+	}		
+
+	spriteType = {
+		name = "franconian_REVOLUTION_eventPicture"
+		texturefile = "gfx/event_pictures/LIGHT_ON_BARRICADES_BERLIN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "swabian_REVOLUTION_eventPicture"
+		texturefile = "gfx/event_pictures/LIGHT_ON_BARRICADES_BERLIN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "bavarian_REVOLUTION_eventPicture"
+		texturefile = "gfx/event_pictures/LIGHT_ON_BARRICADES_BERLIN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+				
 	spriteType = {
 		name = "french_REVOLUTION_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/REVOLUTION_eventPicture.dds"
@@ -2838,6 +2880,18 @@ spriteTypes = {
     }
 
 	spriteType = {
+        name = "flavor_kon.1_POPE_PREACHING_eventPicture"
+        texturefile = "gfx/event_pictures/MISSIONARIES_SON_OF_GOD_AFRICA_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
+        name = "flavor_kon.2_POPE_PREACHING_eventPicture"
+        texturefile = "gfx/event_pictures/MISSIONARIES_SON_OF_GOD_AFRICA_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+	spriteType = {
         name = "fetishist_flavor.401_PRAYING_eventPicture"
         texturefile = "gfx/event_pictures/ONENESS_OF_GOD_FETISHIST_eventPicture.dds"
         allwaystransparent = yes
@@ -2915,6 +2969,19 @@ spriteTypes = {
         allwaystransparent = yes
     }		
 
+
+	spriteType = {
+        name = "FEE_Iberia_Events.8_COUNTRY_COLLAPSE_eventPicture"
+        texturefile = "gfx/event_pictures/GREAT_EARTHQUAKE_1755_LISBOA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "FEE_Iberia_Events.9_ENLIGHTENMENT_eventPicture"
+        texturefile = "gfx/event_pictures/FOUNDATION_SEISMOLOGY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
 	spriteType = {
         name = "FEE_Iberia_Events.10_ENLIGHTENMENT_eventPicture"
         texturefile = "gfx/event_pictures/JIMINEZ_DE_CISNEROS_eventPicture.dds"
@@ -2962,6 +3029,12 @@ spriteTypes = {
         texturefile = "gfx/event_pictures/BEIJING_CAPTURED_eventPicture.dds"
         allwaystransparent = yes
     }			
+
+	spriteType = {
+        name = "shinto_events.8_URBANISATION_INCIDENT_eventPicture"
+        texturefile = "gfx/event_pictures/GOD_OF_POVERTY_eventpicture.dds"
+        allwaystransparent = yes
+    }	
 
 	spriteType = {
 		name = "asiangfx_REFORM_eventPicture"
@@ -4420,4 +4493,454 @@ spriteTypes = {
 			texturefile = "gfx/event_pictures/TALLAPAKA_TIRUMALAMMA_eventPicture.dds"
 			allwaystransparent = yes
 		}
+
+		spriteType = {
+			name = "volcano_events.1_EP_ISLAND_eventPicture"
+			texturefile = "gfx/event_pictures/WRIGHT_VESUVIUS_ERUPTION_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "flavor_che.1_EXPLORERS_eventPicture"
+			texturefile = "gfx/event_pictures/SMOKY_MOUNTAINS_LAKE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "flavor_che.2_ACCUSATION_eventPicture"
+			texturefile = "gfx/event_pictures/RETALIATION_NATIVE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {#de sota made initial contact with cherokee, no tepee
+			name = "flavor_che.3_PLAGUE_eventPicture"
+			texturefile = "gfx/event_pictures/event_pictures_ED/CONQUISTADORS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "flavor_che.5_ELECTION_REPUBLICAN_eventPicture"
+			texturefile = "gfx/event_pictures/CHEROKEE_CAMPFIRE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "flavor_pow.1_COLONIZATION_eventPicture"
+			texturefile = "gfx/event_pictures/JAMESTOWN_POWHATAN_SIGHTING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "flavor_pow.2_COLONIZATION_eventPicture"
+			texturefile = "gfx/event_pictures/VIRGINIA_POWHATAN_TRADING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "flavor_pow.3_BATTLE_eventPicture"
+			texturefile = "gfx/event_pictures/POWHATAN_SHOOTING_SETTLER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "flavor_pow.5_ECONOMY_eventPicture"
+			texturefile = "gfx/event_pictures/JAMESTOWN_TRADING_POWHATAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "flavor_sio.4_FAMINE_eventPicture"
+			texturefile = "gfx/event_pictures/WOLF_GAZE_eventPicture.dds"
+		}
+
+		spriteType = {
+			name = "HAW_EP_MANIHOLE_HELMET_eventPicture"
+			texturefile = "gfx/event_pictures/KAMEHAMEHA_AT_KAMAKAHONU_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "polynesian_HEIR_EDUCATION_eventPicture"
+			texturefile = "gfx/event_pictures/CANOE_MODELS_HAWAII_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "HAW_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/HAWAIIAN_ROYAL_COUPLE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "UHW_COURT_eventPicture"
+			texturefile = "gfx/event_pictures/HAWAIIAN_ROYAL_COUPLE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "HAW_DIPLOMACY_eventPicture"
+			texturefile = "gfx/event_pictures/CHIEFS_COUNCIL_HAWAII_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "UHW_DIPLOMACY_eventPicture"
+			texturefile = "gfx/event_pictures/CHIEFS_COUNCIL_HAWAII_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "HAW_LAND_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/HAWAIIAN_WARRIORS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "UHW_LAND_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/HAWAIIAN_WARRIORS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "HAW_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/KAMEHAMEHA_AT_KAMAKAHONU_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "UHW_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/KAMEHAMEHA_AT_KAMAKAHONU_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "UHW_EP_MANIHOLE_HELMET_eventPicture"
+			texturefile = "gfx/event_pictures/KAMEHAMEHA_AT_KAMAKAHONU_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "polynesian_EP_MANIHOLE_HELMET_eventPicture"
+			texturefile = "gfx/event_pictures/SAMOAN_CHIEF_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		
+		spriteType = {
+			name = "EP_MANIHOLE_HELMET_eventPicture"
+			texturefile = "gfx/event_pictures/MAORI_CHIEF_WAKA_NENE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "EP_MAORI_HAKA_eventPicture"
+			texturefile = "gfx/event_pictures/HAKKA_PERFORMANCE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "EP_POLYNESIAN_DANCES_eventPicture"
+			texturefile = "gfx/event_pictures/HAWAIIAN_DANCERS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "EP_MOAIS_eventPicture"
+			texturefile = "gfx/event_pictures/MOAIS_SCATTERED_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "EP_POLYNESIAN_HORN_eventPicture"
+			texturefile = "gfx/event_pictures/POLYNESIAN_HORN_BLOWING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "EP_POLYNESIAN_MARAE_eventPicture"
+			texturefile = "gfx/event_pictures/TU_KAITOTE_MAORI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "EP_POLYNESIAN_SHIPS_eventPicture"
+			texturefile = "gfx/event_pictures/POLYNESIAN_CANOE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "EP_POLYNESIAN_TATTOO_eventPicture"
+			texturefile = "gfx/event_pictures/POLYNESIAN_PATTERN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "EP_ISLAND_eventPicture"
+			texturefile = "gfx/event_pictures/TROPICAL_ISLAND_VISTA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "EP_SAMOAN_WARRIORS_eventPicture"
+			texturefile = "gfx/event_pictures/SAMOAN_AMBUSH_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "MALAYAN_PORT_eventPicture"
+			texturefile = "gfx/event_pictures/MALAY_HARBOUR_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {#existing pictures
+			name = "pirates.8_MALAYAN_PORT_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_PIRATES_ATTACK_SHIP_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {#existing pictures
+			name = "pirates.9_MALAYAN_PORT_eventPicture"
+			texturefile = "gfx/event_pictures/CHINESE_PIRATES_ATTACK_SHIP_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "EP_SAMOAN_WARRIORS_eventPicture"
+			texturefile = "gfx/event_pictures/SAMOAN_AMBUSH_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "SHWEDAGON_PAGON_eventPicture"
+			texturefile = "gfx/event_pictures/SHWEDAGON_PAGON_HAZE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "china_events.22_SHWEDAGON_PAGON_eventPicture"
+			texturefile = "gfx/event_pictures/SHWEDAGON_PAGON_PILGRIMAGE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "monument_events.5_BUDDHA_eventPicture"
+			texturefile = "gfx/event_pictures/BOROBUDUR_COMPLETED_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "east_asian_REVOLUTION_eventPicture"
+			texturefile = "gfx/event_pictures/TIAN_HENG_500_FOLLOWERS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "zoroastrian.1_THEATRE_eventPicture"
+			texturefile = "gfx/event_pictures/PARSEES_PRAYING_BOMBAY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "sikhism_flavor.1_STREET_SPEECH_eventPicture"
+			texturefile = "gfx/event_pictures/NANAK_PORTRAIT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "sikhism_flavor.2_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/GURU_ANGAD_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "sikhism_flavor.3_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/GURU_AMAR_DAS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "sikhism_flavor.4_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/GURU_RAM_DAS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "sikhism_flavor.5_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/GURU_ARJAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "sikhism_flavor.6_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/GURU_HARGOBIND_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "sikhism_flavor.7_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/GURU_HAR_RAI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "sikhism_flavor.8_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/GURU_HAR_KRISHAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "sikhism_flavor.9_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/GURU_TEGH_BAHADUR_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "sikhism_flavor.10_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/GURU_GOBIND_SINGH_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "sikhism_flavor.11_BIG_BOOK_eventPicture"
+			texturefile = "gfx/event_pictures/GURU_GRANTH_SAHIB_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "sikhism_flavor.12_RELIGIOUS_CONVERSION_eventPicture"
+			texturefile = "gfx/event_pictures/BABA_BUDHA_JI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "sikhism_flavor.13_STREET_SPEECH_eventPicture"
+			texturefile = "gfx/event_pictures/GURU_VISION_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "flavor_pol.2_IMPORTANT_STATUE_eventPicture"
+			texturefile = "gfx/event_pictures/SIGISMUND_COLUMN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "french_revolution.9_IMPORTANT_STATUE_eventPicture"
+			texturefile = "gfx/event_pictures/BONAPARTE_COUCNIL_OF_500_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "flavor_fra.1_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/HUGUENOTS_EXPELLED_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "flavor_fra.2_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/HUGUENOTS_EXPELLED_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "flavor_fra.3128_RELIGION_eventPicture"
+			texturefile = "gfx/event_pictures/HUGUENOTS_EXPELLED_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "french_wars_of_religion.14_DIPLOMACY_eventPicture"
+			texturefile = "gfx/event_pictures/BATTLE_OF_ARQUES_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "french_wars_of_religion.15_DIPLOMACY_eventPicture"
+			texturefile = "gfx/event_pictures/BATTLE_OF_ARQUES_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "flavor_fra.3118_ANGRY_MOB_eventPicture"
+			texturefile = "gfx/event_pictures/HENRY_RECEIVES_AMBASSADOR_SPAIN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "flavor_ter.1_COLONIZATION_eventPicture"
+			texturefile = "gfx/event_pictures/TERNATE_ILLUSTRATION_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "special_regency_events.1_BAD_WITH_MONARCH_eventPicture"
+			texturefile = "gfx/event_pictures/QUEEN_MARIA_PORTUGAL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "special_regency_events.1_KING_SICK_IN_BED_eventPicture"
+			texturefile = "gfx/event_pictures/QUEEN_MARIA_PORTUGAL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "special_regency_events.2_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/CHATEAU_DE_CHENONCEAU_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "special_regency_events.3_REVOLUTION_eventPicture"
+			texturefile = "gfx/event_pictures/STEN_STURE_STOCKHOLM_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "asiangfx_BATTLE_eventPicture"
+			texturefile = "gfx/event_pictures/KHMER_CHAMPA_WAR_CARNAGE_eventPicture.dds"
+		}
+
+		spriteType = {
+			name = "NUSANTARA_WAR_eventPicture"
+			texturefile = "gfx/event_pictures/KHMER_CHAMPA_WAR_FAR_eventPicture.dds"
+		}
+
+		spriteType = {
+			name = "NUSANTARA_QUEEN_eventPicture"
+			texturefile = "gfx/event_pictures/SHIN_SAWBU_eventPicture.dds"
+		}
+
+		spriteType = {
+			name = "NUSANTARA_THRONE_eventPicture"
+			texturefile = "gfx/event_pictures/GENERIC_SE_ASIANTHRONE_eventPicture.dds"
+		}
+
+		spriteType = {
+			name = "flavor_por.3275_DIPLOMACY_eventPicture"
+			texturefile = "gfx/event_pictures/JOHN_METHUEN_eventPicture.dds"
+		}
+
+		spriteType = {
+			name = "canal_events.8_LIBERUM_VETO_ebentPicture"
+			texturefile = "gfx/event_pictures/CARRYING_A_FRIEND_eventPicture.dds"
+		}
+
+		spriteType = {
+			name = "FAILED_REVOLUTION_eventPicture"
+			texturefile = "gfx/event_pictures/THIRD_OF_MAY_GOYA_eventPicture.dds"
+		}
+
+#new
+		spriteType = {
+			name = "maghrebi_wihgfx_FEMALE_GENERAL_eventPicture"
+			texturefile = "gfx/event_pictures/KABYLIE_WOMAN_ALGERIA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "maghrebi_wihgfx_FEMALE_GENERAL_eventPicture"
+			texturefile = "gfx/event_pictures/KABYLIE_WOMAN_ALGERIA_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
 }
