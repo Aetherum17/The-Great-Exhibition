@@ -33,7 +33,7 @@ guiTypes = {
 		{
 			name ="event_picture"
 			spriteType = "GFX_event_event_test"
-			position = { x = 30 y = 93 }
+			position = { x = 30 y = 80 }
 			Orientation = "UPPER_LEFT"
 		}
 		
@@ -41,7 +41,7 @@ guiTypes = {
 		{
 			name ="event_bg_middle"
 			spriteType = "GFX_event_bg_middle"
-			position = { x = -43 y = 370 }
+			position = { x = -43 y = 374 }
 			Orientation = "UPPER_LEFT"
 		}
 		
@@ -75,7 +75,7 @@ guiTypes = {
 		
 		instantTextBoxType = {
 			name = "Description"
-			position = { x = 31 y = 371 } # Was 230
+			position = { x = 31 y = 374 } # Was 230
 			textureFile = ""
 			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
