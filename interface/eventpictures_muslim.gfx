@@ -24,11 +24,11 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 
-	spriteType = {
-		name = "muslimgfx_CITY_VIEW_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MUSLIM/CITY_VIEW_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "muslimgfx_CITY_VIEW_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MUSLIM/CITY_VIEW_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 
 	spriteType = {
 		name = "muslimgfx_CIVIL_WAR_eventPicture"
@@ -210,11 +210,11 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 
-	spriteType = {
-		name = "muslimgfx_ANGRY_MOB_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MUSLIM/ANGRY_MOB_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "muslimgfx_ANGRY_MOB_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MUSLIM/ANGRY_MOB_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 
 	spriteType = {
 		name = "muslimgfx_DEBATE_REPUBLICAN_eventPicture"
@@ -355,11 +355,12 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 
-	spriteType = {
-		name = "muslimgfx_FORT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MUSLIM/FORT_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	#existing entry in eventpicture_coc.gfx
+	# spriteType = {
+	# 	name = "muslimgfx_FORT_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MUSLIM/FORT_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 
 	spriteType = {
 		name = "muslimgfx_SPY_eventPicture"
@@ -367,11 +368,11 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 
-	spriteType = {
-		name = "muslimgfx_RELIGIOUS_CONVERSION_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MUSLIM/WESTERNISATION_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "muslimgfx_RELIGIOUS_CONVERSION_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MUSLIM/WESTERNISATION_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
 	
 }

@@ -2,12 +2,12 @@ spriteTypes = {
 	
 	#Replaces existing pictures:
 	
-	#Angry Mob:
-	spriteType = {
-		name = "east_asian_ANGRY_MOB_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/IKKO_IKKI_INCIDENT_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	#Angry Mob: uses asiangfx as culture group not operating correctly
+	# spriteType = {
+	# 	name = "east_asian_ANGRY_MOB_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/IKKO_IKKI_INCIDENT_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	spriteType = {
 		name = "shinto_ANGRY_MOB_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_MOH/IKKO_IKKI_INCIDENT_eventPicture.dds"
@@ -38,21 +38,21 @@ spriteTypes = {
 	
 	
 	#Bad With monarch
-	spriteType = {
-		name = "east_asian_BAD_WITH_MONARCH_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/SUFFERING_CHINESE_VILLAGE_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "shinto_BAD_WITH_MONARCH_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/SUFFERING_CHINESE_VILLAGE_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "confucianism_BAD_WITH_MONARCH_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/SUFFERING_CHINESE_VILLAGE_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "east_asian_BAD_WITH_MONARCH_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/SUFFERING_CHINESE_VILLAGE_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# # spriteType = {
+	# # 	name = "shinto_BAD_WITH_MONARCH_eventPicture"
+	# # 	texturefile = "gfx/event_pictures/event_pictures_MOH/SUFFERING_CHINESE_VILLAGE_eventPicture.dds"
+	# # 	allwaystransparent = yes
+	# # }
+	# spriteType = {
+	# 	name = "confucianism_BAD_WITH_MONARCH_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/SUFFERING_CHINESE_VILLAGE_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
 	#Plague
 	spriteType = {
@@ -73,39 +73,39 @@ spriteTypes = {
 	
 	
 	#City Development
-	spriteType = {
-		name = "east_asian_CITY_DEVELOPMENT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "shinto_CITY_DEVELOPMENT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "confucianism_CITY_DEVELOPMENT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "east_asian_CITY_DEVELOPMENT_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "shinto_CITY_DEVELOPMENT_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "confucianism_CITY_DEVELOPMENT_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
 	
 	#City View
-	spriteType = {
-		name = "east_asian_CITY_VIEW_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "shinto_CITY_VIEW_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "confucianism_CITY_VIEW_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "east_asian_CITY_VIEW_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "shinto_CITY_VIEW_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "confucianism_CITY_VIEW_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
 	
 	#Colonization
@@ -128,40 +128,40 @@ spriteTypes = {
 	
 	
 	#Good with Monarch
-	spriteType = {
-		name = "east_asian_GOOD_WITH_MONARCH_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/IMPERIAL_SEAL_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "shinto_GOOD_WITH_MONARCH_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "confucianism_GOOD_WITH_MONARCH_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/IMPERIAL_SEAL_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "east_asian_GOOD_WITH_MONARCH_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/IMPERIAL_SEAL_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "shinto_GOOD_WITH_MONARCH_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "confucianism_GOOD_WITH_MONARCH_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/IMPERIAL_SEAL_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
 	
 	
-	#Religion
-	spriteType = {
-		name = "east_asian_RELIGION_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/NEO_CONFUCIANISM_INCIDENT_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "shinto_RELIGION_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/NEO_CONFUCIANISM_INCIDENT_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "confucianism_RELIGION_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/NEO_CONFUCIANISM_INCIDENT_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# #Religion
+	# spriteType = {
+	# 	name = "east_asian_RELIGION_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/NEO_CONFUCIANISM_INCIDENT_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "shinto_RELIGION_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/NEO_CONFUCIANISM_INCIDENT_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "confucianism_RELIGION_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/NEO_CONFUCIANISM_INCIDENT_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
 	
 	
@@ -184,21 +184,22 @@ spriteTypes = {
 	
 	
 	#Court
-	spriteType = {
-		name = "east_asian_COURT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/GIFTS_TO_EMPEROR_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "shinto_COURT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "confucianism_COURT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/GIFTS_TO_EMPEROR_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	#changed in empire_update.gfx likely temporary as being reworked
+	# spriteType = {
+	# 	name = "east_asian_COURT_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/GIFTS_TO_EMPEROR_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "shinto_COURT_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "confucianism_COURT_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/GIFTS_TO_EMPEROR_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
 	#Diplomacy
 	spriteType = {
@@ -219,79 +220,79 @@ spriteTypes = {
 	
 	
 	#Fort
-	spriteType = {
-		name = "east_asian_FORT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "shinto_FORT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "confucianism_FORT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "east_asian_FORT_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "shinto_FORT_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "confucianism_FORT_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
 	#University
-	spriteType = {
-		name = "east_asian_UNIVERSITY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/IMPERIAL_EXAMINATION_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "shinto_UNIVERSITY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/IMPERIAL_EXAMINATION_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "confucianism_UNIVERSITY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/IMPERIAL_EXAMINATION_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "east_asian_UNIVERSITY_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/IMPERIAL_EXAMINATION_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "shinto_UNIVERSITY_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/IMPERIAL_EXAMINATION_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "confucianism_UNIVERSITY_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/IMPERIAL_EXAMINATION_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
 	
 	#Battle
-	spriteType = {
-		name = "east_asian_BATTLE_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/CHINESE_GENERAL_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "shinto_BATTLE_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/SENGOKU_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "confucianism_BATTLE_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/CHINESE_GENERAL_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "tengri_pagan_reformed_BATTLE_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/CHINESE_GENERAL_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "east_asian_BATTLE_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/CHINESE_GENERAL_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "shinto_BATTLE_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/SENGOKU_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "confucianism_BATTLE_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/CHINESE_GENERAL_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "tengri_pagan_reformed_BATTLE_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/CHINESE_GENERAL_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
 	
-	#Naval Military
-	spriteType = {
-		name = "east_asian_NAVAL_MILITARY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/TRIBUTARY_FLEET_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "shinto_NAVAL_MILITARY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/WOKOU_INCIDENT_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
-		name = "confucianism_NAVAL_MILITARY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/TRIBUTARY_FLEET_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# #Naval Military
+	# spriteType = {
+	# 	name = "east_asian_NAVAL_MILITARY_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/TRIBUTARY_FLEET_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "shinto_NAVAL_MILITARY_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/WOKOU_INCIDENT_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# spriteType = {
+	# 	name = "confucianism_NAVAL_MILITARY_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/TRIBUTARY_FLEET_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
 	
 	

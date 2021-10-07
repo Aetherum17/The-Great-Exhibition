@@ -1,124 +1,120 @@
 spriteTypes = {
 	
-	spriteType = {
-		name = "asiangfx_ANGRY_MOB_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_BAD_eventPicture.dds"
-		allwaystransparent = yes
-	}
+#commented out were overwriting eventpictures_asian.gfx	
+
+	# spriteType = {
+	# 	name = "asiangfx_ANGRY_MOB_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_BAD_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "asiangfx_RELIGIOUS_TURMOIL_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_BAD_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "asiangfx_RELIGIOUS_TURMOIL_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_BAD_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "asiangfx_RELIGIOUS_WARS_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_BAD_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "asiangfx_RELIGIOUS_WARS_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_BAD_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "asiangfx_RELIGIOUS_WARS_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_BAD_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "asiangfx_BAD_WITH_MONARCH_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_BAD_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "asiangfx_BAD_WITH_MONARCH_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_BAD_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "asiangfx_CITY_DEVELOPMENT_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_GOOD_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "asiangfx_CITY_DEVELOPMENT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_GOOD_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "asiangfx_CITY_VIEW_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_GOOD_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "asiangfx_CITY_VIEW_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_GOOD_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "asiangfx_COLONIZATION_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_GOOD_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "asiangfx_COLONIZATION_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_GOOD_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "asiangfx_FARMING_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_GOOD_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "asiangfx_FARMING_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_GOOD_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "asiangfx_GOOD_WITH_MONARCH_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_GOOD_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "asiangfx_GOOD_WITH_MONARCH_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_GOOD_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "asiangfx_RELIGION_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_GOOD_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "asiangfx_RELIGION_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_GOOD_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "asiangfx_ADVISOR_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_LAMA_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "asiangfx_ADVISOR_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_LAMA_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "asiangfx_COURT_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_LAMA_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "asiangfx_COURT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_LAMA_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "asiangfx_DIPLOMACY_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_LAMA_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "asiangfx_DIPLOMACY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_LAMA_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "asiangfx_POPE_PREACHING_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_LAMA_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "asiangfx_POPE_PREACHING_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_LAMA_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "asiangfx_PRAYING_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_LAMA_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "asiangfx_PRAYING_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_LAMA_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "asiangfx_RELIGIOUS_CONVERSION_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_LAMA_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "asiangfx_RELIGIOUS_CONVERSION_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_LAMA_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "asiangfx_GREAT_BUILDING_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_MONASTERY_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "asiangfx_GREAT_BUILDING_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_MONASTERY_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "asiangfx_FORT_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_MONASTERY_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "asiangfx_FORT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_MONASTERY_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	
-	spriteType = {
-		name = "asiangfx_UNIVERSITY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_MONASTERY_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "asiangfx_UNIVERSITY_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_MONASTERY_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
 	spriteType = {
 		name = "PARLIAMENT_eventPicture"

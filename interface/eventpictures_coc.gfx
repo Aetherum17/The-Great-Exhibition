@@ -147,19 +147,19 @@ spriteTypes = {
 	
 	#Overrides for base pictures
 
-	#Revolution
-	spriteType = {
-		name = "muslim_REVOLUTION_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/janissary_revolt.dds"
-		allwaystransparent = yes
-	}
+	# #Revolution
+	# spriteType = {
+	# 	name = "muslim_REVOLUTION_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/janissary_revolt.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	#Military Camp
-	spriteType = {
-		name = "muslim_MILITARY_CAMP_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/disciplined_soldiers.dds"
-		allwaystransparent = yes
-	}
+	# #Military Camp
+	# spriteType = {
+	# 	name = "muslim_MILITARY_CAMP_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/disciplined_soldiers.dds"
+	# 	allwaystransparent = yes
+	# }
 	
 	#Battle
 	spriteType = {
@@ -167,11 +167,11 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_COC/qizilbash_cavalry_charging.dds"
 		allwaystransparent = yes
 	}
-	spriteType = {
-		name = "turko_semitic_BATTLE_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/mamluk_warriors.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "turko_semitic_BATTLE_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/mamluk_warriors.dds"
+	# 	allwaystransparent = yes
+	# }
 	spriteType = {
 		name = "turkish_BATTLE_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COC/janissaries_in_formation.dds"
@@ -184,60 +184,57 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_COC/disciplined_soldiers.dds"
 		allwaystransparent = yes
 	}
-	#Land Military
-	spriteType = {
-		name = "muslim_LAND_MILITARY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/disciplined_soldiers.dds"
-		allwaystransparent = yes
-	}
-	#Civil War
-	spriteType = {
-		name = "muslim_CIVIL_WAR_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/janissary_revolt.dds"
-		allwaystransparent = yes
-	}
-	#Angry Mob
-	spriteType = {
-		name = "muslim_ANGRY_MOB_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/janissary_revolt.dds"
-		allwaystransparent = yes
-	}
+#picture disciplined_soldiers is duplicate also in MUSLIM folder as LAND_MILITARY	# #Land Military
+	# spriteType = {
+	# 	name = "muslim_LAND_MILITARY_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/disciplined_soldiers.dds"
+	# 	allwaystransparent = yes
+	# }
+	# #Civil War
+	# spriteType = {
+	# 	name = "muslim_CIVIL_WAR_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/janissary_revolt.dds"
+	# 	allwaystransparent = yes
+	# }
+
+
+
 	#Fort
 	spriteType = {
 		name = "muslim_FORT_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COC/fortified_city_with_caravan_outside.dds"
 		allwaystransparent = yes
 	}
-	#Siege
-	spriteType = {
-		name = "muslim_SIEGE_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/fortified_city_with_caravan_outside.dds"
-		allwaystransparent = yes
-	}
+	# #Siege
+	# spriteType = {
+	# 	name = "muslim_SIEGE_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/fortified_city_with_caravan_outside.dds"
+	# 	allwaystransparent = yes
+	# }
 	#Tournament
 	spriteType = {
 		name = "muslim_TOURNAMENT_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COC/mamluk_warriors.dds"
 		allwaystransparent = yes
 	}
-	#Ship Sailing
-	spriteType = {
-		name = "muslim_SHIP_SAILING_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/dhow_at_sea.dds"
-		allwaystransparent = yes
-	}
-	#City Development
-	spriteType = {
-		name = "muslim_CITY_DEVELOPMENT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/soup_kitchen.dds"
-		allwaystransparent = yes
-	}
+	# #Ship Sailing
+	# spriteType = {
+	# 	name = "muslim_SHIP_SAILING_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_MUSLIM/SHIP_SAILING_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
+	# #City Development removed overwriting newer caliphate pic
+	# spriteType = {
+	# 	name = "muslim_CITY_DEVELOPMENT_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/soup_kitchen.dds"
+	# 	allwaystransparent = yes
+	# }
 	#Advisor
-	spriteType = {
-		name = "muslim_ADVISOR_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/sultan_wife_vizier.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "muslim_ADVISOR_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/sultan_wife_vizier.dds"
+	# 	allwaystransparent = yes
+	# }
 	#Artwork
 	spriteType = {
 		name = "muslim_ARTWORK_eventPicture"
@@ -256,152 +253,152 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_COC/big_arabian_city.dds"
 		allwaystransparent = yes
 	}
-	#TRADEGOODS
-	spriteType = {
-		name = "muslim_TRADEGOODS_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/sad_merchant.dds"
-		allwaystransparent = yes
-	}
+	# #TRADEGOODS
+	# spriteType = {
+	# 	name = "muslim_TRADEGOODS_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/sad_merchant.dds"
+	# 	allwaystransparent = yes
+	# }
 	#Merchants talking
 	spriteType = {
 		name = "MERCHANTS_TALKING_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COC/caravan.dds"
 		allwaystransparent = yes
 	}
-	#Economy
-	spriteType = {
-		name = "muslim_ECONOMY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/caravan.dds"
-		allwaystransparent = yes
-	}
+	# #Economy
+	# spriteType = {
+	# 	name = "muslim_ECONOMY_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/caravan.dds"
+	# 	allwaystransparent = yes
+	# }
 	#Important Statue
 	spriteType = {
 		name = "muslim_IMPORTANT_STATUE_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COC/trade_goods.dds"
 		allwaystransparent = yes
 	}
-	#Assasination
-	spriteType = {
-		name = "muslim_ASSASSINATION_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/three_heirs.dds"
-		allwaystransparent = yes
-	}
+	# #Assasination
+	# spriteType = {
+	# 	name = "muslim_ASSASSINATION_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/three_heirs.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	#Bad with Monarch
-	spriteType = {
-		name = "muslim_BAD_WITH_MONARCH_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/three_heirs.dds"
-		allwaystransparent = yes
-	}
+	# #Bad with Monarch
+	# spriteType = {
+	# 	name = "muslim_BAD_WITH_MONARCH_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/three_heirs.dds"
+	# 	allwaystransparent = yes
+	# }
 	#Spy
-	spriteType = {
-		name = "muslim_SPY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/three_heirs.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "muslim_SPY_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/three_heirs.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	#Court
-	spriteType = {
-		name = "muslim_COURT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/sultan_and_merchant.dds"
-		allwaystransparent = yes
-	}
+	# #Court
+	# spriteType = {
+	# 	name = "muslim_COURT_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/sultan_and_merchant.dds"
+	# 	allwaystransparent = yes
+	# }
 	#Good with monarch
-	spriteType = {
-		name = "muslim_GOOD_WITH_MONARCH_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/sultan_and_merchant.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "muslim_GOOD_WITH_MONARCH_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/sultan_and_merchant.dds"
+	# 	allwaystransparent = yes
+	# }
 	#Diplomacy
-	spriteType = {
-		name = "muslim_DIPLOMACY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/sultan_and_merchant.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "muslim_DIPLOMACY_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/sultan_and_merchant.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	#Religious Conversion
+#ask	#Religious Conversion
 	spriteType = {
 		name = "muslim_RELIGIOUS_CONVERSION_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COC/mystic_in_prayer.dds"
 		allwaystransparent = yes
 	}
-	#Street Speech
-	spriteType = {
-		name = "muslim_STREET_SPEECH_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/mystics_dancing.dds"
-		allwaystransparent = yes
-	}
-	#Painter Artist
-	spriteType = {
-		name = "muslim_PAINTER_ARTIST_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/mystics_dancing.dds"
-		allwaystransparent = yes
-	}
-	#Theatre
-	spriteType = {
-		name = "muslim_THEATRE_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/sultan_and_merchant.dds"
-		allwaystransparent = yes
-	}
-	#Great Building 
-	spriteType = {
-		name = "muslim_GREAT_BUILDING_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/big_arabian_city.dds"
-		allwaystransparent = yes
-	}
+	# #Street Speech
+	# spriteType = {
+	# 	name = "muslim_STREET_SPEECH_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/mystics_dancing.dds"
+	# 	allwaystransparent = yes
+	# }
+	# #Painter Artist
+	# spriteType = {
+	# 	name = "muslim_PAINTER_ARTIST_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/mystics_dancing.dds"
+	# 	allwaystransparent = yes
+	# }
+	# #Theatre
+	# spriteType = {
+	# 	name = "muslim_THEATRE_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/sultan_and_merchant.dds"
+	# 	allwaystransparent = yes
+	# }
+	# #Great Building 
+	# spriteType = {
+	# 	name = "muslim_GREAT_BUILDING_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/big_arabian_city.dds"
+	# 	allwaystransparent = yes
+	# }
 	#Harbour
 	spriteType = {
 		name = "muslim_HARBOUR_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COC/dhow_at_sea.dds"
 		allwaystransparent = yes
 	}
-	#Praying
-	spriteType = {
-		name = "muslim_PRAYING_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/prayer_in_mosque.dds"
-		allwaystransparent = yes
-	}
-	#Religion
-	spriteType = {
-		name = "muslim_RELIGION_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/prayer_in_mosque.dds"
-		allwaystransparent = yes
-	}
-	#Religious Conversion
+# #ask	#Praying
+# 	spriteType = {
+# 		name = "muslim_PRAYING_eventPicture"
+# 		texturefile = "gfx/event_pictures/event_pictures_COC/prayer_in_mosque.dds"
+# 		allwaystransparent = yes
+# 	}
+	# #Religion
+	# spriteType = {
+	# 	name = "muslim_RELIGION_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/prayer_in_mosque.dds"
+	# 	allwaystransparent = yes
+	# }
+#ask	#Religious Conversion
 	spriteType = {
 		name = "muslim_RELIGIOUS_CONVERSION_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COC/mystic_in_prayer.dds"
 		allwaystransparent = yes
 	}
-	#Religious Turmoil
-	spriteType = {
-		name = "muslim_RELIGIOUS_TURMOIL_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/qizilbash_cavalry_charging.dds"
-		allwaystransparent = yes
-	}
-	#Religious wars
-	spriteType = {
-		name = "muslim_RELIGIOUS_WARS_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/qizilbash_cavalry_charging.dds"
-		allwaystransparent = yes
-	}
-	#Reform
-	spriteType = {
-		name = "muslim_REFORM_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/mystic_in_prayer.dds"
-		allwaystransparent = yes
-	}
-	#Corruption
-	spriteType = {
-		name = "muslim_CORRUPTION_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/trade_goods.dds"
-		allwaystransparent = yes
-	}
-	#Wounded Soldiers
-	spriteType = {
-		name = "muslim_WOUNDED_SOLDIERS_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COC/soup_kitchen.dds"
-		allwaystransparent = yes
-	}
+	# #Religious Turmoil
+	# spriteType = {
+	# 	name = "muslim_RELIGIOUS_TURMOIL_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/qizilbash_cavalry_charging.dds"
+	# 	allwaystransparent = yes
+	# }
+	# #Religious wars
+	# spriteType = {
+	# 	name = "muslim_RELIGIOUS_WARS_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/qizilbash_cavalry_charging.dds"
+	# 	allwaystransparent = yes
+	# }
+	# #Reform
+	# spriteType = {
+	# 	name = "muslim_REFORM_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/mystic_in_prayer.dds"
+	# 	allwaystransparent = yes
+	# }
+	# #Corruption
+	# spriteType = {
+	# 	name = "muslim_CORRUPTION_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/trade_goods.dds"
+	# 	allwaystransparent = yes
+	# }
+	# #Wounded Soldiers
+	# spriteType = {
+	# 	name = "muslim_WOUNDED_SOLDIERS_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_COC/soup_kitchen.dds"
+	# 	allwaystransparent = yes
+	# }
 	
 }

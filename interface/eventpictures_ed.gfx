@@ -6,17 +6,18 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 	
-	spriteType = {
-		name = "southamericagfx_CITY_VIEW_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_ED/INCA_CITY_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	#replaced with more generic picture in eventpictures_gfx_empire_update.gfx
+	# spriteType = {
+	# 	name = "southamericagfx_CITY_VIEW_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_ED/INCA_CITY_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
-	spriteType = {
-		name = "southamericagfx_CITY_DEVELOPMENT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_ED/INCA_CITY_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "southamericagfx_CITY_DEVELOPMENT_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_ED/INCA_CITY_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 	
 	spriteType = {
 		name = "southamericagfx_FORT_eventPicture"
@@ -54,11 +55,11 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 	
-	spriteType = {
-		name = "southamericagfx_BAD_WITH_MONARCH_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_ED/END_OF_TIME_eventPicture.dds"
-		allwaystransparent = yes
-	}
+	# spriteType = {
+	# 	name = "southamericagfx_BAD_WITH_MONARCH_eventPicture"
+	# 	texturefile = "gfx/event_pictures/event_pictures_ED/END_OF_TIME_eventPicture.dds"
+	# 	allwaystransparent = yes
+	# }
 
 	spriteType = {
 		name = "southamericagfx_COURT_eventPicture"
