@@ -7252,12 +7252,11 @@ spriteTypes = {
 
 	#asiangfx disabled SE Asia religion based
 	#hinduism
-	spriteType = {#no asiangfx (indiangfx replaces in India)
+	spriteType = {
 		name = "hinduism_IMPORTANT_STATUE_eventPicture"
-		texturefile = "gfx/event_pictures/TEST_TEST_DELETE_eventPicture.dds"
+		texturefile = "gfx/event_pictures/event_pictures_COC/trade_goods.dds"
 		allwaystransparent = yes
 	}
-
 	#buddhism Theravada
 	spriteType = {#no asiangfx (indiangfx replaces in India)
 		name = "buddhism_IMPORTANT_STATUE_eventPicture"

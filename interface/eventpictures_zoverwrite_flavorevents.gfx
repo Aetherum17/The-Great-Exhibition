@@ -12385,9 +12385,9 @@ spriteTypes = {
         allwaystransparent = yes
     }
 
-    spriteType = {
+    spriteType = {#inappropriate for non Europeans?  Or even just ones not in picture, can appear anywhere not just china where few will have trade companies
         name = "trade_company_events.8_REFORM_eventPicture"
-        texturefile = "gfx/event_pictures/GUANGZHOU_FACTORIES_eventPicture.dds"
+        texturefile = "gfx/event_pictures/GUANGZHOU_FACTORIES_eventPictures.dds"
         allwaystransparent = yes
     }
 

@@ -31,6 +31,12 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "LUTHER_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/MARTIN_LUTHER_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
 		name = "FLORENCE_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/FLORENCE_eventPicture.dds"
 		allwaystransparent = yes
@@ -295,7 +301,13 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_GE/CORRUPTION_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+		name = "latin_CORRUPTION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/CORRUPTION_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
 	spriteType = {
 		name = "COUNTRY_COLLAPSE_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/COUNTRY_COLLAPSE_eventPicture.dds"
@@ -386,7 +398,19 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_GE/DEBATE_REPUBLICAN_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+		name = "indiangfx_DEBATE_REPUBLICAN_eventPicture"
+		texturefile = "gfx/event_pictures/SHIVAJI_MAHARAJ_COURT_OF_AURANGZEB_DHURANDHAR_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "MUG_DEBATE_REPUBLICAN_eventPicture"
+		texturefile = "gfx/event_pictures/DELHI_DURBAR_OF_AKBAR_II_MUGHAL_MINIATURE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
 	spriteType = {
 		name = "DIPLOMACY_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/DIPLOMACY_eventPicture.dds"
@@ -474,6 +498,12 @@ spriteTypes = {
 	spriteType = {
 		name = "INVENTION_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/INVENTION_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "INDUSTRIALIZATION_eventPictures"
+		texturefile = "gfx/event_pictures/COKE_BLAST_FURNACE_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
@@ -901,6 +931,120 @@ spriteTypes = {
 		name = "SCOTTISH_MERCENARIES_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_AOW/SCOTTISH_MERCENARIES_eventPicture.dds"
 	}
+
+	spriteType = {
+        name = "SEJM_eventPicture"
+        texturefile = "gfx/event_pictures/TSARS_SHUYSKI_WARSAW_SEJM_MATEJKO_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {#
+        name = "12_Maratha_Estate_eventPicture"
+        texturefile = "gfx/event_pictures/MARATHA_LIGHT_CAVALRY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {#
+        name = "13_Maratha_Estate_eventPicture"
+        texturefile = "gfx/event_pictures/MARATHA_LIGHT_CAVALRY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {#
+        name = "14_Maratha_Estate_eventPicture"
+        texturefile = "gfx/event_pictures/MARATHA_LIGHT_CAVALRY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {#
+        name = "7_Vaisya_Estate_eventPicture"
+        texturefile = "gfx/event_pictures/STREET_SCENE_IN_INDIA_WEEKS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {#
+        name = "8_Vaisya_Estate_eventPicture"
+        texturefile = "gfx/event_pictures/STREET_SCENE_IN_INDIA_WEEKS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {#
+        name = "9_Vaisya_Estate_eventPicture"
+        texturefile = "gfx/event_pictures/STREET_SCENE_IN_INDIA_WEEKS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {#
+        name = "1_Brahmin_Estate__eventPicture"
+        texturefile = "gfx/event_pictures/BRAHMINS_WORSHIPPING_BENARES_DEWAT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {#
+        name = "1_Brahmin_Estate_eventPicture"
+        texturefile = "gfx/event_pictures/BRAHMINS_WORSHIPPING_BENARES_DEWAT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+				
+	spriteType = {#
+        name = "2_Brahmin_Estate_eventPicture"
+        texturefile = "gfx/event_pictures/A_BRAHMIN_HOUSEHOLD_VON_RUITH_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {#
+        name = "4_Rajput_Estate_eventPicture"
+        texturefile = "gfx/event_pictures/A_RAJPUT_OF_RAJGARH_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {#is relevant rajput? NO_UNIQUE_PICTURE_YET
+        name = "5_Rajput_Estate_eventPicture"
+        texturefile = "gfx/event_pictures/VILLAGE_LIFE_KAKAMEGA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {#is relevant rajput? NO_UNIQUE_PICTURE_YET
+        name = "6_Rajput_Estate_eventPicture"
+        texturefile = "gfx/event_pictures/RAJAS_OF_INDIA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {#is relevant rajput? NO_UNIQUE_PICTURE_YET
+        name = "11_Jain_Estate_eventPicture"
+        texturefile = "gfx/event_pictures/VILLAGE_LIFE_KAKAMEGA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {#not unique also not really jain NO_UNIQUE_PICTURE_YET
+        name = "11_Jain_Estate_eventPicture"
+        texturefile = "gfx/event_pictures/MONK_IN_MEDITATION_GURJAR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {#not unique also not really jain NO_UNIQUE_PICTURE_YET
+        name = "10_Jain_Estate_eventPicture"
+        texturefile = "gfx/event_pictures/MONK_IN_MEDITATION_GURJAR_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "COUNCIL_TRENT_eventPicture"
+        texturefile = "gfx/event_pictures/COUNCIL_OF_TRENT_MEETING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "IMPALED_SOLDIERS_eventPicture"
+        texturefile = "gfx/event_pictures/EXECUTION_OF_MUTINOUS_WALLOON_MERCENARIES_PAPA_CASTLE_HOUFNAGLIUS_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "BATTLE_VISTULA_LAGOON_eventPicture"
+        texturefile = "gfx/event_pictures/BATTLE_OF_VISTULA_LAGOON_BARANOWSKI_eventPicture.dds"
+        allwaystransparent = yes
+    }
 
 	spriteType = {
 		name = "TRANSYLVANIAN_OTTOMAN_eventPicture"
@@ -1938,11 +2082,6 @@ spriteTypes = {
 	# 	allwaystransparent = yes
 	# }
 	# spriteType = {
-	# 	name = "shinto_CITY_DEVELOPMENT_eventPicture"
-	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
-	# 	allwaystransparent = yes
-	# }
-	# spriteType = {
 	# 	name = "confucianism_CITY_DEVELOPMENT_eventPicture"
 	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
 	# 	allwaystransparent = yes
@@ -2669,6 +2808,18 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 
+	spriteType = {#mughal
+		name = "indiangfx_GREAT_BUILDING_eventPicture"
+		texturefile = "gfx/event_pictures/TEMPLES_AT_RAJGHAT_SITA_RAM_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+		spriteType = {#mughal
+			name = "MUG_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/RUMI_DARWAZA_UPCLOSE_SITA_RAM_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
 	spriteType = {
 		name = "muslimgfx_ADVISOR_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_MUSLIM/ADVISOR_eventPicture.dds"
@@ -3144,6 +3295,13 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_COC/dhow_at_sea.dds"
 		allwaystransparent = yes
 	}
+
+	spriteType = {
+		name = "indiangfx_HARBOUR_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_COC/dhow_at_sea.dds"
+		allwaystransparent = yes
+	}
+
 # #ask	#Praying
 # 	spriteType = {
 # 		name = "muslim_PRAYING_eventPicture"
@@ -6861,44 +7019,46 @@ spriteTypes = {
 		}
 
 	#korean_g
-	spriteType = {#Not Korean, replace when possible
+	spriteType = {#Not Korean, #PAGODA_CONSTRUCTION_eventPicture not actually shinto
 		name = "korean_g_CITY_DEVELOPMENT_eventPicture"
-		texturefile = "gfx/event_pictures/PAGODA_CONSTRUCTION_eventPicture.dds"
+		texturefile = "gfx/event_pictures/SHINTO_CITY_DEVELOPMENT2_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
-		spriteType = {#Not Korean, replace when possible
+		spriteType = {#Not Korean, #PAGODA_CONSTRUCTION_eventPicture not actually shinto
 			name = "korean_CITY_DEVELOPMENT_eventPicture"
-			texturefile = "gfx/event_pictures/PAGODA_CONSTRUCTION_eventPicture.dds"
+			texturefile = "gfx/event_pictures/SHINTO_CITY_DEVELOPMENT2_eventPicture.dds"
 			allwaystransparent = yes
 		}
 
+	#PAGODA_CONSTRUCTION_eventPicture not actually shinto
 	spriteType = {
 		name = "shinto_CITY_DEVELOPMENT_eventPicture"
-		texturefile = "gfx/event_pictures/PAGODA_CONSTRUCTION_eventPicture.dds"
+		texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
 		allwaystransparent = yes
 	}
+
 	spriteType = {
 		name = "japanese_g_CITY_DEVELOPMENT_eventPicture"
-		texturefile = "gfx/event_pictures/PAGODA_CONSTRUCTION_eventPicture.dds"
+		texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
 		allwaystransparent = yes
 	}	
 
 		spriteType = {
 			name = "togoku_CITY_DEVELOPMENT_eventPicture"
-			texturefile = "gfx/event_pictures/PAGODA_CONSTRUCTION_eventPicture.dds"
+			texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
 			allwaystransparent = yes
 		}	
 
 		spriteType = {
 			name = "japanese_CITY_DEVELOPMENT_eventPicture"
-			texturefile = "gfx/event_pictures/PAGODA_CONSTRUCTION_eventPicture.dds"
+			texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
 			allwaystransparent = yes
 		}	
 
 		spriteType = {
 			name = "kyushuan_CITY_DEVELOPMENT_eventPicture"
-			texturefile = "gfx/event_pictures/PAGODA_CONSTRUCTION_eventPicture.dds"
+			texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
 			allwaystransparent = yes
 		}	
 	#		
@@ -8072,9 +8232,15 @@ spriteTypes = {
 
 	#asiangfx disabled SE Asia religion based
 	#hinduism
-	spriteType = {#no asiangfx (indiangfx replaces in India)
+	spriteType = {
 		name = "hinduism_IMPORTANT_STATUE_eventPicture"
-		texturefile = "gfx/event_pictures/TEST_TEST_DELETE_eventPicture.dds"
+		texturefile = "gfx/event_pictures/event_pictures_COC/trade_goods.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "indiangfx_IMPORTANT_STATUE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_COC/trade_goods.dds"
 		allwaystransparent = yes
 	}
 
