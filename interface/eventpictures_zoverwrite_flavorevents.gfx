@@ -1762,6 +1762,7 @@ spriteTypes = {
 		}
 
 
+
 ########################################
 # Events for Devotion (Theocracies)
 #
@@ -7951,6 +7952,134 @@ spriteTypes = {
         allwaystransparent = yes
     }
 
+########################################
+# Events for Innovativeness
+#
+# Innovativeness.txt
+########################################
+
+    # Freedom of the Press
+    # has institution printing press
+    # has innovativeness 5
+    # base picture is probably fine unless there is a picture of press w/o people since it is universal
+    # spriteType = {
+    #     name = "innovativeness_events.1_PRINTING_PRESS_eventPicture"
+    #     texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_YET.dds"
+    #     allwaystransparent = yes
+    # }
+
+    # The inventions of [Root.adm_advisor.GetName]
+    # Universal scientists picture (best to use generic for variety)
+    # spriteType = {
+    #     name = "innovativeness_events.2_SCIENTISTS_eventPicture"
+    #     texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_NEEDED_GENERIC.dds"
+    #     allwaystransparent = yes
+    # }
+
+    # Anatomical Theatre
+    # Universal ROYAL_SOCIETY_eventPicture picture (best to use generic for variety)
+    # spriteType = {
+    #     name = "innovativeness_events.3_ROYAL_SOCIETY_eventPicture"
+    #     texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_NEEDED_GENERIC.dds"
+    #     allwaystransparent = yes
+    # }
+
+    # Promising Inventor
+    # Universal scientists picture (best to use generic for variety)
+    # spriteType = {
+    #     name = "innovativeness_events.4_SCIENTISTS_eventPicture"
+    #     texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_NEEDED_GENERIC.dds"
+    #     allwaystransparent = yes
+    # }
+
+    # Education for the Poor?
+    # Universal ROYAL_SOCIETY_eventPicture picture (best to use generic for variety)
+    # spriteType = {
+    #     name = "innovativeness_events.5_ROYAL_SOCIETY_eventPicture"
+    #     texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_NEEDED_GENERIC.dds"
+    #     allwaystransparent = yes
+    # }
+
+    # [Root.GetRoyalOrState] Patronage
+    # Universal scientists picture (best to use generic for variety)
+    # spriteType = {
+    #     name = "innovativeness_events.6_SCIENTISTS_eventPicture"
+    #     texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_NEEDED_GENERIC.dds"
+    #     allwaystransparent = yes
+    # }
+
+    # Academy of [university_province.GetName]
+    # Universal UNIVERSITY_eventPicture picture (best to use generic for variety)
+    # spriteType = {
+    #     name = "innovativeness_events.7_UNIVERSITY_eventPicture"
+    #     texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_NEEDED_GENERIC.dds"
+    #     allwaystransparent = yes
+    # }
+
+    # Dissenting Academies
+    # Christian nations only
+    # spriteType = {
+    #     name = "innovativeness_events.8_PRINTING_PRESS_eventPicture"
+    #     texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_YET.dds"
+    #     allwaystransparent = yes
+    # }
+
+    # Treatise on Natural Philosophy
+    # Universal scientists picture (best to use generic for variety)
+    # spriteType = {
+    #     name = "innovativeness_events.9_SCIENTISTS_eventPicture"
+    #     texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_NEEDED_GENERIC.dds"
+    #     allwaystransparent = yes
+    # }
+
+    # Unpopular Mathematician
+    # Universal scientists picture (best to use generic for variety)
+    # spriteType = {
+    #     name = "innovativeness_events.10_SCIENTISTS_eventPicture"
+    #     texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_NEEDED_GENERIC.dds"
+    #     allwaystransparent = yes
+    # }
+
+	spriteType = {#
+			name = "innovativeness_events.11_CHAMBER_OF_CURIOSITIES_eventPicture"
+			texturefile = "gfx/event_pictures/TERRA_AUSTRALIS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+    # Coffee Houses
+    # Even though universal maybe coffee picture would be better?
+    # spriteType = {
+    #     name = "innovativeness_events.12_ROYAL_SOCIETY_eventPicture"
+    #     texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_YET.dds"
+    #     allwaystransparent = yes
+    # }            
+
+    # New Scientific Instruments
+    # Universal but maybe a generic picture of renaissance era scientific instruments like telescope is better
+    # spriteType = {
+    #     name = "innovativeness_events.13_SCIENTISTS_eventPicture"
+    #     texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_YET.dds"
+    #     allwaystransparent = yes
+    # }
+
+    # Physiocrats
+    # Weirdo agrarian gentry
+    # unsure generic or unique, is universal but event is about agrarian gentry but industrialization works fine
+    # Universal INDUSTRIALIZATION_eventPictures picture (best to use generic for variety)
+    # spriteType = {
+    #     name = "innovativeness_events.14_INDUSTRIALIZATION_eventPictures"
+    #     texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_NEEDED_GENERIC.dds"
+    #     allwaystransparent = yes
+    # }
+
+    # Cabinet of Curiosities 
+    # has_institution = new_world_i
+    # spriteType = {
+    #     name = "innovativeness_events.15_CHAMBER_OF_CURIOSITIES_eventPicture"
+    #     texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_NEEDED_GENERIC.dds"
+    #     allwaystransparent = yes
+    # }
+
 
 
 ########################################
@@ -8337,11 +8466,14 @@ spriteTypes = {
         texturefile = "gfx/event_pictures/HERETICAL_IMAM_RESEARCH_eventPicture.dds"
         allwaystransparent = yes
     }
-    spriteType = {
-        name = "muslim_piety.4_RELIGION_eventPicture"
-        texturefile = "gfx/event_pictures/BOOK_BURNING_eventPicture.dds"
-        allwaystransparent = yes
-    }
+
+    #
+    # spriteType = {
+    #     name = "muslim_piety.4_RELIGION_eventPicture"
+    #     texturefile = "gfx/event_pictures/BOOK_BURNING_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
+
     spriteType = {#replace soon NO_UNIQUE_PICTURE_YET
         name = "muslim_piety.5_REFORM_eventPicture"
         texturefile = "gfx/event_pictures/07_AFRICA/LAND/PROCESSIONS/CAVALRY_GALLOP_PASINI.dds"
@@ -9698,11 +9830,8 @@ spriteTypes = {
 			texturefile = "gfx/event_pictures/THE_BOSTON_TEA_PARTY_MORAN_eventPicture.dds"
 			allwaystransparent = yes
 		}
-	spriteType = {#
-			name = "innovativeness_events.11_CHAMBER_OF_CURIOSITIES_eventPicture"
-			texturefile = "gfx/event_pictures/TERRA_AUSTRALIS_eventPicture.dds"
-			allwaystransparent = yes
-		}
+
+
 
 	spriteType = {
 			name = "anglican_events.12_MONASTERIES_DISSOLUTION_eventPicture"
