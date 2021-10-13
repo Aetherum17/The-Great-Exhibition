@@ -1430,11 +1430,11 @@ spriteTypes = {
 			texturefile = "gfx/event_pictures/CHINESE_LADIES_eventPicture.dds"
 			allwaystransparent = yes
 		}
-	spriteType = {
-			name = "tributary_events.2_TRIBUTARY_FLEET_eventPicture"
-			texturefile = "gfx/event_pictures/THEATRE_TIEN_SIN_eventPicture.dds"
-			allwaystransparent = yes
-		}
+	# spriteType = {
+	# 		name = "tributary_events.2_TRIBUTARY_FLEET_eventPicture"
+	# 		texturefile = "gfx/event_pictures/THEATRE_TIEN_SIN_eventPicture.dds"
+	# 		allwaystransparent = yes
+	# 	}
 	spriteType = {
 			name = "tributary_events.3_IMPERIAL_SEAL_eventPicture"
 			texturefile = "gfx/event_pictures/EMPEROR_PARTY_OUTDOORS_eventPicture.dds"

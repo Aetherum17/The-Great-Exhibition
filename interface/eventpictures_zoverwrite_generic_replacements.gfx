@@ -353,6 +353,12 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "CONSPIRACY_eventPicture"
+		texturefile = "gfx/event_pictures/GATHERING_1883_ILYA_REPIN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
 		name = "latin_CORRUPTION_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/CORRUPTION_eventPicture.dds"
 		allwaystransparent = yes
@@ -478,7 +484,13 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_GE/ELECTION_REPUBLICAN_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+		name = "EUROPEAN_REFUGEES_eventPicture"
+		texturefile = "gfx/event_pictures/EXPULSIO_DELS_MORISCOS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+		
 	spriteType = {
 		name = "EXPLORERS_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/EXPLORERS_eventPicture.dds"
@@ -554,6 +566,12 @@ spriteTypes = {
 	spriteType = {
 		name = "INDUSTRIALIZATION_eventPictures"
 		texturefile = "gfx/event_pictures/COKE_BLAST_FURNACE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "JESUTIS_IN_BRAZIL_eventPicture"
+		texturefile = "gfx/event_pictures/JESUITES_AT_PAUL_III_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
@@ -664,7 +682,13 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_GE/RELIGIOUS_CONVERSION_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+		name = "protestant_RELIGIOUS_CONVERSION_eventPicture"
+		texturefile = "gfx/event_pictures/01_WESTERN/RELIGION/SCHISM/LUTHER_POSTING_THESES_PAUWELS.dds"
+		allwaystransparent = yes
+	}
+
 	spriteType = {
 		name = "RELIGIOUS_TURMOIL_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/RELIGIOUS_TURMOIL_eventPicture.dds"
@@ -4958,7 +4982,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "asiangfx_NEW_HEIR_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_ASIAN/NEW_HEIR_eventPicture.dds"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/NEW_HEIR_CARDS_eventPicture.dds"
 	}
 
 	spriteType = {
