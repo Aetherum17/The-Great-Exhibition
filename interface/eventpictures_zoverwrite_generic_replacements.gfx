@@ -1078,6 +1078,12 @@ spriteTypes = {
         allwaystransparent = yes
     }
 
+	spriteType = {#is relevant rajput? NO_UNIQUE_PICTURE_YET
+        name = "3_Rajput_Estate_eventPicture"
+        texturefile = "gfx/event_pictures/RAJAS_OF_INDIA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
 	spriteType = {#
         name = "4_Rajput_Estate_eventPicture"
         texturefile = "gfx/event_pictures/A_RAJPUT_OF_RAJGARH_eventPicture.dds"
@@ -1332,7 +1338,13 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_COC/mecca.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+		name = "MOSSI_CAVALRY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_AOW/MOSSI_CAVALRY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
 	spriteType = {
 		name = "MUSLIM_SCHOLAR_WRITING_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COC/muslim_scholar_writing.dds"
