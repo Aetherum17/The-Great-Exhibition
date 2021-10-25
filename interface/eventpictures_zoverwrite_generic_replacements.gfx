@@ -268,6 +268,18 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "latin_BAD_WITH_MONARCH_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/BAD_WITH_MONARCH_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "BANKRUPCY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/BANKRUPTCY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
 		name = "BANKRUPTCY_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/BANKRUPTCY_eventPicture.dds"
 		allwaystransparent = yes
@@ -694,7 +706,19 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_GE/RELIGIOUS_TURMOIL_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+		name = "latin_RELIGIOUS_TURMOIL_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/RELIGIOUS_TURMOIL_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = { #NO_UNIQUE_PICTURE_YET shared with other hussite pictures but same as vanilla
+		name = "hussite_RELIGIOUS_TURMOIL_eventPicture"
+        texturefile = "gfx/event_pictures/HUSSITE_ARMY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
 	spriteType = {
 		name = "RELIGIOUS_WARS_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/RELIGIOUS_WARS_eventPicture.dds"
@@ -1078,8 +1102,14 @@ spriteTypes = {
         allwaystransparent = yes
     }
 
-	spriteType = {#is relevant rajput? NO_UNIQUE_PICTURE_YET
+	spriteType = {#is relevant rajput? NO_UNIQUE_PICTURE_YET 3_Rajput_Estate__eventPicture
         name = "3_Rajput_Estate_eventPicture"
+        texturefile = "gfx/event_pictures/RAJAS_OF_INDIA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {#is relevant rajput? NO_UNIQUE_PICTURE_YET 3_Rajput_Estate__eventPicture
+        name = "3_Rajput_Estate__eventPicture"
         texturefile = "gfx/event_pictures/RAJAS_OF_INDIA_eventPicture.dds"
         allwaystransparent = yes
     }
@@ -4850,10 +4880,34 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_ASIAN/FEAST_eventPicture.dds"
 	}
 
-	spriteType = {
+	spriteType = {#replace soon NO_UNIQUE_PICTURE_YET
 		name = "asiangfx_GREAT_BUILDING_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_ASIAN/GREAT_BUILDING_eventPicture.dds"
+			texturefile = "gfx/event_pictures/TEMPLE_OF_HEAVEN_TWO_eventPicture.dds"
 	}
+
+	spriteType = {
+		name = "japanese_g_GREAT_BUILDING_eventPicture"
+		texturefile = "gfx/event_pictures/EMPLORING_A_DEITY_GEROME_JEAN_LEON_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+		spriteType = {
+			name = "togoku_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/EMPLORING_A_DEITY_GEROME_JEAN_LEON_eventPicture.dds"
+			allwaystransparent = yes
+		}	
+
+		spriteType = {
+			name = "japanese_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/EMPLORING_A_DEITY_GEROME_JEAN_LEON_eventPicture.dds"
+			allwaystransparent = yes
+		}	
+
+		spriteType = {
+			name = "kyushuan_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/EMPLORING_A_DEITY_GEROME_JEAN_LEON_eventPicture.dds"
+			allwaystransparent = yes
+		}	
 
 	# spriteType = {
 	# 	name = "asiangfx_ADVISOR_eventPicture"
