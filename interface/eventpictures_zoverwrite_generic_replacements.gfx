@@ -75,6 +75,12 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "NOMAD_AFRICANS_TRAVELLING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_AOW/NOMAD_AFRICANS_TRAVELLING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
 		name = "MARTIN_LUTHER_eventPicture"
 		texturefile = "gfx/event_pictures/01_WESTERN/RELIGION/SCHISM/LUTHER_POSTING_THESES_PAUWELS.dds"
 		allwaystransparent = yes
@@ -243,12 +249,119 @@ spriteTypes = {
 		}	
 
 	spriteType = {
+		name = "AN_EMPIRE_FOR_A_GIRAFFE_eventPicture"
+		texturefile = "gfx/event_pictures/TRIBUTE_GIRAFFE_WITH_ATTENDANT_SHEN_DU_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#used in single event, has another replacement in AOW folder of just art
+		name = "AFRICAN_ARTWORK_eventPicture"
+		texturefile = "gfx/event_pictures/GHANA_RULER_SITTING_BEFORE_STATUE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "AFRICAN_BAD_WITH_MONARCH_eventPicture"
+		texturefile = "gfx/event_pictures/KONDO_BEHANZIN_BOWELLE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "AFRICAN_BATTLE_eventPicture"
+		texturefile = "gfx/event_pictures/WADAI_CAVALRY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "AFRICAN_CARAVAN_eventPicture"
+		texturefile = "gfx/event_pictures/PILGRIMS_GOING_TO_MECCA_BELLY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "AFRICAN_CATHOLIC_eventPicture"
+		texturefile = "gfx/event_pictures/MISSIONARIES_SON_OF_GOD_AFRICA_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#used only in zimbabwe and  events does not fit NO_UNIQUE_PICTURE_YET
+		name = "AFRICAN_CHIEFTAIN_eventPicture"
+		texturefile = "gfx/event_pictures/ASHANTI_RULER_AT_COURT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#used only in zimbabwe and a mossi event where it does not fit as well NO_UNIQUE_PICTURE_YET
+		name = "AFRICAN_DISCIPLINE_eventPicture"
+		texturefile = "gfx/event_pictures/ZIMBABWE_WARRIORS_MCBRIDE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "AFRICAN_EUROPEAN_DEBATE_eventPicture"
+		texturefile = "gfx/event_pictures/IVORY_TRADERS_AND_EUROPEANS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "AFRICAN_EUROPEAN_PURCHASE_eventPicture"
+		texturefile = "gfx/event_pictures/IVORY_TRADERS_AND_EUROPEANS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "AFRICAN_EUROPEAN_TRADE_eventPicture"
+		texturefile = "gfx/event_pictures/IVORY_TRADERS_AND_EUROPEANS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "AFRICAN_EXPLORER_eventPicture"
+		texturefile = "gfx/event_pictures/MANSA_ABUBAKARI_EXPLORER_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#NO_UNIQUE_PICTURE_YET only used in one event right now
+		name = "AFRICAN_FIGHT_EUROPEANS_eventPicture"
+		texturefile = "gfx/event_pictures/TIMBUKTU_LANDSCAPE_BARTH_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#used in single event not necessarily good fit NO_UNIQUE_PICTURE_YET
+		name = "AFRICAN_KING_MEDIATING_eventPicture"
+		texturefile = "gfx/event_pictures/TUTSI_IN_MARKET_RWANDA_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#NO_UNIQUE_PICTURE_YET not really appropriate for Mali event where most are since it is zulu
+		name = "AFRICAN_REVOLT_eventPicture"
+		texturefile = "gfx/event_pictures/RORKES_DRIFT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
 		name = "ANGRY_MOB_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/ANGRY_MOB_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
-	
+
+	spriteType = {
+		name = "ANIMIST_RELIGIOUS_CEREMONY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_AOW/ANIMIST_RELIGIOUS_CEREMONY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "ANSHANTI_FIREARMS_eventPicture"
+		texturefile = "gfx/event_pictures/ASANTE_WARRIORS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "ASKIA_eventPicture"
+		texturefile = "gfx/event_pictures/ASKIA_KING_OF_SONGHAY_DILLON_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
 	spriteType = {
 		name = "ARTWORK_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/ARTWORK_eventPicture.dds"
@@ -257,9 +370,65 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "ASSASSINATION_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_GE/ASSASSINATION_eventPicture.dds"
+		texturefile = "gfx/event_pictures/STAIRCASE_ASSASSINATION_WILLIAM_ORANGE_eventPicture.dds"
 		allwaystransparent = yes
 	}
+
+	spriteType = {
+		name = "french_ASSASSINATION_eventPicture"
+		texturefile = "gfx/event_pictures/ASSASSINATION_OF_HENRI_IV_AND_ARREST_OF_RAVAILLAC_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+		spriteType = {
+			name = "cosmopolitan_french_ASSASSINATION_eventPicture"
+			texturefile = "gfx/event_pictures/ASSASSINATION_OF_HENRI_IV_AND_ARREST_OF_RAVAILLAC_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "gascon_ASSASSINATION_eventPicture"
+			texturefile = "gfx/event_pictures/ASSASSINATION_OF_HENRI_IV_AND_ARREST_OF_RAVAILLAC_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		
+
+		spriteType = {
+			name = "normand_ASSASSINATION_eventPicture"
+			texturefile = "gfx/event_pictures/ASSASSINATION_OF_HENRI_IV_AND_ARREST_OF_RAVAILLAC_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "aquitaine_ASSASSINATION_eventPicture"
+			texturefile = "gfx/event_pictures/ASSASSINATION_OF_HENRI_IV_AND_ARREST_OF_RAVAILLAC_eventPicture.dds"
+			allwaystransparent = yes
+		}		
+
+		spriteType = {
+			name = "burgundian_ASSASSINATION_eventPicture"
+			texturefile = "gfx/event_pictures/ASSASSINATION_OF_HENRI_IV_AND_ARREST_OF_RAVAILLAC_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "occitain_ASSASSINATION_eventPicture"
+			texturefile = "gfx/event_pictures/ASSASSINATION_OF_HENRI_IV_AND_ARREST_OF_RAVAILLAC_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "wallonian_ASSASSINATION_eventPicture"
+			texturefile = "gfx/event_pictures/ASSASSINATION_OF_HENRI_IV_AND_ARREST_OF_RAVAILLAC_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "breton_ASSASSINATION_eventPicture"
+			texturefile = "gfx/event_pictures/ASSASSINATION_OF_HENRI_IV_AND_ARREST_OF_RAVAILLAC_eventPicture.dds"
+			allwaystransparent = yes
+		}						
+	
 
 	spriteType = {
 		name = "BAD_WITH_MONARCH_eventPicture"
@@ -326,6 +495,13 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_GE/CITY_VIEW_eventPicture.dds"
 		allwaystransparent = yes
 	}
+
+	spriteType = {
+		name = "CITY_VIEW"
+		texturefile = "gfx/event_pictures/event_pictures_GE/CITY_VIEW_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
 
 		spriteType = {
 			name = "breton_CITY_VIEW_eventPicture"
@@ -508,7 +684,62 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_GE/EXPLORERS_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+		name = "french_EXPLORERS_eventPicture"
+		texturefile = "gfx/event_pictures/CHAMPLAIN_AND_HURONS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+		spriteType = {
+			name = "cosmopolitan_french_EXPLORERS_eventPicture"
+			texturefile = "gfx/event_pictures/CHAMPLAIN_AND_HURONS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "gascon_EXPLORERS_eventPicture"
+			texturefile = "gfx/event_pictures/CHAMPLAIN_AND_HURONS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		
+
+		spriteType = {
+			name = "normand_EXPLORERS_eventPicture"
+			texturefile = "gfx/event_pictures/CHAMPLAIN_AND_HURONS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "aquitaine_EXPLORERS_eventPicture"
+			texturefile = "gfx/event_pictures/CHAMPLAIN_AND_HURONS_eventPicture.dds"
+			allwaystransparent = yes
+		}		
+
+		spriteType = {
+			name = "burgundian_EXPLORERS_eventPicture"
+			texturefile = "gfx/event_pictures/CHAMPLAIN_AND_HURONS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "occitain_EXPLORERS_eventPicture"
+			texturefile = "gfx/event_pictures/CHAMPLAIN_AND_HURONS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "wallonian_EXPLORERS_eventPicture"
+			texturefile = "gfx/event_pictures/CHAMPLAIN_AND_HURONS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "breton_EXPLORERS_eventPicture"
+			texturefile = "gfx/event_pictures/CHAMPLAIN_AND_HURONS_eventPicture.dds"
+			allwaystransparent = yes
+		}						
+		
 	spriteType = {
 		name = "FAMINE_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/FAMINE_eventPicture.dds"
@@ -588,6 +819,18 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "JUDAISM_eventPicture"
+		texturefile = "gfx/event_pictures/LIGHT_OF_TORAH_ROTH_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "JUDAISM_TEMPLE_eventPicture"
+		texturefile = "gfx/event_pictures/MY_DREAM_LEVINE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
 		name = "KING_SICK_IN_BED_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/KING_SICK_IN_BED_eventPicture.dds"
 		allwaystransparent = yes
@@ -616,7 +859,13 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_GE/MILITARY_CAMP_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+		name = "NEGUSA_NAGAST_eventPicture"
+		texturefile = "gfx/event_pictures/TEWODROS_II_EPIC_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
 	spriteType = {
 		name = "NATIVES_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/NATIVES_eventPicture.dds"
@@ -655,7 +904,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "PLAGUE_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_GE/PLAGUE_eventPicture.dds"
+		texturefile = "gfx/event_pictures/PLAGUE_VICTIMS_LOADING_PRAYING_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
@@ -787,58 +1036,63 @@ spriteTypes = {
 				
 	spriteType = {
 		name = "french_REVOLUTION_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_GE/REVOLUTION_eventPicture.dds"
+		texturefile = "gfx/event_pictures/POLYTECHNICIAN_FIRING_URBAN_eventPicture.dds"
 		allwaystransparent = yes
 	}
 		spriteType = {
 			name = "cosmopolitan_french_REVOLUTION_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_GE/REVOLUTION_eventPicture.dds"
+			texturefile = "gfx/event_pictures/POLYTECHNICIAN_FIRING_URBAN_eventPicture.dds"
 			allwaystransparent = yes
 		}
 
 		spriteType = {
 			name = "gascon_REVOLUTION_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_GE/REVOLUTION_eventPicture.dds"
+			texturefile = "gfx/event_pictures/POLYTECHNICIAN_FIRING_URBAN_eventPicture.dds"
 			allwaystransparent = yes
 		}
 		
 
 		spriteType = {
 			name = "normand_REVOLUTION_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_GE/REVOLUTION_eventPicture.dds"
+			texturefile = "gfx/event_pictures/POLYTECHNICIAN_FIRING_URBAN_eventPicture.dds"
 			allwaystransparent = yes
 		}
 
 		spriteType = {
 			name = "aquitaine_REVOLUTION_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_GE/REVOLUTION_eventPicture.dds"
+			texturefile = "gfx/event_pictures/POLYTECHNICIAN_FIRING_URBAN_eventPicture.dds"
 			allwaystransparent = yes
 		}		
 
 		spriteType = {
 			name = "burgundian_REVOLUTION_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_GE/REVOLUTION_eventPicture.dds"
+			texturefile = "gfx/event_pictures/POLYTECHNICIAN_FIRING_URBAN_eventPicture.dds"
 			allwaystransparent = yes
 		}
 
 		spriteType = {
 			name = "occitain_REVOLUTION_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_GE/REVOLUTION_eventPicture.dds"
+			texturefile = "gfx/event_pictures/POLYTECHNICIAN_FIRING_URBAN_eventPicture.dds"
 			allwaystransparent = yes
 		}
 
 		spriteType = {
 			name = "wallonian_REVOLUTION_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_GE/REVOLUTION_eventPicture.dds"
+			texturefile = "gfx/event_pictures/POLYTECHNICIAN_FIRING_URBAN_eventPicture.dds"
 			allwaystransparent = yes
 		}
 
 		spriteType = {
 			name = "breton_REVOLUTION_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_GE/REVOLUTION_eventPicture.dds"
+			texturefile = "gfx/event_pictures/POLYTECHNICIAN_FIRING_URBAN_eventPicture.dds"
 			allwaystransparent = yes
 		}						
 
+	spriteType = {
+		name = "SAHARA_eventPicture"
+		texturefile = "gfx/event_pictures/A_HALT_IN_THE_DESERT_LUKER_eventPicture.dds"
+		allwaystransparent = yes
+	}
 
 	spriteType = {
 		name = "SHIP_SAILING_eventPicture"
@@ -1020,6 +1274,28 @@ spriteTypes = {
 	spriteType = {
 		name = "ASTRONOMER_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_AOW/ASTRONOMER_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "BENIN_TRADING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_AOW/BENIN_TRADING_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "CAMEL_PATROL_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_AOW/CAMEL_PATROL_eventPicture.dds"
+	}
+
+
+	spriteType = {
+		name = "GOLDEN_STOOL_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_AOW/GOLDEN_STOOL_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "CHRISTIAN_ANIMIST_ALTAR_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_AOW/CHRISTIAN_ANIMIST_ALTAR_eventPicture.dds"
 	}
 
 	spriteType = {
@@ -1356,7 +1632,25 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_COC/king_of_foreign_customs.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+		name = "MALI_DECLINE_eventPicture"
+		texturefile = "gfx/event_pictures/MANSA_IN_DESERT_DILLON_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "MALI_RULER_eventPicture"
+		texturefile = "gfx/event_pictures/MANSA_MUNSA_HORSEBACK_DILLON_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#used only in Mali currently
+		name = "MOSQUE_eventPicture"
+		texturefile = "gfx/event_pictures/MANSA_MUNSA_BY_DJENNE_MOSQUE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
 	spriteType = {
 		name = "MAMLUK_WARRIORS_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COC/mamluk_warriors.dds"
@@ -1372,6 +1666,18 @@ spriteTypes = {
 	spriteType = {
 		name = "MOSSI_CAVALRY_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_AOW/MOSSI_CAVALRY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#NO_UNIQUE_PICTURE_YET just re-used
+		name = "MUSLIM_PAGAN_DISPUTE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_AOW/MUSLIM_ANIMIST_DISPUTE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#NO_UNIQUE_PICTURE_YET just re-used
+		name = "MUSLIM_ANIMIST_ALTAR_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_AOW/MUSLIM_ANIMIST_ALTAR_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
@@ -1392,7 +1698,13 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_COC/prayer_in_mosque.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+		name = "TUAREG_OTTOMAN_eventPicture"
+		texturefile = "gfx/event_pictures/PERSIAN_AMBASSADOR_IN_ETHIOPIA_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
 	spriteType = {
 		name = "TRADE_GOODS_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COC/trade_goods.dds"
@@ -1495,7 +1807,25 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_COC/revolt.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = { #NO_UNIQUE_PICTURE_YET does not fit great in Zimbabwe events especially one with asian maps
+		name = "SONGHAI_eventPicture"
+		texturefile = "gfx/event_pictures/TIMBUKTU_BERBER_TRADE_BARTH_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = { 
+		name = "SONGHAI_RULER_eventPicture"
+		texturefile = "gfx/event_pictures/ALI_BEER_SONGHAI_DILLON_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = { 
+		name = "SONGHAIR_SCHOLAR_WRITING_eventPicture"
+		texturefile = "gfx/event_pictures/TIMBUKTU_MANUSCRIPTS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
 	spriteType = {
 		name = "SOUP_KITCHEN_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COC/soup_kitchen.dds"
@@ -1531,7 +1861,19 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_COS/BURGHER_ESTATE_UPSET_eventPicture.dds"
 		allwaystransparent = yes
 	}
+
+	spriteType = {
+		name = "asiangfx_BURGHER_ESTATE_eventPicture"
+		texturefile = "gfx/event_pictures/XU_GUANGQI_SUN_HAUYI_eventPicture.dds"
+		allwaystransparent = yes
+	}
 	
+	spriteType = {
+		name = "asiangfx_BURGHER_ESTATE_UPSET_eventPicture"
+		texturefile = "gfx/event_pictures/RISE_OF_THE_MERCHANTS_LI_ZHAOLIN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
 	spriteType = {
 		name = "CHURCH_ESTATE_1_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COS/CHURCH_ESTATE_1_eventPicture.dds"
@@ -1549,7 +1891,19 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_COS/CHURCH_ESTATE_UPSET_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+		name = "COPTIC_BISHOP_eventPicture"
+		texturefile = "gfx/event_pictures/COPTIC_IN_PRAYER_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {#NO_UNIQUE_PICTURE_YET not sure I like this one
+		name = "COPTIC_MOUNTAIN_eventPicture"
+		texturefile = "gfx/event_pictures/ETHIOPIAN_MOUNTAIN_COPTIC_CAVE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
 	spriteType = {
 		name = "COSSACK_ESTATE_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COS/COSSACK_ESTATE_eventPicture.dds"
@@ -1609,19 +1963,79 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_COS/NOBLE_ESTATE_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+		name = "french_NOBLE_ESTATE_eventPicture"
+		texturefile = "gfx/event_pictures/READING_AT_MADAME_GEOFFRINS_LEMONNIER_eventPicture.dds"
+		allwaystransparent = yes
+	}
+		spriteType = {
+			name = "cosmopolitan_french_NOBLE_ESTATE_eventPicture"
+			texturefile = "gfx/event_pictures/READING_AT_MADAME_GEOFFRINS_LEMONNIER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "gascon_NOBLE_ESTATE_eventPicture"
+			texturefile = "gfx/event_pictures/READING_AT_MADAME_GEOFFRINS_LEMONNIER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		
+
+		spriteType = {
+			name = "normand_NOBLE_ESTATE_eventPicture"
+			texturefile = "gfx/event_pictures/READING_AT_MADAME_GEOFFRINS_LEMONNIER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "aquitaine_NOBLE_ESTATE_eventPicture"
+			texturefile = "gfx/event_pictures/READING_AT_MADAME_GEOFFRINS_LEMONNIER_eventPicture.dds"
+			allwaystransparent = yes
+		}		
+
+		spriteType = {
+			name = "burgundian_NOBLE_ESTATE_eventPicture"
+			texturefile = "gfx/event_pictures/READING_AT_MADAME_GEOFFRINS_LEMONNIER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "occitain_NOBLE_ESTATE_eventPicture"
+			texturefile = "gfx/event_pictures/READING_AT_MADAME_GEOFFRINS_LEMONNIER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "wallonian_NOBLE_ESTATE_eventPicture"
+			texturefile = "gfx/event_pictures/READING_AT_MADAME_GEOFFRINS_LEMONNIER_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "breton_NOBLE_ESTATE_eventPicture"
+			texturefile = "gfx/event_pictures/READING_AT_MADAME_GEOFFRINS_LEMONNIER_eventPicture.dds"
+			allwaystransparent = yes
+		}	
+
 	spriteType = {
 		name = "NOBLE_ESTATE_TAKE_OVER_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COS/NOBLE_ESTATE_TAKE_OVER_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
 	spriteType = {
 		name = "NOMAD_ESTATE_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COS/NOMAD_ESTATE_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+		name = "NZINGHA_eventPicture"
+		texturefile = "gfx/event_pictures/NZINGHA_THRONE_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
 	spriteType = {
 		name = "RELIGIOUS_MIGRANTS_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COS/RELIGIOUS_MIGRANTS_eventPicture.dds"
@@ -1754,6 +2168,12 @@ spriteTypes = {
 	spriteType = {
 		name = "PARLIAMENT_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_CS/PARLIAMENT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "PRESTOR_JOHN_eventPicture"
+		texturefile = "gfx/event_pictures/MENELIK_II_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
@@ -2735,6 +3155,11 @@ spriteTypes = {
 		allwaystransparent = yes
 	}	
 	
+	spriteType = {
+		name = "africangfx_DEATH_OF_HEIR_eventPicture"
+		texturefile = "gfx/event_pictures/FUNERAL_SCENE_MOROCCO_CONSTANT_eventPicture.dds"
+		allwaystransparent = yes
+	}
 
 	
 	#DLC Events
@@ -2948,6 +3373,56 @@ spriteTypes = {
 			allwaystransparent = yes
 		}
 
+	#cushitic
+	spriteType = {
+		name = "cushitic_GREAT_BUILDING_eventPicture"
+		texturefile = "gfx/event_pictures/OBELISK_AT_AXUM_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+		spriteType = {
+			name = "somali_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/OBELISK_AT_AXUM_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "harari_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/OBELISK_AT_AXUM_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "afar_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/OBELISK_AT_AXUM_eventPicture.dds"
+			allwaystransparent = yes
+		}		
+
+		spriteType = {
+			name = "oromo_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/OBELISK_AT_AXUM_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "tigray_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/OBELISK_AT_AXUM_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "sidamo_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/OBELISK_AT_AXUM_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "amhara_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/OBELISK_AT_AXUM_eventPicture.dds"
+			allwaystransparent = yes
+		}						
+
+	#
 	spriteType = {
 		name = "muslimgfx_ADVISOR_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_MUSLIM/ADVISOR_eventPicture.dds"
@@ -3143,6 +3618,12 @@ spriteTypes = {
 	spriteType = {
 		name = "muslimgfx_FARMING_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_MUSLIM/FARMING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "africangfx_FARMING_eventPicture"
+		texturefile = "gfx/event_pictures/AFRICAN_RICE_FARM_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
@@ -5026,6 +5507,57 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 
+	#cushitic
+	spriteType = {
+		name = "cushitic_LAND_MILITARY_eventPicture"
+		texturefile = "gfx/event_pictures/ETHIOPIAN_CAVALRY_DRAWING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+		spriteType = {
+			name = "somali_LAND_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/ETHIOPIAN_CAVALRY_DRAWING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "harari_LAND_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/ETHIOPIAN_CAVALRY_DRAWING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "afar_LAND_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/ETHIOPIAN_CAVALRY_DRAWING_eventPicture.dds"
+			allwaystransparent = yes
+		}		
+
+		spriteType = {
+			name = "oromo_LAND_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/ETHIOPIAN_CAVALRY_DRAWING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "tigray_LAND_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/ETHIOPIAN_CAVALRY_DRAWING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "sidamo_LAND_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/ETHIOPIAN_CAVALRY_DRAWING_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "amhara_LAND_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/ETHIOPIAN_CAVALRY_DRAWING_eventPicture.dds"
+			allwaystransparent = yes
+		}						
+
+	#
+
 	spriteType = {
 		name = "asiangfx_MERCHANTS_TALKING_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_ASIAN/MERCHANTS_TALKING_eventPicture.dds"
@@ -5915,6 +6447,14 @@ spriteTypes = {
 	}	
 
 #Court
+
+	#polish
+	spriteType = {
+		name = "polish_COURT_eventPicture"
+		texturefile = "gfx/event_pictures/PEACE_WITH_TEUTONS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
 	spriteType = {
 		name = "easterngfx_COURT_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_TR/PRINCE_AND_BOYARS_eventPicture.dds"
@@ -6041,49 +6581,49 @@ spriteTypes = {
 	#cushitic
 	spriteType = {
 		name = "cushitic_COURT_eventPicture"
-		texturefile = "gfx/event_pictures/EASTER_CELEBRATION_IN_ADDIS_ABABA_eventPicture.dds"
+		texturefile = "gfx/event_pictures/MENELIK_II_WITH_LION_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
 		spriteType = {
 			name = "somali_COURT_eventPicture"
-			texturefile = "gfx/event_pictures/EASTER_CELEBRATION_IN_ADDIS_ABABA_eventPicture.dds"
+			texturefile = "gfx/event_pictures/MENELIK_II_WITH_LION_eventPicture.dds"
 			allwaystransparent = yes
 		}
 
 		spriteType = {
 			name = "harari_COURT_eventPicture"
-			texturefile = "gfx/event_pictures/EASTER_CELEBRATION_IN_ADDIS_ABABA_eventPicture.dds"
+			texturefile = "gfx/event_pictures/MENELIK_II_WITH_LION_eventPicture.dds"
 			allwaystransparent = yes
 		}
 
 		spriteType = {
 			name = "afar_COURT_eventPicture"
-			texturefile = "gfx/event_pictures/EASTER_CELEBRATION_IN_ADDIS_ABABA_eventPicture.dds"
+			texturefile = "gfx/event_pictures/MENELIK_II_WITH_LION_eventPicture.dds"
 			allwaystransparent = yes
 		}		
 
 		spriteType = {
 			name = "oromo_COURT_eventPicture"
-			texturefile = "gfx/event_pictures/EASTER_CELEBRATION_IN_ADDIS_ABABA_eventPicture.dds"
+			texturefile = "gfx/event_pictures/MENELIK_II_WITH_LION_eventPicture.dds"
 			allwaystransparent = yes
 		}
 
 		spriteType = {
 			name = "tigray_COURT_eventPicture"
-			texturefile = "gfx/event_pictures/EASTER_CELEBRATION_IN_ADDIS_ABABA_eventPicture.dds"
+			texturefile = "gfx/event_pictures/MENELIK_II_WITH_LION_eventPicture.dds"
 			allwaystransparent = yes
 		}
 
 		spriteType = {
 			name = "sidamo_COURT_eventPicture"
-			texturefile = "gfx/event_pictures/EASTER_CELEBRATION_IN_ADDIS_ABABA_eventPicture.dds"
+			texturefile = "gfx/event_pictures/MENELIK_II_WITH_LION_eventPicture.dds"
 			allwaystransparent = yes
 		}
 
 		spriteType = {
 			name = "amhara_COURT_eventPicture"
-			texturefile = "gfx/event_pictures/EASTER_CELEBRATION_IN_ADDIS_ABABA_eventPicture.dds"
+			texturefile = "gfx/event_pictures/MENELIK_II_WITH_LION_eventPicture.dds"
 			allwaystransparent = yes
 		}						
 
@@ -7217,6 +7757,59 @@ spriteTypes = {
 
 #COLONIZATION_eventPicture
 
+	spriteType = {
+		name = "french_COLONIZATION_eventPicture"
+		texturefile = "gfx/event_pictures/CHAMPLAIN_SPOTS_LAND_eventPicture.dds"
+		allwaystransparent = yes
+	}
+		spriteType = {
+			name = "cosmopolitan_french_COLONIZATION_eventPicture"
+			texturefile = "gfx/event_pictures/CHAMPLAIN_SPOTS_LAND_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "gascon_COLONIZATION_eventPicture"
+			texturefile = "gfx/event_pictures/CHAMPLAIN_SPOTS_LAND_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		
+
+		spriteType = {
+			name = "normand_COLONIZATION_eventPicture"
+			texturefile = "gfx/event_pictures/CHAMPLAIN_SPOTS_LAND_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "aquitaine_COLONIZATION_eventPicture"
+			texturefile = "gfx/event_pictures/CHAMPLAIN_SPOTS_LAND_eventPicture.dds"
+			allwaystransparent = yes
+		}		
+
+		spriteType = {
+			name = "burgundian_COLONIZATION_eventPicture"
+			texturefile = "gfx/event_pictures/CHAMPLAIN_SPOTS_LAND_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "occitain_COLONIZATION_eventPicture"
+			texturefile = "gfx/event_pictures/CHAMPLAIN_SPOTS_LAND_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "wallonian_COLONIZATION_eventPicture"
+			texturefile = "gfx/event_pictures/CHAMPLAIN_SPOTS_LAND_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "breton_COLONIZATION_eventPicture"
+			texturefile = "gfx/event_pictures/CHAMPLAIN_SPOTS_LAND_eventPicture.dds"
+			allwaystransparent = yes
+		}	
 	#asiangfx
 	spriteType = {
 		name = "asiangfx_COLONIZATION_eventPicture"
@@ -7596,29 +8189,79 @@ spriteTypes = {
 
 #BATTLE_eventPicture
 
+	#polish
+	spriteType = {
+		name = "polish_BATTLE_eventPicture"
+		texturefile = "gfx/event_pictures/POLISH_WINGED_HUSSAR_CHARGE_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
 			spriteType = {#QNG Replacement
 				name = "PRY_BATTLE_eventPicture"
-				texturefile = "gfx/event_pictures/QING_GENERAL_ARTILLERY_eventPicture.dds"
+				texturefile = "gfx/event_pictures/PIRATES_BOARDING_BATTLE_eventPicture.dds"
 				allwaystransparent = yes
 			}
 
 			spriteType = {#QNG Replacement
 				name = "NSS_BATTLE_eventPicture"
-				texturefile = "gfx/event_pictures/QING_GENERAL_ARTILLERY_eventPicture.dds"
+				texturefile = "gfx/event_pictures/PIRATES_BOARDING_BATTLE_eventPicture.dds"
 				allwaystransparent = yes
 			}
 
 			spriteType = {#QNG Replacement
 				name = "TOR_BATTLE_eventPicture"
-				texturefile = "gfx/event_pictures/QING_GENERAL_ARTILLERY_eventPicture.dds"
+				texturefile = "gfx/event_pictures/PIRATES_BOARDING_BATTLE_eventPicture.dds"
 				allwaystransparent = yes
 			}
 
 			spriteType = {#QNG Replacement
 				name = "LIB_BATTLE_eventPicture"
-				texturefile = "gfx/event_pictures/QING_GENERAL_ARTILLERY_eventPicture.dds"
+				texturefile = "gfx/event_pictures/PIRATES_BOARDING_BATTLE_eventPicture.dds"
 				allwaystransparent = yes
 			}
+
+	#southern_african #NEW
+	spriteType = {
+		name = "southern_african_BATTLE_eventPicture"
+		texturefile = "gfx/event_pictures/ZULU_WARRIORS_CHARGE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+		spriteType = {
+			name = "makua_BATTLE_eventPicture"
+			texturefile = "gfx/event_pictures/ZULU_WARRIORS_CHARGE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "nguni_BATTLE_eventPicture"
+			texturefile = "gfx/event_pictures/ZULU_WARRIORS_CHARGE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "bemba_BATTLE_eventPicture"
+			texturefile = "gfx/event_pictures/ZULU_WARRIORS_CHARGE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "khoisan_BATTLE_eventPicture"
+			texturefile = "gfx/event_pictures/ZULU_WARRIORS_CHARGE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "shona_BATTLE_eventPicture"
+			texturefile = "gfx/event_pictures/ZULU_WARRIORS_CHARGE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "nyasa_BATTLE_eventPicture"
+			texturefile = "gfx/event_pictures/ZULU_WARRIORS_CHARGE_eventPicture.dds"
+			allwaystransparent = yes
+		}
 
 	#east_asian
 	spriteType = {
@@ -7626,6 +8269,8 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_MOH/CHINESE_GENERAL_eventPicture.dds"
 		allwaystransparent = yes
 	}
+
+
 
 		spriteType = {#QNG Replacement
 			name = "manchu_new_BATTLE_eventPicture"
@@ -7950,6 +8595,13 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/BAVARIAN_ARMY_SIEGESTOR_eventPicture.dds"
 		allwaystransparent = yes
 	}
+
+	#polish
+	spriteType = {
+		name = "polish_LAND_MILITARY_eventPicture"
+		texturefile = "gfx/event_pictures/SOBIESKI_III_AND_ARMY_eventPicture.dds"
+		allwaystransparent = yes
+	}	
 
 	#east_asian
 	spriteType = {

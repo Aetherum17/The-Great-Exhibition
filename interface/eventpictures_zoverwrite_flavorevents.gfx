@@ -4931,6 +4931,12 @@ spriteTypes = {
     }	
 
 
+    #Reconquest of the city of Timbuktu
+    spriteType = {
+        name = "flavor_mal.28_AFRICAN_FIGHT_EUROPEANS_eventPicture"
+        texturefile = "gfx/event_pictures/TIMBUKTU_LANDSCAPE_BARTH_eventPicture.dds"
+        allwaystransparent = yes
+    }
 
 ########################################
 # Events for The Mamelukes
@@ -5918,12 +5924,268 @@ spriteTypes = {
         allwaystransparent = yes
     }
 
+######################################## 
+# Flavor events for Poland
+# flavorPOL.txt
+# written by Sara Wendel-Örtqvist
+######################################## 
+
+
+
+
+
+    # The Nieszawa Privileges-'Conventiones Particulares'
+	spriteType = {
+		name = "flavor_pol.3467_LIBERUM_VETO_eventPicture"
+		texturefile = "gfx/event_pictures/TEUTONIC_DEFEAT_AFTERMATH_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # The Statute of Piotrkow
+	# spriteType = {
+	# 	name = "flavor_pol.3468_COURT_eventPicture"
+	# 	texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_YET.dds"
+	# 	allwaystransparent = yes
+	# }
+
+    # The Polish Inheritance of Masovia
+	spriteType = {
+		name = "flavor_pol.3473_COURT_eventPicture"
+		texturefile = "gfx/event_pictures/DUKES_OF_MASOVIA_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # The Jesuit King
+	# spriteType = {
+	# 	name = "flavor_pol.3477_COURT_eventPicture"
+	# 	texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_YET.dds"
+	# 	allwaystransparent = yes
+	# }
+
+    # The Pacta Conventa and the Henrykian Articles
+	spriteType = {
+		name = "flavor_pol.3480_REFORM_eventPicture"
+		texturefile = "gfx/event_pictures/PACTA_CONVENTA_AUGUSTUS_SIGNING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # The Sobieskian Army Reforms
+	spriteType = {
+		name = "flavor_pol.3485_REFORM_eventPicture"
+		texturefile = "gfx/event_pictures/SOBIESKI_III_AND_ARMY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # The Great Northern Conflict
+	spriteType = {
+		name = "flavor_pol.3491_BATTLE_eventPicture"
+		texturefile = "gfx/event_pictures/GREAT_NORTHERN_SWEDISH_CAVALRY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # Turko-Polish Tension
+	spriteType = {
+		name = "flavor_pol.3488_DIPLOMACY_eventPicture"
+		texturefile = "gfx/event_pictures/BATTLE_OF_CHOCIM_BRANDT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # The Horrible Plague in Lithuania
+	# spriteType = {
+	# 	name = "flavor_pol.3493_PLAGUE_eventPicture"
+	# 	texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_YET.dds"
+	# 	allwaystransparent = yes
+	# }
+
+    # Ending the Stagnation - Jan Sobieski
+	spriteType = {
+		name = "flavor_pol.3497_PLAGUE_eventPicture"
+		texturefile = "gfx/event_pictures/SOBIESKI_MESSAGE_TO_POPE_VIENNA_MATEJKO_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # Ending the Stagnation - Friedrich Augustus II
+	# spriteType = {
+	# 	name = "flavor_pol.3498_REFORM_eventPicture"
+	# 	texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_YET.dds"
+	# 	allwaystransparent = yes
+	# }
+
+    # Ending the Stagnation - Stanislaus Poniatowski
+	spriteType = {
+		name = "flavor_pol.3499_REFORM_eventPicture"
+		texturefile = "gfx/event_pictures/ELECTION_OF_STANISLAS_AUGUSTUS_BELLOTO_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # Ending the Stagnation - King Stanislaus
+	spriteType = {
+		name = "flavor_pol.3500_REFORM_eventPicture"
+		texturefile = "gfx/event_pictures/CONSTITUTION_MAY_3_1791_MATEJKO_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # The Sejm refuse to allow the mobilization of more troops
+	spriteType = {
+		name = "flavor_pol.3738_LIBERUM_VETO_eventPicture"
+		texturefile = "gfx/event_pictures/THE_FIRST_SEJM_MATEJKO_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # The Sejm comply to your policies
+	spriteType = {
+		name = "flavor_pol.3743_LIBERUM_VETO_eventPicture"
+		texturefile = "gfx/event_pictures/PASSING_OF_MAY_3_CONSTITUTION_1791_WOJNIAKOWSKI_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # The Sejm veto all your policies
+	spriteType = {
+		name = "flavor_pol.3744_LIBERUM_VETO_eventPicture"
+		texturefile = "gfx/event_pictures/REJTAN_AT_SEJM_OF_1773_MATEJKO_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # Nicolaus Copernicus
+	spriteType = {
+		name = "flavor_pol.5100_ADVISOR_eventPicture"
+		texturefile = "gfx/event_pictures/COPERNICUS_CONVERSATION_MATEJKO_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # Polish-Lithuanian Commonwealth Navy
+	# spriteType = {
+	# 	name = "flavor_pol.1_NAVAL_MILITARY_eventPicture"
+	# 	texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_YET.dds"
+	# 	allwaystransparent = yes
+	# }
+
+    # Sigismund's Column
 	spriteType = {
 		name = "flavor_pol.2_IMPORTANT_STATUE_eventPicture"
 		texturefile = "gfx/event_pictures/SIGISMUND_COLUMN_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
+    # Merkuriusz Polski Ordynaryjny
+	spriteType = {
+		name = "flavor_pol.3_REFORM_eventPicture"
+		texturefile = "gfx/event_pictures/MERKURIUSZ_POLSKI_ORDYNARYJNY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # Vilnius University
+	spriteType = {
+		name = "flavor_pol.4_UNIVERSITY_eventPicture"
+		texturefile = "gfx/event_pictures/SMOKOWSKY_BATHORY_FOUNDING_ACADEMY_eventPicture.dds"
+		allwaystransparent = yes
+	}    
+
+    # Jan Brozek
+	spriteType = {
+		name = "flavor_pol.5_ADVISOR_eventPicture"
+		texturefile = "gfx/event_pictures/KRAKOWSKI_JAN_BROZEK_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # Michal Sedziwój
+	spriteType = {
+		name = "flavor_pol.6_ADVISOR_eventPicture"
+		texturefile = "gfx/event_pictures/MICHAL_SEDZIWOJ_ALCHEMIST_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # Zamojski Academy
+	# spriteType = {
+	# 	name = "flavor_pol.7_UNIVERSITY_eventPicture"
+	# 	texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_YET.dds"
+	# 	allwaystransparent = yes
+	# }    
+
+    ### THE STRUGGLE FOR ROYAL POWER ### 
+    # Reworked into a disaster
+	spriteType = {
+		name = "flavor_pol.3481_SEJM_eventPicture"
+		texturefile = "gfx/event_pictures/ZYGMUNT_III_VASA_ON_THRONE_LITHOGRAPH_eventPicture.dds"
+		allwaystransparent = yes
+	}   
+
+    # Konfederacja
+	spriteType = {
+		name = "flavor_pol.10_SEJM_eventPicture"
+		texturefile = "gfx/event_pictures/REBELLIOUS_NOBLES_KONFEDERACJA_eventPicture.dds"
+		allwaystransparent = yes
+	}  
+    
+    # Rokosz Sandomierski
+	spriteType = {
+		name = "flavor_pol.11_ANGRY_MOB_eventPicture"
+		texturefile = "gfx/event_pictures/SANDOMIERZ_ROKOSZ_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # Pacification Sejm
+	# spriteType = {
+	# 	name = "flavor_pol.12_SEJM_eventPicture"
+	# 	texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_YET.dds"
+	# 	allwaystransparent = yes
+	# }  
+
+    # Collegium Hosianum
+	# spriteType = {
+	# 	name = "flavor_pol.14_UNIVERSITY_eventPicture"
+	# 	texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_YET.dds"
+	# 	allwaystransparent = yes
+	# }  
+
+    # The Radziwill Bible & the Reformation in Poland
+	spriteType = {
+		name = "flavor_pol.15_BIG_BOOK_eventPicture"
+		texturefile = "gfx/event_pictures/RADZIWILL_BIBLE_eventPicture.dds"
+		allwaystransparent = yes
+	}  
+
+    #State religion resulting in the suspension of the College.
+	# spriteType = {
+	# 	name = "flavor_pol.16_UNIVERSITY_eventPicture"
+	# 	texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_YET.dds"
+	# 	allwaystransparent = yes
+	# }  
+
+    #Clearing of Teutonic Rivalry
+	spriteType = {
+		name = "flavor_pol.17_LIBERUM_VETO_eventPicture"
+		texturefile = "gfx/event_pictures/BATTLE_OF_GRUNWALDEM_MATEJKO_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    #Election of Kasimir
+	spriteType = {
+		name = "flavor_pol.18_LIBERUM_VETO_eventPicture"
+		texturefile = "gfx/event_pictures/DEATH_OF_WLADYSLAW_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # Become elective
+	spriteType = {
+		name = "flavor_pol.20_LIBERUM_VETO_eventPicture"
+		texturefile = "gfx/event_pictures/ELECTION_1764_STANISLAW_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+    # Alternate ending - Sejm Seizes control
+	spriteType = {
+		name = "flavor_pol.21_SEJM_eventPicture"
+		texturefile = "gfx/event_pictures/REPUBLIC_AT_ZENITH_MATEJKO_eventPicture.dds"
+		allwaystransparent = yes
+	}  
+
+    # Disaster end event
+	spriteType = {
+		name = "flavor_pol.22_SEJM_eventPicture"
+		texturefile = "gfx/event_pictures/HUSSARS_BATTLE_OF_VIENNA_1683_eventPicture.dds"
+		allwaystransparent = yes
+	}  
 
 
 	spriteType = {
@@ -7544,7 +7806,17 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 
+	spriteType = {
+        name = "flavor_zim.1_AFRICAN_CARAVAN_eventPicture"
+        texturefile = "gfx/event_pictures/GREAT_ZIMBABWE_ARCHAEOLOGY_eventPicture.dds"
+        allwaystransparent = yes
+    }
 
+	spriteType = {
+        name = "flavor_zim.10_AFRICAN_CARAVAN_eventPicture"
+        texturefile = "gfx/event_pictures/GREAT_ZIMBABWE_ARCHAEOLOGY_eventPicture.dds"
+        allwaystransparent = yes
+    }
 
     spriteType = {
         name = "free_cities.1_HRE_eventPicture"
@@ -10493,12 +10765,7 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_ROM/PRINTING_PRESS_eventPicture.dds"
 		allwaystransparent = yes
 	}
-
-	spriteType = {
-		name = "GOLDEN_STOOL_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_AOW/GOLDEN_STOOL_eventPicture.dds"
-		allwaystransparent = yes
-	}		
+	
 
 	spriteType = {
 		name = "west_african.19_GOLDEN_STOOL_eventPicture"
@@ -10511,7 +10778,6 @@ spriteTypes = {
 			texturefile = "gfx/event_pictures/FAMINE_REMNANTS_eventPicture.dds"
 		allwaystransparent = yes
 	}
-
 
 
 	spriteType = {
@@ -10677,6 +10943,12 @@ spriteTypes = {
 	spriteType = {
         name = "GUILLOTINE_eventPicture"
         texturefile = "gfx/event_pictures/FRENCH_GUILLOTINE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "french_revolution.2_REVOLUTION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/REVOLUTION_eventPicture.dds"
         allwaystransparent = yes
     }
 
@@ -10928,7 +11200,11 @@ spriteTypes = {
     }
 
 
-
+	spriteType = {#broken event from paradox, multi religion NO_UNIQUE_PICTURE_YET
+        name = "ideagroups.1919__eventPicture"
+        texturefile = "gfx/event_pictures/BOSPHORUS_STRAIGHT_SUNRISE_eventPicture.dds"
+        allwaystransparent = yes
+    }
 
 
 
