@@ -1075,56 +1075,56 @@ spriteTypes = {
         texturefile = "gfx/event_pictures/LINNAEUS_eventPicture.dds"
         allwaystransparent = yes
     }
-    spriteType = {
-        name = "mercantilism_events.1_FAMINE_eventPicture"
-        texturefile = "gfx/event_pictures/MARKET_PORT_BRIDGE_eventPicture.dds"
-        allwaystransparent = yes
-    }
-    spriteType = {
-        name = "mercantilism_events.10_FEAST_eventPicture"
-        texturefile = "gfx/event_pictures/DENMARK_TEA_IMPORT_eventPicture.dds"
-        allwaystransparent = yes
-    }
-    spriteType = {
-        name = "mercantilism_events.2_TRADEGOODS_eventPicture"
-        texturefile = "gfx/event_pictures/EXOTIC_AMERICAN_GOODS_eventPicture.dds"
-        allwaystransparent = yes
-    }
-    spriteType = {
-        name = "mercantilism_events.3_MILITARY_CAMP_eventPicture"
-        texturefile = "gfx/event_pictures/IRON_CANNON_MAKING_eventPicture.dds"
-        allwaystransparent = yes
-    }
-    spriteType = {
-        name = "mercantilism_events.4_MILITARY_CAMP_eventPicture"
-        texturefile = "gfx/event_pictures/SHIP_BUILDING_SUPPLIES_eventPicture.dds"
-        allwaystransparent = yes
-    }
-    spriteType = {
-        name = "mercantilism_events.5_DEBATE_REPUBLICAN_eventPicture"
-        texturefile = "gfx/event_pictures/MUNICH_MARKET_eventPicture.dds"
-        allwaystransparent = yes
-    }
-    spriteType = {
-        name = "mercantilism_events.6_MERCHANTS_TALKING_eventPicture"
-        texturefile = "gfx/event_pictures/STAGES_OF_LIFE_eventPicture.dds"
-        allwaystransparent = yes
-    }
-    spriteType = {
-        name = "mercantilism_events.7_COLONIZATION_eventPicture"
-        texturefile = "gfx/event_pictures/INTERCOLONIAL_TRADE_eventPicture.dds"
-        allwaystransparent = yes
-    }
-    spriteType = {
-        name = "mercantilism_events.8_FEAST_eventPicture"
-        texturefile = "gfx/event_pictures/HOT_CHOCOLATE_LADY_eventPicture.dds"
-        allwaystransparent = yes
-    }
-    spriteType = {
-        name = "mercantilism_events.9_FEAST_eventPicture"
-        texturefile = "gfx/event_pictures/FIRST_COFFEE_SHOP_VIENNA_eventPicture.dds"
-        allwaystransparent = yes
-    }
+    # spriteType = {
+    #     name = "mercantilism_events.1_FAMINE_eventPicture"
+    #     texturefile = "gfx/event_pictures/MARKET_PORT_BRIDGE_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
+    # spriteType = {
+    #     name = "mercantilism_events.10_FEAST_eventPicture"
+    #     texturefile = "gfx/event_pictures/DENMARK_TEA_IMPORT_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
+    # spriteType = {
+    #     name = "mercantilism_events.2_TRADEGOODS_eventPicture"
+    #     texturefile = "gfx/event_pictures/EXOTIC_AMERICAN_GOODS_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
+    # spriteType = {
+    #     name = "mercantilism_events.3_MILITARY_CAMP_eventPicture"
+    #     texturefile = "gfx/event_pictures/IRON_CANNON_MAKING_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
+    # spriteType = {
+    #     name = "mercantilism_events.4_MILITARY_CAMP_eventPicture"
+    #     texturefile = "gfx/event_pictures/SHIP_BUILDING_SUPPLIES_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
+    # spriteType = {
+    #     name = "mercantilism_events.5_DEBATE_REPUBLICAN_eventPicture"
+    #     texturefile = "gfx/event_pictures/MUNICH_MARKET_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
+    # spriteType = {
+    #     name = "mercantilism_events.6_MERCHANTS_TALKING_eventPicture"
+    #     texturefile = "gfx/event_pictures/STAGES_OF_LIFE_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
+    # spriteType = {
+    #     name = "mercantilism_events.7_COLONIZATION_eventPicture"
+    #     texturefile = "gfx/event_pictures/INTERCOLONIAL_TRADE_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
+    # spriteType = {
+    #     name = "mercantilism_events.8_FEAST_eventPicture"
+    #     texturefile = "gfx/event_pictures/HOT_CHOCOLATE_LADY_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
+    # spriteType = {
+    #     name = "mercantilism_events.9_FEAST_eventPicture"
+    #     texturefile = "gfx/event_pictures/FIRST_COFFEE_SHOP_VIENNA_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
     spriteType = {
         name = "4042_ECONOMY_eventPicture"
         texturefile = "gfx/event_pictures/BANK_OF_ENGLAND_PEOPLE_eventPicture.dds"
@@ -1360,36 +1360,36 @@ spriteTypes = {
         texturefile = "gfx/event_pictures/PEDDLERS_eventPicture.dds"
         allwaystransparent = yes
     }
-    spriteType = {
-        name = "trade_policy_events.7_TRADE_GOODS_eventPicture"
-        texturefile = "gfx/event_pictures/MARKET_FIGHT_eventPicture.dds"
-        allwaystransparent = yes
-    }
-    spriteType = {
-        name = "trade_policy_events.8_TRADE_GOODS_eventPicture"
-        texturefile = "gfx/event_pictures/LAWNMARKET_EDINBOURGH_eventPicture.dds"
-        allwaystransparent = yes
-    }
-    spriteType = {
-        name = "trade_policy_events.9_TRADE_GOODS_eventPicture"
-        texturefile = "gfx/event_pictures/PARISH_FAIR_SCHELLE_eventPicture.dds"
-        allwaystransparent = yes
-    }
-    spriteType = {
-        name = "trade_policy_events.10_TRADE_GOODS_eventPicture"
-        texturefile = "gfx/event_pictures/TULIPS_STOCK_MARKET_eventPicture.dds"
-        allwaystransparent = yes
-    }
-    spriteType = {
-        name = "trade_policy_events.11_SAD_MERCHANT_eventPicture"
-        texturefile = "gfx/event_pictures/MOVABLE_SALE_eventPicture.dds"
-        allwaystransparent = yes
-    }
-    spriteType = {
-        name = "trade_policy_events.12_SULTAN_AND_MERCHANT_eventPicture"
-        texturefile = "gfx/event_pictures/STREET_PRESENTATION_eventPicture.dds"
-        allwaystransparent = yes
-    }
+    # spriteType = {
+    #     name = "trade_policy_events.7_TRADE_GOODS_eventPicture"
+    #     texturefile = "gfx/event_pictures/MARKET_FIGHT_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
+    # spriteType = {
+    #     name = "trade_policy_events.8_TRADE_GOODS_eventPicture"
+    #     texturefile = "gfx/event_pictures/LAWNMARKET_EDINBOURGH_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
+    # spriteType = {
+    #     name = "trade_policy_events.9_TRADE_GOODS_eventPicture"
+    #     texturefile = "gfx/event_pictures/PARISH_FAIR_SCHELLE_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
+    # spriteType = {
+    #     name = "trade_policy_events.10_TRADE_GOODS_eventPicture"
+    #     texturefile = "gfx/event_pictures/TULIPS_STOCK_MARKET_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
+    # spriteType = {
+    #     name = "trade_policy_events.11_SAD_MERCHANT_eventPicture"
+    #     texturefile = "gfx/event_pictures/MOVABLE_SALE_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
+    # spriteType = {
+    #     name = "trade_policy_events.12_SULTAN_AND_MERCHANT_eventPicture"
+    #     texturefile = "gfx/event_pictures/STREET_PRESENTATION_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
     spriteType = {
         name = "tyw_events.32_TOLLS_SHIP_CARGO_eventPicture"
         texturefile = "gfx/event_pictures/KRONBORG_TOLL_eventPicture.dds"

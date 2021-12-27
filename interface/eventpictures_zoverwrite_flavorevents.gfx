@@ -5999,7 +5999,7 @@ spriteTypes = {
 
     # Ending the Stagnation - Jan Sobieski
 	spriteType = {
-		name = "flavor_pol.3497_PLAGUE_eventPicture"
+		name = "flavor_pol.3497_REFORM_eventPicture"
 		texturefile = "gfx/event_pictures/SOBIESKI_MESSAGE_TO_POPE_VIENNA_MATEJKO_eventPicture.dds"
 		allwaystransparent = yes
 	}
@@ -7813,6 +7813,18 @@ spriteTypes = {
     }
 
 	spriteType = {
+        name = "flavor_zim.7_SONGHAI_eventPicture"
+        texturefile = "gfx/event_pictures/TABULA_ROGERIANA_IDRISI_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {#NO_UNIQUE_PICTURE_YET
+        name = "flavor_zim.8_SONGHAI_eventPicture"
+        texturefile = "gfx/event_pictures/GOLDEN_JUNK_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
         name = "flavor_zim.10_AFRICAN_CARAVAN_eventPicture"
         texturefile = "gfx/event_pictures/GREAT_ZIMBABWE_ARCHAEOLOGY_eventPicture.dds"
         allwaystransparent = yes
@@ -8466,11 +8478,11 @@ spriteTypes = {
 # Mercantilism.txt
 ########################################
 
-    spriteType = {
-        name = "mercantilism_events.1_FAMINE_eventPicture"
-        texturefile = "gfx/event_pictures/MARKET_PORT_BRIDGE_eventPicture.dds"
-        allwaystransparent = yes
-    }
+    # spriteType = {
+    #     name = "mercantilism_events.1_FAMINE_eventPicture"
+    #     texturefile = "gfx/event_pictures/MARKET_PORT_BRIDGE_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
 
     spriteType = {
         name = "mercantilism_events.2_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
@@ -8478,29 +8490,29 @@ spriteTypes = {
         allwaystransparent = yes
     }
 
-    spriteType = {
-        name = "mercantilism_events.3_MILITARY_CAMP_eventPicture"
-        texturefile = "gfx/event_pictures/IRON_CANNON_MAKING_eventPicture.dds"
-        allwaystransparent = yes
-    }
+    # spriteType = {
+    #     name = "mercantilism_events.3_MILITARY_CAMP_eventPicture"
+    #     texturefile = "gfx/event_pictures/IRON_CANNON_MAKING_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
 
-    spriteType = {
-        name = "mercantilism_events.4_MILITARY_CAMP_eventPicture"
-        texturefile = "gfx/event_pictures/SHIP_BUILDING_SUPPLIES_eventPicture.dds"
-        allwaystransparent = yes
-    }
+    # spriteType = {
+    #     name = "mercantilism_events.4_MILITARY_CAMP_eventPicture"
+    #     texturefile = "gfx/event_pictures/SHIP_BUILDING_SUPPLIES_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
 
-    spriteType = {
-        name = "mercantilism_events.5_DEBATE_REPUBLICAN_eventPicture"
-        texturefile = "gfx/event_pictures/MUNICH_MARKET_eventPicture.dds"
-        allwaystransparent = yes
-    }
+    # spriteType = {
+    #     name = "mercantilism_events.5_DEBATE_REPUBLICAN_eventPicture"
+    #     texturefile = "gfx/event_pictures/MUNICH_MARKET_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
 
-    spriteType = {
-        name = "mercantilism_events.6_MERCHANTS_TALKING_eventPicture"
-        texturefile = "gfx/event_pictures/STAGES_OF_LIFE_eventPicture.dds"
-        allwaystransparent = yes
-    }
+    # spriteType = {
+    #     name = "mercantilism_events.6_MERCHANTS_TALKING_eventPicture"
+    #     texturefile = "gfx/event_pictures/STAGES_OF_LIFE_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
     spriteType = {
         name = "mercantilism_events.7_COLONIZATION_eventPicture"
         texturefile = "gfx/event_pictures/INTERCOLONIAL_TRADE_eventPicture.dds"
@@ -11271,6 +11283,11 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 
+    spriteType = {
+        name = "canal_events.8_LIBERUM_VETO_ebentPicture"
+        texturefile = "gfx/event_pictures/CARRYING_A_FRIEND_eventPicture.dds"
+    }
+    
 	spriteType = {
 		name = "catholic_flavor.2_POPE_PREACHING_eventPicture"
 		texturefile = "gfx/event_pictures/GOD_ON_THRONE_eventPicture.dds"
@@ -12859,41 +12876,45 @@ spriteTypes = {
         allwaystransparent = yes
     }
 
-    spriteType = {
-        name = "trade_policy_events.7_TRADE_GOODS_eventPicture"
-        texturefile = "gfx/event_pictures/MARKET_FIGHT_eventPicture.dds"
-        allwaystransparent = yes
-    }
+    # Disabled as it is a generic event
+    # spriteType = {
+    #     name = "trade_policy_events.7_TRADE_GOODS_eventPicture"
+    #     texturefile = "gfx/event_pictures/MARKET_FIGHT_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
 
-    spriteType = {
-        name = "trade_policy_events.8_TRADE_GOODS_eventPicture"
-        texturefile = "gfx/event_pictures/LAWNMARKET_EDINBOURGH_eventPicture.dds"
-        allwaystransparent = yes
-    }
+    #Bad picture too specific for an event about anything
+    # spriteType = {
+    #     name = "trade_policy_events.8_TRADE_GOODS_eventPicture"
+    #     texturefile = "gfx/event_pictures/LAWNMARKET_EDINBOURGH_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
 
-    spriteType = {
-        name = "trade_policy_events.9_TRADE_GOODS_eventPicture"
-        texturefile = "gfx/event_pictures/PARISH_FAIR_SCHELLE_eventPicture.dds"
-        allwaystransparent = yes
-    }
+    # spriteType = {
+    #     name = "trade_policy_events.9_TRADE_GOODS_eventPicture"
+    #     texturefile = "gfx/event_pictures/PARISH_FAIR_SCHELLE_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
 
-    spriteType = {
-        name = "trade_policy_events.10_TRADE_GOODS_eventPicture"
-        texturefile = "gfx/event_pictures/TULIPS_STOCK_MARKET_eventPicture.dds"
-        allwaystransparent = yes
-    }
+    # spriteType = {
+    #     name = "trade_policy_events.10_TRADE_GOODS_eventPicture"
+    #     texturefile = "gfx/event_pictures/TULIPS_STOCK_MARKET_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
 
-    spriteType = {
-        name = "trade_policy_events.11_SAD_MERCHANT_eventPicture"
-        texturefile = "gfx/event_pictures/MOVABLE_SALE_eventPicture.dds"
-        allwaystransparent = yes
-    }
+    #MOVE TO EUROPE GENERIC
+    # spriteType = {
+    #     name = "trade_policy_events.11_SAD_MERCHANT_eventPicture"
+    #     texturefile = "gfx/event_pictures/MOVABLE_SALE_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
 
-    spriteType = {
-        name = "trade_policy_events.12_SULTAN_AND_MERCHANT_eventPicture"
-        texturefile = "gfx/event_pictures/STREET_PRESENTATION_eventPicture.dds"
-        allwaystransparent = yes
-    }
+    #MOVE TO MUSLIM GENERIC
+    # spriteType = {
+    #     name = "trade_policy_events.12_SULTAN_AND_MERCHANT_eventPicture"
+    #     texturefile = "gfx/event_pictures/STREET_PRESENTATION_eventPicture.dds"
+    #     allwaystransparent = yes
+    # }
 
 
 
