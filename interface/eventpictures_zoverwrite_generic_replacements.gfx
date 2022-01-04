@@ -596,6 +596,62 @@ spriteTypes = {
 	
 
 	spriteType = {
+		name = "french_GREAT_BUILDING_eventPicture"
+		texturefile = "gfx/event_pictures/NOTRE_DAME_DEPELCHIN_DETAIL_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+		spriteType = {
+			name = "cosmopolitan_french_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/NOTRE_DAME_DEPELCHIN_DETAIL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "gascon_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/NOTRE_DAME_DEPELCHIN_DETAIL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+		
+
+		spriteType = {
+			name = "normand_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/NOTRE_DAME_DEPELCHIN_DETAIL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "aquitaine_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/NOTRE_DAME_DEPELCHIN_DETAIL_eventPicture.dds"
+			allwaystransparent = yes
+		}		
+
+		spriteType = {
+			name = "burgundian_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/NOTRE_DAME_DEPELCHIN_DETAIL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "occitain_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/NOTRE_DAME_DEPELCHIN_DETAIL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "wallonian_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/NOTRE_DAME_DEPELCHIN_DETAIL_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "breton_GREAT_BUILDING_eventPicture"
+			texturefile = "gfx/event_pictures/NOTRE_DAME_DEPELCHIN_DETAIL_eventPicture.dds"
+			allwaystransparent = yes
+		}						
+	
+
+	spriteType = {
 		name = "BAD_WITH_MONARCH_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/BAD_WITH_MONARCH_eventPicture.dds"
 		allwaystransparent = yes
@@ -2970,7 +3026,7 @@ spriteTypes = {
 	# }
 	# spriteType = {
 	# 	name = "shinto_GOOD_WITH_MONARCH_eventPicture"
-	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+	# 	texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 	# 	allwaystransparent = yes
 	# }
 	# spriteType = {
@@ -3050,7 +3106,7 @@ spriteTypes = {
 	# }
 	# spriteType = {
 	# 	name = "shinto_COURT_eventPicture"
-	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+	# 	texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 	# 	allwaystransparent = yes
 	# }
 	# spriteType = {
@@ -3223,7 +3279,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "shinto_DEBATE_REPUBLICAN_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+		texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = {
@@ -3235,25 +3291,25 @@ spriteTypes = {
 	#japanese_g
 	spriteType = {
 		name = "japanese_g_DIPLOMACY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+		texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 		allwaystransparent = yes
 	}	
 
 		spriteType = {
 			name = "togoku_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+			texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 			allwaystransparent = yes
 		}	
 
 		spriteType = {
 			name = "japanese_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+			texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 			allwaystransparent = yes
 		}	
 
 		spriteType = {
 			name = "kyushuan_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+			texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 			allwaystransparent = yes
 		}	
 	#	
@@ -3359,17 +3415,17 @@ spriteTypes = {
 	#New Heir
 	spriteType = {
 		name = "east_asian_NEW_HEIR_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+		texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = {
 		name = "shinto_NEW_HEIR_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+		texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = {
 		name = "confucianism_NEW_HEIR_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+		texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	
@@ -3543,7 +3599,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "SHOGUNATE_AUTHORITY_INCIDENT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+		texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	
@@ -3664,6 +3720,12 @@ spriteTypes = {
 	spriteType = {
 		name = "africangfx_ELECTION_REPUBLICAN_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_MUSLIM/ELECTION_REPUBLICAN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "africangfx_EXPLORERS_eventPicture"
+		texturefile = "gfx/event_pictures/ABUBAKKARI_II_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
@@ -4430,6 +4492,12 @@ spriteTypes = {
 	spriteType = {
 		name = "ENLIGHTENMENT_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_ROM/ENLIGHTENMENT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "EL_ESCORIAL_eventPicture"
+		texturefile = "gfx/event_pictures/EL_ESCORIAL_HOUASSE_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
@@ -5705,6 +5773,31 @@ spriteTypes = {
 			allwaystransparent = yes
 		}	
 
+	spriteType = {
+		name = "japanese_g_EXPLORERS_eventPicture"
+		texturefile = "gfx/event_pictures/HASEKURA_TSUNENAGA_RICCI_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+		spriteType = {
+			name = "togoku_EXPLORERS_eventPicture"
+			texturefile = "gfx/event_pictures/HASEKURA_TSUNENAGA_RICCI_eventPicture.dds"
+			allwaystransparent = yes
+		}	
+
+		spriteType = {
+			name = "japanese_EXPLORERS_eventPicture"
+			texturefile = "gfx/event_pictures/HASEKURA_TSUNENAGA_RICCI_eventPicture.dds"
+			allwaystransparent = yes
+		}	
+
+		spriteType = {
+			name = "kyushuan_EXPLORERS_eventPicture"
+			texturefile = "gfx/event_pictures/HASEKURA_TSUNENAGA_RICCI_eventPicture.dds"
+			allwaystransparent = yes
+		}	
+
+
 	# spriteType = {
 	# 	name = "asiangfx_ADVISOR_eventPicture"
 	# 	texturefile = "gfx/event_pictures/event_pictures_ASIAN/ADVISOR_eventPicture.dds"
@@ -6596,6 +6689,78 @@ spriteTypes = {
 		# }		
 
 		spriteType = {
+			name = "east_slavic_ASSASSINATION_eventPicture"
+			texturefile = "gfx/event_pictures/GODUNOV_MURDER_1865_MAKOVSKY_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+			spriteType = {
+				name = "russian_ASSASSINATION_eventPicture"
+				texturefile = "gfx/event_pictures/GODUNOV_MURDER_1865_MAKOVSKY_eventPicture.dds"
+				allwaystransparent = yes
+			}
+
+			spriteType = {
+				name = "novgorodian_ASSASSINATION_eventPicture"
+				texturefile = "gfx/event_pictures/GODUNOV_MURDER_1865_MAKOVSKY_eventPicture.dds"
+				allwaystransparent = yes
+			}
+
+			spriteType = {
+				name = "ryazanian_ASSASSINATION_eventPicture"
+				texturefile = "gfx/event_pictures/GODUNOV_MURDER_1865_MAKOVSKY_eventPicture.dds"
+				allwaystransparent = yes
+			}
+
+			spriteType = {
+				name = "byelorussian_ASSASSINATION_eventPicture"
+				texturefile = "gfx/event_pictures/GODUNOV_MURDER_1865_MAKOVSKY_eventPicture.dds"
+				allwaystransparent = yes
+			}
+
+			spriteType = {
+				name = "karelian_ASSASSINATION_eventPicture"
+				texturefile = "gfx/event_pictures/GODUNOV_MURDER_1865_MAKOVSKY_eventPicture.dds"
+				allwaystransparent = yes
+			}
+
+		spriteType = {
+			name = "east_slavic_DEATH_OF_HEIR_eventPicture"
+			texturefile = "gfx/event_pictures/IVAN_NEXT_TO_BODY_OF_SON_SCHWARZ_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+			spriteType = {
+				name = "russian_DEATH_OF_HEIR_eventPicture"
+				texturefile = "gfx/event_pictures/IVAN_NEXT_TO_BODY_OF_SON_SCHWARZ_eventPicture.dds"
+				allwaystransparent = yes
+			}
+
+			spriteType = {
+				name = "novgorodian_DEATH_OF_HEIR_eventPicture"
+				texturefile = "gfx/event_pictures/IVAN_NEXT_TO_BODY_OF_SON_SCHWARZ_eventPicture.dds"
+				allwaystransparent = yes
+			}
+
+			spriteType = {
+				name = "ryazanian_DEATH_OF_HEIR_eventPicture"
+				texturefile = "gfx/event_pictures/IVAN_NEXT_TO_BODY_OF_SON_SCHWARZ_eventPicture.dds"
+				allwaystransparent = yes
+			}
+
+			spriteType = {
+				name = "byelorussian_DEATH_OF_HEIR_eventPicture"
+				texturefile = "gfx/event_pictures/IVAN_NEXT_TO_BODY_OF_SON_SCHWARZ_eventPicture.dds"
+				allwaystransparent = yes
+			}
+
+			spriteType = {
+				name = "karelian_DEATH_OF_HEIR_eventPicture"
+				texturefile = "gfx/event_pictures/IVAN_NEXT_TO_BODY_OF_SON_SCHWARZ_eventPicture.dds"
+				allwaystransparent = yes
+			}
+
+		spriteType = {
 			name = "east_slavic_wihgfx_FEMALES_eventPicture"
 			texturefile = "gfx/event_pictures/RUSSIAN_LADY_JEWELLERY_eventPicture.dds"
 			allwaystransparent = yes
@@ -7085,25 +7250,25 @@ spriteTypes = {
 	#japanese_g
 	spriteType = {
 		name = "japanese_g_COURT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+		texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 		allwaystransparent = yes
 	}	
 
 		spriteType = {
 			name = "togoku_COURT_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+			texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 			allwaystransparent = yes
 		}	
 
 		spriteType = {
 			name = "japanese_COURT_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+			texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 			allwaystransparent = yes
 		}	
 
 		spriteType = {
 			name = "kyushuan_COURT_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+			texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 			allwaystransparent = yes
 		}	
 	#	
@@ -7367,7 +7532,7 @@ spriteTypes = {
 	#shinto
 	spriteType = {#no asiangfx (indiangfx replaces in India)
 		name = "shinto_COURT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+		texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
@@ -8041,31 +8206,31 @@ spriteTypes = {
 	#PAGODA_CONSTRUCTION_eventPicture not actually shinto
 	spriteType = {
 		name = "shinto_CITY_DEVELOPMENT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
+		texturefile = "gfx/event_pictures/SHIMADZU_SHIGEHIDE_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
 	spriteType = {
 		name = "japanese_g_CITY_DEVELOPMENT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
+		texturefile = "gfx/event_pictures/SHIMADZU_SHIGEHIDE_eventPicture.dds"
 		allwaystransparent = yes
 	}	
 
 		spriteType = {
 			name = "togoku_CITY_DEVELOPMENT_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
+			texturefile = "gfx/event_pictures/SHIMADZU_SHIGEHIDE_eventPicture.dds"
 			allwaystransparent = yes
 		}	
 
 		spriteType = {
 			name = "japanese_CITY_DEVELOPMENT_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
+			texturefile = "gfx/event_pictures/SHIMADZU_SHIGEHIDE_eventPicture.dds"
 			allwaystransparent = yes
 		}	
 
 		spriteType = {
 			name = "kyushuan_CITY_DEVELOPMENT_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_MOH/URBANISATION_INCIDENT_eventPicture.dds"
+			texturefile = "gfx/event_pictures/SHIMADZU_SHIGEHIDE_eventPicture.dds"
 			allwaystransparent = yes
 		}	
 	#		
@@ -8272,6 +8437,62 @@ spriteTypes = {
 
 #DIPLOMACY_eventPicture
 
+	#french
+	spriteType = {
+		name = "french_DIPLOMACY_eventPicture"
+		texturefile = "gfx/event_pictures/VIENNA_CONGRESS_TALLEYRAND_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+		spriteType = {
+			name = "cosmopolitan_french_DIPLOMACY_eventPicture"
+			texturefile = "gfx/event_pictures/VIENNA_CONGRESS_TALLEYRAND_eventPicture.dds"
+			allwaystransparent = yes
+		}	
+
+		spriteType = {
+			name = "gascon_DIPLOMACY_eventPicture"
+			texturefile = "gfx/event_pictures/VIENNA_CONGRESS_TALLEYRAND_eventPicture.dds"
+			allwaystransparent = yes
+		}	
+
+		spriteType = {
+			name = "normand_DIPLOMACY_eventPicture"
+			texturefile = "gfx/event_pictures/VIENNA_CONGRESS_TALLEYRAND_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "aquitaine_DIPLOMACY_eventPicture"
+			texturefile = "gfx/event_pictures/VIENNA_CONGRESS_TALLEYRAND_eventPicture.dds"
+			allwaystransparent = yes
+		}	
+
+		spriteType = {
+			name = "burgundian_DIPLOMACY_eventPicture"
+			texturefile = "gfx/event_pictures/VIENNA_CONGRESS_TALLEYRAND_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "occitain_DIPLOMACY_eventPicture"
+			texturefile = "gfx/event_pictures/VIENNA_CONGRESS_TALLEYRAND_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "wallonian_DIPLOMACY_eventPicture"
+			texturefile = "gfx/event_pictures/VIENNA_CONGRESS_TALLEYRAND_eventPicture.dds"
+			allwaystransparent = yes
+		}																
+
+		spriteType = {
+			name = "breton_DIPLOMACY_eventPicture"
+			texturefile = "gfx/event_pictures/VIENNA_CONGRESS_TALLEYRAND_eventPicture.dds"
+			allwaystransparent = yes
+		}
+			
+
 	#asiangfx
 	spriteType = {
 		name = "asiangfx_DIPLOMACY_eventPicture"
@@ -8287,7 +8508,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "shinto_DIPLOMACY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+		texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = {
@@ -8298,31 +8519,31 @@ spriteTypes = {
 
 	spriteType = {
 		name = "shinto_DIPLOMACY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+		texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	#japanese_g
 	spriteType = {
 		name = "japanese_g_DIPLOMACY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+		texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 		allwaystransparent = yes
 	}	
 
 		spriteType = {
 			name = "togoku_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+			texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 			allwaystransparent = yes
 		}	
 
 		spriteType = {
 			name = "japanese_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+			texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 			allwaystransparent = yes
 		}	
 
 		spriteType = {
 			name = "kyushuan_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/event_pictures_MOH/SHOGUNATE_AUTHORITY_INCIDENT_eventPicture.dds"
+			texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
 			allwaystransparent = yes
 		}	
 	#	

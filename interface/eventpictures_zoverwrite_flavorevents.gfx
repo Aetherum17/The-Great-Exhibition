@@ -1575,7 +1575,77 @@ spriteTypes = {
         allwaystransparent = yes
     }
 
+########################################
+# Time of Troubles
+# 
+# 
+# disaster_time_of_troubles.txt
+########################################
 
+    # Time of Troubles
+    spriteType = {
+       name = "time_of_troubles.1_ACCUSATION_eventPicturee"
+        texturefile = "gfx/event_pictures/TIME_OF_TROUBLES_IVANOV_DETAIL_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+    spriteType = {
+       name = "time_of_troubles.2_ACCUSATION_eventPicturee"
+        texturefile = "gfx/event_pictures/IVAN_WITH_SON_REPIN_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+    # Famine Strikes
+    # spriteType = {
+    #    name = "time_of_troubles.3_FAMINE_eventPicture"
+    #     texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_YET.dds"
+    #     allwaystransparent = yes
+    # }	
+
+    # Plague
+    spriteType = {
+       name = "time_of_troubles.4_PLAGUE_eventPicture"
+        texturefile = "gfx/event_pictures/EXPULSION_OF_POLES_FROM_KREMLIN_eventPicture.dds"
+        allwaystransparent = yes
+    }	
+
+    # Brigands in PROVINCE
+    # spriteType = {
+    #    name = "time_of_troubles.5_ANGRY_MOB_eventPicture"
+    #     texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_YET.dds"
+    #     allwaystransparent = yes
+    # }
+
+    # First Dimitri
+    spriteType = {
+       name = "time_of_troubles.6_ACCUSATION_eventPicturee"
+        texturefile = "gfx/event_pictures/FALSE_DIMITRI_WITH_VISHNEVECKI_NEVREV_eventPicture.dds"
+        allwaystransparent = yes
+    }    
+
+    spriteType = {
+       name = "time_of_troubles.7_ACCUSATION_eventPicturee"
+        texturefile = "gfx/event_pictures/FALSE_DIMITRY_SWEARING_NEVREV_eventPicture.dds"
+        allwaystransparent = yes
+    }    
+
+    spriteType = {#NO_UNIQUE_PICTURE_YET
+       name = "time_of_troubles.11_ACCUSATION_eventPicturee"
+        texturefile = "gfx/event_pictures/FALSE_DIMITRY_SWEARING_NEVREV_eventPicture.dds"
+        allwaystransparent = yes
+    }    
+
+    spriteType = {#NO_UNIQUE_PICTURE_YET
+       name = "time_of_troubles.8_ACCUSATION_eventPicturee"
+		texturefile = "gfx/event_pictures/event_pictures_TR/ENTERING_MOSCOW_eventPicture.dds"
+        allwaystransparent = yes
+    }    
+
+    spriteType = {
+       name = "time_of_troubles.9_ACCUSATION_eventPicturee"
+        texturefile = "gfx/event_pictures/LAST_MINUTES_OF_FALSE_DIMITRY_WENIG_eventPicture.dds"
+        allwaystransparent = yes
+    }    
 
 ########################################
 # Janissary Decadence
@@ -6366,15 +6436,21 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 
-	spriteType = {
+	spriteType = {# was LIVONIAN_WAR_GROZNYS_ARMY_POLISH_CAMPAIGN_eventPicture
 		name = "flavor_rus.4_MILITARY_CAMP_eventPicture"
-		texturefile = "gfx/event_pictures/LIVONIAN_WAR_GROZNYS_ARMY_POLISH_CAMPAIGN_eventPicture.dds"
+		texturefile = "gfx/event_pictures/RUSSIAN_TROOPS_TAKE_NARVA_BLINKOV_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
 	spriteType = {
 		name = "flavor_rus.5_MILITARY_CAMP_eventPicture"
 		texturefile = "gfx/event_pictures/YERMAKS_CONQUEST_OF_SIBERIA_SURIKOV_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_rus.6_ADVISOR_eventPicture"
+		texturefile = "gfx/event_pictures/LEGATS_VISIT_IVAN_NESTEROV_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
@@ -6415,6 +6491,12 @@ spriteTypes = {
 	}    
 
 	spriteType = {
+		name = "flavor_rus.15_ORTHODOX_eventPicture"
+		texturefile = "gfx/event_pictures/RASKOLNIK_ARRESTATION_eventPicture.dds"
+		allwaystransparent = yes
+	}    
+
+	spriteType = {
 		name = "flavor_rus.16_REFORM_eventPicture"
 		texturefile = "gfx/event_pictures/PORTRAIT_OF_PETER_NATTIER_eventPicture.dds"
 		allwaystransparent = yes
@@ -6433,6 +6515,12 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "flavor_rus.20_DIPLOMACY_eventPicture"
+		texturefile = "gfx/event_pictures/MAP_OF_SINO_RUSSIAN_BORDER_1734_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
 		name = "flavor_rus.21_MILITARY_CAMP_eventPicture"
 		texturefile = "gfx/event_pictures/SIEGE_OF_NOTEBORG_KOTZEBUE_eventPicture.dds"
 		allwaystransparent = yes
@@ -6444,19 +6532,19 @@ spriteTypes = {
 		allwaystransparent = yes
 	}    
 
-	spriteType = {
+	spriteType = {#replaced MAURICE_DE_SAXE_LIOTARD_eventPicture
 		name = "flavor_rus.24_COURT_eventPicture"
-		texturefile = "gfx/event_pictures/MAURICE_DE_SAXE_LIOTARD_eventPicture.dds"
+		texturefile = "gfx/event_pictures/MAURICE_DE_SAXE_LA_TOUR_eventPicture.dds"
 		allwaystransparent = yes
 	}    
 
     # In 1767 Catherine the Great convened a commission
     # The Duma and the Legislative Reform
-	# spriteType = {
-	# 	name = "flavor_rus.25_REFORM_eventPicture"
-	# 	texturefile = "gfx/event_pictures/NO_UNIQUE_PICTURE_YET.dds"
-	# 	allwaystransparent = yes
-	# }    
+	spriteType = {
+		name = "flavor_rus.25_REFORM_eventPicture"
+		texturefile = "gfx/event_pictures/CATHERINE_II_WRITING_NAKAZ_eventPicture.dds"
+		allwaystransparent = yes
+	}    
 
 	spriteType = {
 		name = "flavor_rus.27_ANGRY_MOB_eventPicture"
@@ -6481,6 +6569,67 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/READING_OF_THE_1861_MANIFESTO_MYASOYEDOV_eventPicture.dds"
 		allwaystransparent = yes
 	}
+
+	spriteType = {
+		name = "flavor_rus.32_ADVISOR_eventPicture"
+		texturefile = "gfx/event_pictures/MIKHAIL_SCHERBATOV_LEVITZKY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_rus.33_ADVISOR_eventPicture"
+		texturefile = "gfx/event_pictures/VASILY_TATISHCHEV_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_rus.34_INVENTION_eventPicture"
+		texturefile = "gfx/event_pictures/LOMONOSOV_WITH_CATHERINE_FEDOROV_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "flavor_rus.1010_COURT_eventPicture"
+		texturefile = "gfx/event_pictures/PETER_KUSHEVSKY_eventPicture.dds"
+		allwaystransparent = yes
+	}    
+
+	spriteType = {
+		name = "flavor_rus.1011_COURT_eventPicture"
+		texturefile = "gfx/event_pictures/LOUIS_XV_AND_PETER_THE_GREAT_HERSENT_eventPicture.dds"
+		allwaystransparent = yes
+	}    
+
+	spriteType = {
+		name = "flavor_rus.1012_COURT_eventPicture"
+		texturefile = "gfx/event_pictures/PETER_REVIEWING_FRENCH_MILITARY_LESTANG_PARADE_eventPicture.dds"
+		allwaystransparent = yes
+	}    
+
+	spriteType = {
+		name = "flavor_rus.1013_COURT_eventPicture"
+		texturefile = "gfx/event_pictures/PETER_AT_DEPTFORD_MACLISE_eventPicture.dds"
+		allwaystransparent = yes
+	}    
+
+	spriteType = {
+		name = "flavor_rus.1014_COURT_eventPicture"
+		texturefile = "gfx/event_pictures/PETER_THE_GREAT_AT_VERSAILLES_eventPicture.dds"
+		allwaystransparent = yes
+	}  
+
+	spriteType = {
+		name = "flavor_rus.1015_COURT_eventPicture"
+		texturefile = "gfx/event_pictures/THE_PIETER_AND_PAUL_STORCK_eventPicture.dds"
+		allwaystransparent = yes
+	}    
+
+	spriteType = {
+		name = "flavor_rus.1016_COURT_eventPicture"
+		texturefile = "gfx/event_pictures/PETER_AND_HOLLAND_eventPicture.dds"
+		allwaystransparent = yes
+	}    
+
 
 	spriteType = {
 		name = "flavor_rus.2000_REVOLUTION_eventPicture"
