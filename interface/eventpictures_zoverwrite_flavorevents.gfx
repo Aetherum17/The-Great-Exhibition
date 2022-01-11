@@ -1545,6 +1545,18 @@ spriteTypes = {
     #     allwaystransparent = yes
     # }	
 
+########################################
+# Ming Crisis
+#
+#disaster_ming_crisis.txt
+########################################
+
+    spriteType = {
+        name = "ming_crisis.3_CIVIL_WAR_eventPicture"
+        texturefile = "gfx/event_pictures/LI_ZECHENG_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
 
 ########################################
 # The Dacke Feud
@@ -3120,9 +3132,9 @@ spriteTypes = {
         allwaystransparent = yes
     }
 
-    spriteType = {
+    spriteType = {#event has been removed (just in case)
         name = "flavor_bur.18_ANGRY_MOB_eventPicture"
-        texturefile = "gfx/event_pictures/DREYFUS_SUSPECT_eventPicture.dds"
+		texturefile = "gfx/event_pictures/event_pictures_GE/ANGRY_MOB_eventPicture.dds"
         allwaystransparent = yes
     }
 
@@ -5179,7 +5191,7 @@ spriteTypes = {
 		}
 	spriteType = {
 			name = "flavor_mch.7_ADVISOR_eventPicture"
-			texturefile = "gfx/event_pictures/HESHEN_eventPicture.dds"
+			texturefile = "gfx/event_pictures/NIOHURU_HESHEN_eventPicture.dds"
 			allwaystransparent = yes
 		}
 
@@ -6509,6 +6521,12 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "flavor_rus.18_DIPLOMACY_eventPicture"
+		texturefile = "gfx/event_pictures/SHUNZHI_EMPEROR_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
 		name = "flavor_rus.19_ANGRY_MOB_eventPicture"
 		texturefile = "gfx/event_pictures/STEPAN_RAZIN_SURIKOV_eventPicture.dds"
 		allwaystransparent = yes
@@ -6529,6 +6547,12 @@ spriteTypes = {
 	spriteType = {
 		name = "flavor_rus.22_REFORM_eventPicture"
 		texturefile = "gfx/event_pictures/PETER_THE_GREAT_FOUNDING_OF_ST_PETERSBURG_VENETSIANOV_eventPicture.dds"
+		allwaystransparent = yes
+	}    
+
+	spriteType = {
+		name = "flavor_rus.23_ORTHODOX_eventPicture"
+		texturefile = "gfx/event_pictures/DEBATE_ABOUT_FAITH_PEROV_eventPicture.dds"
 		allwaystransparent = yes
 	}    
 
@@ -6570,6 +6594,12 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 
+	spriteType = {
+		name = "flavor_rus.31_DIPLOMACY_eventPicture"
+		texturefile = "gfx/event_pictures/THE_BATTLE_OF_GANGUT_BOGOLYUBOV_eventPicture.dds"
+		allwaystransparent = yes
+	}
+    
 	spriteType = {
 		name = "flavor_rus.32_ADVISOR_eventPicture"
 		texturefile = "gfx/event_pictures/MIKHAIL_SCHERBATOV_LEVITZKY_eventPicture.dds"
@@ -6642,6 +6672,14 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/HAGIA_SOPHIA_GASPARD_eventPicture.dds"
 		allwaystransparent = yes
 	}    
+
+
+	spriteType = {
+		name = "russian_principality_events.1_OPRICHINA_eventPicture"
+		texturefile = "gfx/event_pictures/PETER_INTERROGATING_PETROVICH_GE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
 
     spriteType = {
         name = "flavor_sax.1_IMPORTANT_STATUE_eventPicture"
@@ -11299,13 +11337,13 @@ spriteTypes = {
 
 	spriteType = {
         name = "french_wars_of_religion.6_ANGRY_MOB_eventPicture"
-        texturefile = "gfx/event_pictures/PROCESSION_DE_LA_LIGUE_1590_eventPicture.dds"
+        texturefile = "gfx/event_pictures/MICHELADE_OF_NIMES_eventPicture.dds"
         allwaystransparent = yes
     }
 
 	spriteType = {
         name = "french_wars_of_religion.7_ANGRY_MOB_eventPicture"
-        texturefile = "gfx/event_pictures/PROCESSION_DE_LA_LIGUE_1590_eventPicture.dds"
+        texturefile = "gfx/event_pictures/NIGHT_OF_ST_BARTHOLEMEW_GRABADO_eventPicture.dds"
         allwaystransparent = yes
     }
 
@@ -15273,5 +15311,7 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_BYZANTINE/ROME_ORTHODOXY_eventPicture.dds"
 		allwaystransparent = yes
 	}
+
+
 
 }
