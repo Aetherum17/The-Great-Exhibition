@@ -1596,13 +1596,13 @@ spriteTypes = {
 
     # Time of Troubles
     spriteType = {
-       name = "time_of_troubles.1_ACCUSATION_eventPicturee"
+       name = "time_of_troubles.1_ACCUSATION_eventPicture"
         texturefile = "gfx/event_pictures/TIME_OF_TROUBLES_IVANOV_DETAIL_eventPicture.dds"
         allwaystransparent = yes
     }	
 
     spriteType = {
-       name = "time_of_troubles.2_ACCUSATION_eventPicturee"
+       name = "time_of_troubles.2_ACCUSATION_eventPicture"
         texturefile = "gfx/event_pictures/IVAN_WITH_SON_REPIN_eventPicture.dds"
         allwaystransparent = yes
     }	
@@ -1630,31 +1630,31 @@ spriteTypes = {
 
     # First Dimitri
     spriteType = {
-       name = "time_of_troubles.6_ACCUSATION_eventPicturee"
+       name = "time_of_troubles.6_ACCUSATION_eventPicture"
         texturefile = "gfx/event_pictures/FALSE_DIMITRI_WITH_VISHNEVECKI_NEVREV_eventPicture.dds"
         allwaystransparent = yes
     }    
 
     spriteType = {
-       name = "time_of_troubles.7_ACCUSATION_eventPicturee"
+       name = "time_of_troubles.7_ACCUSATION_eventPicture"
         texturefile = "gfx/event_pictures/FALSE_DIMITRY_SWEARING_NEVREV_eventPicture.dds"
         allwaystransparent = yes
     }    
 
     spriteType = {#NO_UNIQUE_PICTURE_YET
-       name = "time_of_troubles.11_ACCUSATION_eventPicturee"
+       name = "time_of_troubles.11_ACCUSATION_eventPicture"
         texturefile = "gfx/event_pictures/FALSE_DIMITRY_SWEARING_NEVREV_eventPicture.dds"
         allwaystransparent = yes
     }    
 
     spriteType = {#NO_UNIQUE_PICTURE_YET
-       name = "time_of_troubles.8_ACCUSATION_eventPicturee"
+       name = "time_of_troubles.8_ACCUSATION_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_TR/ENTERING_MOSCOW_eventPicture.dds"
         allwaystransparent = yes
     }    
 
     spriteType = {
-       name = "time_of_troubles.9_ACCUSATION_eventPicturee"
+       name = "time_of_troubles.9_ACCUSATION_eventPicture"
         texturefile = "gfx/event_pictures/LAST_MINUTES_OF_FALSE_DIMITRY_WENIG_eventPicture.dds"
         allwaystransparent = yes
     }    
@@ -5319,7 +5319,7 @@ spriteTypes = {
 			allwaystransparent = yes
 		}
 	spriteType = {
-			name = "flavor_mng.26_RELIGIOUS_CONVERSION_eventPicture_eventPicture"
+			name = "flavor_mng.26_RELIGIOUS_CONVERSION_eventPicture"
 			texturefile = "gfx/event_pictures/PORTRAIT_OF_HESING_eventPicture.dds"
 			allwaystransparent = yes
 		}
@@ -11474,7 +11474,12 @@ spriteTypes = {
         name = "canal_events.8_LIBERUM_VETO_ebentPicture"
         texturefile = "gfx/event_pictures/CARRYING_A_FRIEND_eventPicture.dds"
     }
-    
+
+     spriteType = {
+        name = "canal_events.8_LIBERUM_VETO_eventPicture"
+        texturefile = "gfx/event_pictures/CARRYING_A_FRIEND_eventPicture.dds"
+    }
+
 	spriteType = {
 		name = "catholic_flavor.2_POPE_PREACHING_eventPicture"
 		texturefile = "gfx/event_pictures/GOD_ON_THRONE_eventPicture.dds"
