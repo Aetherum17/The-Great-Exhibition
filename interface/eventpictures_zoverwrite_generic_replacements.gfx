@@ -425,6 +425,12 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "DESERT_CARAVAN_eventPicture"
+		texturefile = "gfx/event_pictures/PILGRIMS_GOING_TO_MECCA_BELLY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
 		name = "AFRICAN_CARAVAN_eventPicture"
 		texturefile = "gfx/event_pictures/PILGRIMS_GOING_TO_MECCA_BELLY_eventPicture.dds"
 		allwaystransparent = yes
@@ -1167,7 +1173,13 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_GE/NAVAL_MILITARY_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+		spriteType = {
+			name = "dutch_NAVAL_MILITARY_eventPicture"
+			texturefile = "gfx/event_pictures/FLEET_MANEUVERS_FOR_PETER_SILO_eventPicture.dds"
+			allwaystransparent = yes
+		}
+			
 	spriteType = {
 		name = "NEW_HEIR_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/NEW_HEIR_eventPicture.dds"
@@ -9716,6 +9728,13 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/SOBIESKI_III_AND_ARMY_eventPicture.dds"
 		allwaystransparent = yes
 	}	
+
+	#swedish
+	spriteType = {
+		name = "swedish_LAND_MILITARY_eventPicture"
+		texturefile = "gfx/event_pictures/CHARGE_OF_SWEDISH_INFANTRY_GRIEVES_eventPicture.dds"
+		allwaystransparent = yes
+	}
 
 	#east_asian
 	spriteType = {
