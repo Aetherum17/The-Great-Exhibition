@@ -34,7 +34,7 @@ spriteTypes = {
 
         spriteType = {
                 name = "china_events.1_ADVISOR_eventPicture"
-                texturefile = "gfx/event_pictures/CANTON_eventPicture.dds"
+                texturefile = "gfx/event_pictures/05_SINO/NAVAL/PORT/VIEW_CANTON_HARBOUR_ALLOM.dds"
                 allwaystransparent = yes
             }
         spriteType = {
@@ -1052,7 +1052,7 @@ spriteTypes = {
             }
         spriteType = {
                 name = "confucian_events.7_NEO_CONFUCIANISM_INCIDENT_eventPicture"
-                texturefile = "gfx/event_pictures/BUDDHA_TEMPLE_CANTON_eventPicture.dds"
+                texturefile = "gfx/event_pictures/05_SINO/RELIGION/TEMPLES/TEMPLE_BUDDHA_CANTON_ALLOM.dds"
                 allwaystransparent = yes
             }
         spriteType = {
@@ -1112,7 +1112,7 @@ spriteTypes = {
             }
         spriteType = {
                 name = "confucian_events.19_MERITOCRACY_eventPicture"
-                texturefile = "gfx/event_pictures/BURNING_CHINESE_BOOKS_eventPicture.dds"
+                texturefile = "gfx/event_pictures/05_SINO/RELIGION/SCHISM/BOOK_BURNING_MANCHU.dds"
                 allwaystransparent = yes
             }
         spriteType = {
@@ -1428,7 +1428,7 @@ spriteTypes = {
         }
         spriteType = {
             name = "war_of_the_roses.2_WAR_OF_THE_ROSES_eventPicture"
-            texturefile = "gfx/event_pictures/BATTLE_BOSWORTH_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/LAND/BATTLE/RICHARD_BATTLE_BOSWORTH_BASS.dds"
             allwaystransparent = yes
         }
         spriteType = {
@@ -1661,7 +1661,7 @@ spriteTypes = {
 
         spriteType = {
         name = "time_of_troubles.10_CITY_DEVELOPMENT_eventPicture"
-            texturefile = "gfx/event_pictures/LAST_MINUTES_OF_FALSE_DIMITRY_WENIG_eventPicture.dds"
+            texturefile = "gfx/event_pictures/VOCATION_OF_MIKHAIL_ROMANOV_UGRYUMOV_eventPicture.dds"
             allwaystransparent = yes
         } 
 
@@ -3162,8 +3162,36 @@ spriteTypes = {
             allwaystransparent = yes
         }
 
+        spriteType = {
+            name = "flavor_orl.4_POPE_PREACHING_eventPicture"
+            texturefile = "gfx/event_pictures/JOAN_INTERROGATED_WINCHESTER_HIPPLOYTE_DELAROCHE_eventPicture.dds"
+            allwaystransparent = yes
+        }
 
-        
+        spriteType = {
+            name = "flavor_orl.6_RELIGIOUS_TURMOIL_eventPicture"
+            texturefile = "gfx/event_pictures/JOAN_DEATH_STAKE_HERMANN_STILKE_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_orl.8_DIPLOMACY_eventPicture"
+            texturefile = "gfx/event_pictures/JOAN_OF_ARC_EUGENE_THIRION_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_orl.10_POPE_PREACHING_eventPicture"
+            texturefile = "gfx/event_pictures/STAINED_JOAN_INDIANAPOLIS_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_orl.11_BATTLE_eventPicture"
+            texturefile = "gfx/event_pictures/event_pictures_SAFFRON/JOAN_OF_ARC_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
         spriteType = {
             name = "flavor_che.1_EXPLORERS_eventPicture"
             texturefile = "gfx/event_pictures/SMOKY_MOUNTAINS_LAKE_eventPicture.dds"
@@ -3567,7 +3595,7 @@ spriteTypes = {
         }
         spriteType = {
             name = "flavor_eng.9129_REFORM_eventPicture"
-            texturefile = "gfx/event_pictures/CANTERBURY_CHURCH_COUNCIL_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/RELIGION/TEMPLES/INTERIOR_CANTERBURY_CATHEDRAL.dds"
             allwaystransparent = yes
         }
         spriteType = {
@@ -3587,7 +3615,7 @@ spriteTypes = {
         }
         spriteType = {
             name = "flavor_eng.9141_NAVAL_MILITARY_eventPicture"
-            texturefile = "gfx/event_pictures/CAPTURE_PUERTO_BELLO_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/NAVAL/BATTLE/CAPTURE_PUERTO_BELLO_CHAMBERS.dds"
             allwaystransparent = yes
         }
         spriteType = {#replace soon NO_UNIQUE_PICTURE_YET
@@ -4034,7 +4062,7 @@ spriteTypes = {
 
         spriteType = {
             name = "flavor_hab.12_ELECTION_REPUBLICAN_eventPicture"
-            texturefile = "gfx/event_pictures/BOAT_CASTLE_AUSTRIA_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/PEOPLE/ELITE/FRANCIS_FERRIES_MAN_KRAFFT.dds"
             allwaystransparent = yes
         }
 
@@ -5165,7 +5193,7 @@ spriteTypes = {
             }
         spriteType = {
                 name = "flavor_mch.3_REFORM_eventPicture"
-                texturefile = "gfx/event_pictures/BOW_MAN_TRAINING_eventPicture.dds"
+                texturefile = "gfx/event_pictures/05_SINO/LAND/WEAPONRY/ARCHERY_DRILL_CHINESE_SOLDIERS.dds"
                 allwaystransparent = yes
             }
         spriteType = {
@@ -5633,7 +5661,7 @@ spriteTypes = {
         }
         spriteType = {
             name = "flavor_nor.18_TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture"
-            texturefile = "gfx/event_pictures/BRIDAL_HARDANGERFJORD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/PEOPLE/COMMONERS/BRIDAL_PROCESSION_TIDEMAN_GUDE.dds"
             allwaystransparent = yes
         }
         spriteType = {
@@ -6263,6 +6291,11 @@ spriteTypes = {
             allwaystransparent = yes
         }  
 
+        spriteType = {
+            name = "flavor_por.1_SHIP_SAILING_eventPicture"
+            texturefile = "gfx/event_pictures/01_WESTERN/COLONIZATION/COLUMBUS_BEFORE_QUEEN_LEUTZE.dds"
+            allwaystransparent = yes
+        }
 
         spriteType = {
             name = "flavor_por.2_NATIVES_eventPicture"
@@ -6756,7 +6789,7 @@ spriteTypes = {
 
         spriteType = {
             name = "flavor_ser.4_COURT_eventPicture"
-            texturefile = "gfx/event_pictures/CARIGRAD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/03_MENA/LAND/FORTIFICATIONS/FALL_CONSTANTINOPLE_ZEYNALOW.dds"
             allwaystransparent = yes
         }
 
@@ -6772,7 +6805,7 @@ spriteTypes = {
 
         spriteType = {
             name = "flavor_spa.1_SHIP_SAILING_eventPicture"
-            texturefile = "gfx/event_pictures/COLUMBUS_ASKS_FOR_MONEY_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/COLONIZATION/COLUMBUS_BEFORE_QUEEN_LEUTZE.dds"
             allwaystransparent = yes
         }
 
@@ -6863,7 +6896,7 @@ spriteTypes = {
 
         spriteType = {
             name = "flavor_spa.3095_DEBATE_REPUBLICAN_eventPicture"
-            texturefile = "gfx/event_pictures/CADIZ_OATH_1810_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/GOVERNMENT/FOUNDING/OATH_CORTES_CADIZ_ALISAL.dds"
             allwaystransparent = yes
         }
 
@@ -7232,7 +7265,7 @@ spriteTypes = {
 
         spriteType = {
             name = "flavor_swi.5_PROTESTANT_PRINTED_eventPicture"
-            texturefile = "gfx/event_pictures/CALVIN_AND_PROFESSORS_GENEVA_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/RELIGION/SCHISM/CALVIN_AND_PROFESSORS_HODLER.dds"
             allwaystransparent = yes
         }
 
@@ -8732,7 +8765,7 @@ spriteTypes = {
             }
         spriteType = {
                 name = "meritocracy_events.2_IMPERIAL_EXAMINATION_eventPicture"
-                texturefile = "gfx/event_pictures/CANTON_STREET_eventPicture.dds"
+                texturefile = "gfx/event_pictures/05_SINO/ECONOMY/MARKETS/STREET_CANTON_ALLOM.dds"
                 allwaystransparent = yes
             }
         spriteType = {
@@ -9282,7 +9315,7 @@ spriteTypes = {
         }
         spriteType = {
             name = "propagate_religion_events.5_PRAYER_IN_MOSQUE_eventPicture"
-            texturefile = "gfx/event_pictures/BUILD_MOSQUE_RUSSIA_eventPicture.dds"
+            texturefile = "gfx/event_pictures/03_MENA/RELIGION/TEMPLES/MOSQUE_INSTANBUL_EGYPT_ZOMMER.dds"
             allwaystransparent = yes
         }
         spriteType = {
@@ -9350,7 +9383,7 @@ spriteTypes = {
 
         spriteType = {
             name = "protestantism_events.2_PROTESTANT_GREAT_REFORMER_eventPicture"
-            texturefile = "gfx/event_pictures/CALVIN_STREET_PREACH_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/RELIGION/SCHISM/FROMENT_SERMON_GENEVA_DOVIANE.dds"
             allwaystransparent = yes
         }
 
@@ -9386,7 +9419,7 @@ spriteTypes = {
 
         spriteType = {
             name = "protestantism_events.8_PROTESTANT_PRINTED_eventPicture"
-            texturefile = "gfx/event_pictures/BROKER_PLACE_AT_CHURCH_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/RELIGION/TEMPLES/HAARLEM_ST_BAVO_BERCKHEYDE.dds"
             allwaystransparent = yes
         }
 
@@ -9416,7 +9449,7 @@ spriteTypes = {
 
         spriteType = {
             name = "protestantism_events.13_PROTESTANT_RELIGIOUS_DOUBTS_eventPicture"
-            texturefile = "gfx/event_pictures/CALVIN_CONFERENCE_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/RELIGION/SCHISM/CALVIN_COUNCIL_GENEVA_MULLER.dds"
             allwaystransparent = yes
         }
 
@@ -9897,7 +9930,7 @@ spriteTypes = {
 
         spriteType = {
             name = "republic_factions.13_CORRUPTION_eventPicture"
-            texturefile = "gfx/event_pictures/BUCENTAURUS_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/NAVAL/FLEETS/BUCENTAURUS_ANCHORED_STARNBERG_HANSEN.dds"
             allwaystransparent = yes
         }
 
@@ -9979,7 +10012,7 @@ spriteTypes = {
 
         spriteType = {
             name = "republic_factions.103_ANGRY_MOB_eventPicture"
-            texturefile = "gfx/event_pictures/BRUSSEL_HOTEL_VILLE_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/LAND/REBELLION/BELGIAN_REVOLUTION_BRUSSELS_WAPPERS.dds"
             allwaystransparent = yes
         }
 
@@ -10066,7 +10099,7 @@ spriteTypes = {
 
         spriteType = {
             name = "republics.13_LIBERUM_VETO_eventPicture"
-            texturefile = "gfx/event_pictures/BRUESSEL_BIRD_SHOOTING_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/PEOPLE/FESTIVALS/BIRD_SHOOT_BRUSSELS_TENIERS.dds"
             allwaystransparent = yes
         }
 
@@ -10603,7 +10636,7 @@ spriteTypes = {
         }
 
         spriteType = {#grand banks fisheries
-            name = "prices.15_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
+            name = "prices.15_TRADE_GOODS_FURS_FISH_AND_SALT_eventPicture"
             texturefile = "gfx/event_pictures/FISH_MARKET_eventPicture.dds"
             allwaystransparent = yes
         }	
@@ -10767,7 +10800,7 @@ spriteTypes = {
 
         spriteType = {
             name = "prices.39_TRADEGOODS_eventPicture"
-            texturefile = "gfx/event_pictures/BRAZILIAN_DIAMOND_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/COMMODITIES/BLUE_DIAMON_MARCELLO_BARENGHI.dds"
             allwaystransparent = yes
         }
 
@@ -10953,7 +10986,6 @@ spriteTypes = {
             texturefile = "gfx/event_pictures/event_pictures_ROM/PRINTING_PRESS_eventPicture.dds"
             allwaystransparent = yes
         }
-        
 
         spriteType = {
             name = "west_african.19_GOLDEN_STOOL_eventPicture"
@@ -10962,11 +10994,22 @@ spriteTypes = {
         }
 
         spriteType = {
+            name = "west_african.24_AFRICAN_EXPLORING_JUNGLE_eventPicture"
+                texturefile = "gfx/event_pictures/ABYSSINIAN_SHADOWS_MCALLISTER_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "west_african.25_AFRICAN_EXPLORING_JUNGLE_eventPicture"
+                texturefile = "gfx/event_pictures/DYES_TRADEGOOD_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
             name = "20_Monsoon_eventPicture"
                 texturefile = "gfx/event_pictures/FAMINE_REMNANTS_eventPicture.dds"
             allwaystransparent = yes
         }
-
 
         spriteType = {
             name = "westerngfx_MERCHANTS_TALKING_eventPicture"
@@ -11034,7 +11077,7 @@ spriteTypes = {
 
         spriteType = {
             name = "pirates.22_SMUGGLERS_eventPicture"
-            texturefile = "gfx/event_pictures/BUNTE_KUH_VS_VICTUAL_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/NAVAL/PIRACY/BATTLE_HELGOLAND_RAIDERS_RAHARDT.dds"
             allwaystransparent = yes
         }
 
@@ -11046,7 +11089,7 @@ spriteTypes = {
 
         spriteType = {
             name = "pirates.16_PIRATE_CAPTAINS_eventPicture"
-            texturefile = "gfx/event_pictures/CAREENING_ASHORE_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/NAVAL/DOCKYARDS/ASTROLABE_ZELEE_TORRES_BRETON.dds"
             allwaystransparent = yes
         }
 
@@ -11387,6 +11430,11 @@ spriteTypes = {
             allwaystransparent = yes
         }
 
+        spriteType = {
+            name = "ideagroups.1406_MILITARY_CAMP_eventPicture"
+            texturefile = "gfx/event_pictures/IRON_GOODS_WARFARE_eventPicture.dds"
+            allwaystransparent = yes
+        }
 
         spriteType = {#broken event from paradox, multi religion NO_UNIQUE_PICTURE_YET
             name = "ideagroups.1919__eventPicture"
@@ -11428,6 +11476,12 @@ spriteTypes = {
             allwaystransparent = yes
         }
 
+        spriteType = {
+            name = "emp_mission_events.6_COUNTRY_COLLAPSE_eventPicture"
+            texturefile = "gfx/event_pictures/FIRE_MOSCOW_VIKTOR_MAZUROVKSY_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
         spriteType = {#Corruption in the church
             name = "5098_RELIGION_eventPicture"
             texturefile = "gfx/event_pictures/WOMAN_PURCHASING_INDULGENCES_eventPicture.dds"
@@ -11449,7 +11503,7 @@ spriteTypes = {
 
         spriteType = {
             name = "1083_POPE_PREACHING_eventPicture"
-            texturefile = "gfx/event_pictures/CARDINALS_DEBATING_AT_TABLE_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/PEOPLE/ELITE/CARDINALS_PLAYING_CHESS_GUIDI.dds"
             allwaystransparent = yes
         }	
 
@@ -11461,12 +11515,7 @@ spriteTypes = {
 
         spriteType = {
             name = "canal_events.8_LIBERUM_VETO_ebentPicture"
-            texturefile = "gfx/event_pictures/CARRYING_A_FRIEND_eventPicture.dds"
-        }
-
-        spriteType = {
-            name = "canal_events.8_LIBERUM_VETO_eventPicture"
-            texturefile = "gfx/event_pictures/CARRYING_A_FRIEND_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/PEOPLE/EMOTIONS/CARRYING_DRUNK_FRIEND_GOYA.dds"
         }
 
         spriteType = {
@@ -13680,7 +13729,7 @@ spriteTypes = {
 
         spriteType = {
             name = "usa_dlc.21_INDIAN_WARS_eventPicture"
-            texturefile = "gfx/event_pictures/BRITISH_INDIAN_GUN_RUNNERS_eventPicture.dds"
+            texturefile = "gfx/event_pictures/08_AMERICAS/ECONOMY/BARTERING/GUN_RUNNERS_INDIANS_AHRENDT.dds"
             allwaystransparent = yes
         }
 
@@ -13746,7 +13795,7 @@ spriteTypes = {
 
         spriteType = {
             name = "usa_dlc.34_REFORM_eventPicture"
-            texturefile = "gfx/event_pictures/BOSTON_POST_ROAD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/RURAL/COACH_LEAVING_HOTEL_WRIGHT.dds"
             allwaystransparent = yes
         }
 
@@ -14207,7 +14256,7 @@ spriteTypes = {
 
         spriteType = {
             name = "industrialization_events.7_LARGE_SHIPYARD_eventPicture"
-            texturefile = "gfx/event_pictures/CANAL_SCENE_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/BUILDINGS/HAARLEMMERLOCK_HERENGRACHT_CANAL_HEYDEN.dds"
             allwaystransparent = yes
         }
 
@@ -15056,7 +15105,7 @@ spriteTypes = {
             # Ahilyabai Holkar
             spriteType = {
                 name = "women_history_events.89_wihgfx_FEMALES_eventPicture"
-                texturefile = "gfx/event_pictures/AHILYABAI_HOLKAR_eventPicture.dds"
+                texturefile = "gfx/event_pictures/06_INDO/PEOPLE/PORTRAITS/AHILYABAI_HOLKAR_FULL.dds"
                 allwaystransparent = yes
             }
             # Jahanzeb Banu Begum
@@ -15159,6 +15208,11 @@ spriteTypes = {
 			allwaystransparent = yes
 		}
 
+		spriteType = {
+			name = "monument_events.4_SHWEDAGON_PAGON_eventPicture"
+			texturefile = "gfx/event_pictures/SHWEDAGON_PAGON_PILGRIMAGE_eventPicture.dds"
+			allwaystransparent = yes
+		}
 
 		spriteType = {
 			name = "monument_events.5_BUDDHA_eventPicture"

@@ -2232,7 +2232,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "CHURCH_ESTATE_2_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COS/CHURCH_ESTATE_2_eventPicture.dds"
+		texturefile = "gfx/event_pictures/CATHOLIC_CORRUPTION_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	
@@ -2250,13 +2250,13 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "shamanism_CHURCH_ESTATE_2_eventPicture"
-		texturefile = "gfx/event_pictures/BABALAWO_DIVINING_eventPicture.dds"
+		texturefile = "gfx/event_pictures/07_AFRICA/RELIGION/RITES/BABALOWO_READING_YORUBA.dds"
 		allwaystransparent = yes
 	}
 	
 	spriteType = {# NO_UNIQUE_PICTURE_YET
 		name = "shamanism_CHURCH_ESTATE_UPSET_eventPicture"
-		texturefile = "gfx/event_pictures/BABALAWO_DIVINING_eventPicture.dds"
+		texturefile = "gfx/event_pictures/07_AFRICA/RELIGION/RITES/BABALOWO_READING_YORUBA.dds"
 		allwaystransparent = yes
 	}
 
@@ -10798,15 +10798,9 @@ spriteTypes = {
 
 	spriteType = {
         name = "christian_CHURCH_ESTATE_2_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COS/CHURCH_ESTATE_1_eventPicture.dds"
+		texturefile = "gfx/event_pictures/CATHOLIC_CORRUPTION_eventPicture.dds"
         allwaystransparent = yes
     }
-
-	spriteType = {
-        name = "christian_CHURCH_ESTATE_2_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_COS/CHURCH_ESTATE_1_eventPicture.dds"
-        allwaystransparent = yes
-    }		
 
 	spriteType = {
         name = "FLAGSHIP_SUNK_eventPicture"
