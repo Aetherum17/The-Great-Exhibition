@@ -357,7 +357,7 @@ spriteTypes = {
         }
         spriteType = {
             name = "colonial.18_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/COFFEE_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/03_MENA/ECONOMY/COMMODITIES/COFFEE_STILL_LIFE_CHEMINOVA.dds"
             allwaystransparent = yes
         }
 
@@ -539,12 +539,12 @@ spriteTypes = {
         }
         spriteType = {
             name = "colonial_nation.106_TRADEGOODS_eventPicture"
-            texturefile = "gfx/event_pictures/CLOTH_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/COMMODITIES/MIAO_GARMENTS_RUSSO.dds"
             allwaystransparent = yes
         }
         spriteType = {
             name = "colonial_nation.107_TRADEGOODS_eventPicture"
-            texturefile = "gfx/event_pictures/CLOTH_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/COMMODITIES/MIAO_GARMENTS_RUSSO.dds"
             allwaystransparent = yes
         }
         spriteType = {
@@ -589,12 +589,12 @@ spriteTypes = {
         }
         spriteType = {
             name = "colonial_nation.116_TRADEGOODS_eventPicture"
-            texturefile = "gfx/event_pictures/COPPER_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/LAND/WEAPONRY/THE_CANNON_LEONAERT_BRAMER.dds"
             allwaystransparent = yes
         }
         spriteType = {
             name = "colonial_nation.117_TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture"
-            texturefile = "gfx/event_pictures/COPPER_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/LAND/WEAPONRY/THE_CANNON_LEONAERT_BRAMER.dds"
             allwaystransparent = yes
         }
         spriteType = {
@@ -629,12 +629,12 @@ spriteTypes = {
         }
         spriteType = {
             name = "colonial_nation.124_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/CHINAWARE_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/05_SINO/ECONOMY/COMMODITIES/PORCELAIN_VASES_CHINA_DISPLAY.dds"
             allwaystransparent = yes
         }
         spriteType = {
             name = "colonial_nation.125_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/CHINAWARE_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/05_SINO/ECONOMY/COMMODITIES/PORCELAIN_VASES_CHINA_DISPLAY.dds"
             allwaystransparent = yes
         }
         spriteType = {
@@ -649,22 +649,22 @@ spriteTypes = {
         }
         spriteType = {
             name = "colonial_nation.128_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/COFFEE_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/03_MENA/ECONOMY/COMMODITIES/COFFEE_STILL_LIFE_CHEMINOVA.dds"
             allwaystransparent = yes
         }
         spriteType = {
             name = "colonial_nation.129_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/COFFEE_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/03_MENA/ECONOMY/COMMODITIES/COFFEE_STILL_LIFE_CHEMINOVA.dds"
             allwaystransparent = yes
         }
         spriteType = {
             name = "colonial_nation.130_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/COTTON_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/RURAL/COTTON_PICKERS_WILLIAM_WALKER.dds"
             allwaystransparent = yes
         }
         spriteType = {
             name = "colonial_nation.131_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/COTTON_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/RURAL/COTTON_PICKERS_WILLIAM_WALKER.dds"
             allwaystransparent = yes
         }
         spriteType = {
@@ -689,12 +689,12 @@ spriteTypes = {
         }
         spriteType = {
             name = "colonial_nation.136_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/COCOA_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/COMMODITIES/BRANCH_THEOBROMA_COCAO.dds"
             allwaystransparent = yes
         }
         spriteType = {
             name = "colonial_nation.137_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/COCOA_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/COMMODITIES/BRANCH_THEOBROMA_COCAO.dds"
             allwaystransparent = yes
         }
         spriteType = {
@@ -729,12 +729,12 @@ spriteTypes = {
         }
         spriteType = {
             name = "colonial_nation.146_TRADEGOODS_eventPicture"
-            texturefile = "gfx/event_pictures/CLOTH_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/COMMODITIES/MIAO_GARMENTS_RUSSO.dds"
             allwaystransparent = yes
         }
         spriteType = {
             name = "colonial_nation.147_TRADEGOODS_eventPicture"
-            texturefile = "gfx/event_pictures/CLOTH_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/COMMODITIES/MIAO_GARMENTS_RUSSO.dds"
             allwaystransparent = yes
         }
         spriteType = {
@@ -779,12 +779,12 @@ spriteTypes = {
         }
         spriteType = {
             name = "colonial_nation.156_TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture"
-            texturefile = "gfx/event_pictures/COPPER_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/LAND/WEAPONRY/THE_CANNON_LEONAERT_BRAMER.dds"
             allwaystransparent = yes
         }
         spriteType = {
             name = "colonial_nation.157_TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture"
-            texturefile = "gfx/event_pictures/COPPER_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/LAND/WEAPONRY/THE_CANNON_LEONAERT_BRAMER.dds"
             allwaystransparent = yes
         }
         spriteType = {
@@ -819,12 +819,12 @@ spriteTypes = {
         }
         spriteType = {
             name = "colonial_nation.164_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/CHINAWARE_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/05_SINO/ECONOMY/COMMODITIES/PORCELAIN_VASES_CHINA_DISPLAY.dds"
             allwaystransparent = yes
         }
         spriteType = {
             name = "colonial_nation.165_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/CHINAWARE_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/05_SINO/ECONOMY/COMMODITIES/PORCELAIN_VASES_CHINA_DISPLAY.dds"
             allwaystransparent = yes
         }
         spriteType = {
@@ -839,22 +839,22 @@ spriteTypes = {
         }
         spriteType = {
             name = "colonial_nation.168_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/COFFEE_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/03_MENA/ECONOMY/COMMODITIES/COFFEE_STILL_LIFE_CHEMINOVA.dds"
             allwaystransparent = yes
         }
         spriteType = {
             name = "colonial_nation.169_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/COFFEE_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/03_MENA/ECONOMY/COMMODITIES/COFFEE_STILL_LIFE_CHEMINOVA.dds"
             allwaystransparent = yes
         }
         spriteType = {
             name = "colonial_nation.170_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/COTTON_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/RURAL/COTTON_PICKERS_WILLIAM_WALKER.dds"
             allwaystransparent = yes
         }
         spriteType = {
             name = "colonial_nation.171_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/COTTON_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/RURAL/COTTON_PICKERS_WILLIAM_WALKER.dds"
             allwaystransparent = yes
         }
         spriteType = {
@@ -879,12 +879,12 @@ spriteTypes = {
         }
         spriteType = {
             name = "colonial_nation.176_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/COCOA_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/COMMODITIES/BRANCH_THEOBROMA_COCAO.dds"
             allwaystransparent = yes
         }
         spriteType = {
             name = "colonial_nation.177_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/COCOA_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/COMMODITIES/BRANCH_THEOBROMA_COCAO.dds"
             allwaystransparent = yes
         }
 
@@ -1267,7 +1267,7 @@ spriteTypes = {
         }
         spriteType = {
             name = "empire_of_china_nomadic_border_events.2_CHINESE_GENERAL_eventPicture"
-            texturefile = "gfx/event_pictures/CHINESE_WALL_OUTPOST_eventPicture.dds"
+            texturefile = "gfx/event_pictures/05_SINO/LAND/FORTIFICATIONS/ENTRANCE_PEKING_TARTARY_RIPA.dds"
             allwaystransparent = yes
         }
 
@@ -1275,7 +1275,7 @@ spriteTypes = {
         # NO_UNIQUE_PICTURE_YET
         spriteType = {
             name = "empire_of_china_nomadic_border_events.3_CHINESE_GENERAL_eventPicture"
-            texturefile = "gfx/event_pictures/CHINESE_WALL_OUTPOST_eventPicture.dds"
+            texturefile = "gfx/event_pictures/05_SINO/LAND/FORTIFICATIONS/ENTRANCE_PEKING_TARTARY_RIPA.dds"
             allwaystransparent = yes
         }
 
@@ -1283,7 +1283,7 @@ spriteTypes = {
         # NO_UNIQUE_PICTURE_YET
         spriteType = {
             name = "empire_of_china_nomadic_border_events.4_CHINESE_GENERAL_eventPicture"
-            texturefile = "gfx/event_pictures/CHINESE_WALL_OUTPOST_eventPicture.dds"
+            texturefile = "gfx/event_pictures/05_SINO/LAND/FORTIFICATIONS/ENTRANCE_PEKING_TARTARY_RIPA.dds"
             allwaystransparent = yes
         }
 
@@ -1291,7 +1291,7 @@ spriteTypes = {
         # NO_UNIQUE_PICTURE_YET
         spriteType = {
             name = "empire_of_china_nomadic_border_events.5_CHINESE_GENERAL_eventPicture"
-            texturefile = "gfx/event_pictures/CHINESE_WALL_OUTPOST_eventPicture.dds"
+            texturefile = "gfx/event_pictures/05_SINO/LAND/FORTIFICATIONS/ENTRANCE_PEKING_TARTARY_RIPA.dds"
             allwaystransparent = yes
         }
 
@@ -3231,12 +3231,12 @@ spriteTypes = {
         }
         spriteType = {
             name = "flavor_cri.2_RELIGION_eventPicture"
-            texturefile = "gfx/event_pictures/CRIMEAN_OPPORTUNITY_eventPicture.dds"
+            texturefile = "gfx/event_pictures/02_EASTERN/LAND/WEAPONRY/SOLDIERS_ANATOLY_TELENIK.dds"
             allwaystransparent = yes
         }
         spriteType = {
             name = "flavor_cri.3_RELIGION_eventPicture"
-            texturefile = "gfx/event_pictures/CRIMEAN_OPPORTUNITY_eventPicture.dds"
+            texturefile = "gfx/event_pictures/02_EASTERN/LAND/WEAPONRY/SOLDIERS_ANATOLY_TELENIK.dds"
             allwaystransparent = yes
         }
         spriteType = {
@@ -3752,7 +3752,7 @@ spriteTypes = {
 
         spriteType = {
             name = "flavor_fra.3115_MERCHANTS_TALKING_eventPicture"
-            texturefile = "gfx/event_pictures/CHAMPLAIN_AND_HURONS_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/COLONIZATION/EXPLORATION/CHAMPLAIN_GEORGIAN_BAY_KELLY.dds"
             allwaystransparent = yes
         }	
 
@@ -5867,13 +5867,13 @@ spriteTypes = {
 
         spriteType = {
             name = "flavor_pap.17_LAND_MILITARY_eventPicture"
-            texturefile = "gfx/event_pictures/CESARE_BORGIA_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/PEOPLE/PORTRAITS/CESARE_BORGIA_PORTRAIT_MELONI.dds"
             allwaystransparent = yes
         }
 
         spriteType = {
             name = "flavor_pap.17_BAD_POPE_eventPicture"
-            texturefile = "gfx/event_pictures/CESARE_BORGIA_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/PEOPLE/PORTRAITS/CESARE_BORGIA_PORTRAIT_MELONI.dds"
             allwaystransparent = yes
         }	
 
@@ -5891,19 +5891,19 @@ spriteTypes = {
 
         spriteType = {
             name = "flavor_pap.19_POPE_PREACHING_eventPicture"
-            texturefile = "gfx/event_pictures/CESARE_FLEES_VATICAN_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/RELIGION/DISEASE/CESARE_BORGIA_VATICAN_GATTERI.dds"
             allwaystransparent = yes
         }
 
         spriteType = {
             name = "flavor_pap.19_BAD_POPE_eventPicture"
-            texturefile = "gfx/event_pictures/CESARE_FLEES_VATICAN_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/RELIGION/DISEASE/CESARE_BORGIA_VATICAN_GATTERI.dds"
             allwaystransparent = yes
         }
 
         spriteType = {
             name = "flavor_pap.20_LAND_MILITARY_eventPicture"
-            texturefile = "gfx/event_pictures/CESARE_BORGIA_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/PEOPLE/PORTRAITS/CESARE_BORGIA_PORTRAIT_MELONI.dds"
             allwaystransparent = yes
         }	
 
@@ -6769,7 +6769,7 @@ spriteTypes = {
         }
         spriteType = {
             name = "flavor_sco.9_ADVISOR_eventPicture"
-            texturefile = "gfx/event_pictures/COAL_BOAT_LONDON_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/COMMODITIES/BLACK_DIAMOND_BUGSBY_WYLLIE.dds"
             allwaystransparent = yes
         }
 
@@ -6908,7 +6908,7 @@ spriteTypes = {
 
         spriteType = {
             name = "flavor_spa.3152_EXPLORERS_eventPicture"
-            texturefile = "gfx/event_pictures/CONQUISTADOR_NEW_WORLD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/COLONIZATION/EXPLORATION/NEW_WORLD_NICOLE_CARDIFF.dds"
             allwaystransparent = yes
         }
 
@@ -7832,13 +7832,13 @@ spriteTypes = {
 
         spriteType = {
             name = "flavor_ven.6_REVOLUTION_eventPicture"
-            texturefile = "gfx/event_pictures/CORINTH_AND_ACROCORINTH_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/LAND/LANDSCAPE/CITY_OF_CORINTH_MAYER.dds"
             allwaystransparent = yes
         }	
 
         spriteType = {
             name = "flavor_ven.7_REVOLUTION_eventPicture"
-            texturefile = "gfx/event_pictures/CORINTH_AND_ACROCORINTH_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/LAND/LANDSCAPE/CITY_OF_CORINTH_MAYER.dds"
             allwaystransparent = yes
         }	
 
@@ -8965,12 +8965,12 @@ spriteTypes = {
             allwaystransparent = yes
         }
 
-        #
-        # spriteType = {
-        #     name = "muslim_piety.4_RELIGION_eventPicture"
-        #     texturefile = "gfx/event_pictures/BOOK_BURNING_eventPicture.dds"
-        #     allwaystransparent = yes
-        # }
+        
+        spriteType = {
+            name = "muslim_piety.4_RELIGION_eventPicture"
+            texturefile = "gfx/event_pictures/BOOK_BURNING_ISLAM_eventPicture.dds"
+            allwaystransparent = yes
+        }
 
         spriteType = {#replace soon NO_UNIQUE_PICTURE_YET
             name = "muslim_piety.5_REFORM_eventPicture"
@@ -10577,13 +10577,13 @@ spriteTypes = {
 
         spriteType = {
             name = "prices.5_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/COFFEE_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/03_MENA/ECONOMY/COMMODITIES/COFFEE_STILL_LIFE_CHEMINOVA.dds"
             allwaystransparent = yes
         }
 
         spriteType = {
             name = "prices.6_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/COTTON_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/RURAL/COTTON_PICKERS_WILLIAM_WALKER.dds"
             allwaystransparent = yes
         }
 
@@ -10625,7 +10625,7 @@ spriteTypes = {
 
         spriteType = {
             name = "prices.13_TRADEGOODS_eventPicture"
-            texturefile = "gfx/event_pictures/CLOTH_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/COMMODITIES/MIAO_GARMENTS_RUSSO.dds"
             allwaystransparent = yes
         }
 
@@ -10667,7 +10667,7 @@ spriteTypes = {
 
         spriteType = {
             name = "prices.20_TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture"
-            texturefile = "gfx/event_pictures/COPPER_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/LAND/WEAPONRY/THE_CANNON_LEONAERT_BRAMER.dds"
             allwaystransparent = yes
         }
 
@@ -10697,7 +10697,7 @@ spriteTypes = {
 
         spriteType = {
             name = "prices.25_TRADEGOODS_eventPicture"
-            texturefile = "gfx/event_pictures/DYES_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/06_INDO/ECONOMY/COMMODITIES/PIGMENTS_MARKET_GOA_BRADY.dds"
             allwaystransparent = yes
         }
 
@@ -10745,7 +10745,7 @@ spriteTypes = {
 
         spriteType = {#Mocha decline
             name = "prices.32_TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture"
-            texturefile = "gfx/event_pictures/COFFEE_TRADEGOOD_eventPicture.dds"
+            texturefile = "gfx/event_pictures/03_MENA/ECONOMY/COMMODITIES/COFFEE_STILL_LIFE_CHEMINOVA.dds"
             allwaystransparent = yes
         }		
 
@@ -10841,7 +10841,7 @@ spriteTypes = {
 
         spriteType = {
             name = "prices.46_TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture"
-            texturefile = "gfx/event_pictures/COAL_BOAT_LONDON_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/COMMODITIES/BLACK_DIAMOND_BUGSBY_WYLLIE.dds"
             allwaystransparent = yes
         }	
 
@@ -11053,13 +11053,13 @@ spriteTypes = {
 
         spriteType = {
             name = "pirates.8_SMUGGLERS_eventPicture"
-            texturefile = "gfx/event_pictures/CHINESE_PIRATES_ATTACK_SHIP_eventPicture.dds"
+            texturefile = "gfx/event_pictures/05_SINO/NAVAL/PIRACY/MERCHANTSHIP_ATTACKED_PIRATES.dds"
             allwaystransparent = yes
         }
 
         spriteType = {
             name = "pirates.9_SMUGGLERS_eventPicture"
-            texturefile = "gfx/event_pictures/CHINESE_PIRATES_ATTACK_SHIP_eventPicture.dds"
+            texturefile = "gfx/event_pictures/05_SINO/NAVAL/PIRACY/MERCHANTSHIP_ATTACKED_PIRATES.dds"
             allwaystransparent = yes
         }
 
@@ -12981,12 +12981,12 @@ spriteTypes = {
             }
         spriteType = {
                 name = "shinto_events.56_SHOGUNATE_AUTHORITY_INCIDENT_eventPicture"
-                texturefile = "gfx/event_pictures/DAIMYO_DELEGATION_eventPicture.dds"
+                texturefile = "gfx/event_pictures/09_JAPONIC/GOVERNMENT/ELECTIONS/CHIYODA_CASTLE_MEN_CHIKANOBU.dds"
                 allwaystransparent = yes
             }
         spriteType = {
                 name = "shinto_events.57_SHOGUNATE_AUTHORITY_INCIDENT_eventPicture"
-                texturefile = "gfx/event_pictures/DAIMYO_DELEGATION_eventPicture.dds"
+                texturefile = "gfx/event_pictures/09_JAPONIC/GOVERNMENT/ELECTIONS/CHIYODA_CASTLE_MEN_CHIKANOBU.dds"
                 allwaystransparent = yes
             }
         spriteType = {
@@ -14232,7 +14232,7 @@ spriteTypes = {
 
         spriteType = {
             name = "industrialization_events.2_URBANIZATION_eventPicture"
-            texturefile = "gfx/event_pictures/COKE_BLAST_FURNACE_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/URBAN/FURNACES_INDUSTRIAL_LONDON_HOUEDE.dds"
             allwaystransparent = yes
         }
 
@@ -14328,13 +14328,13 @@ spriteTypes = {
 
         spriteType = {
             name = "5083_RELIGION_eventPicture"
-            texturefile = "gfx/event_pictures/DA_VINCI_WITH_SIEGE_DRAWINGS_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/SCIENCE/EXPERIMENTS/COLLAGE_DAVINCI_SKETCHES.dds"
             allwaystransparent = yes
         }	
 
         spriteType = {
             name = "5083_ADVISOR_eventPicture"
-            texturefile = "gfx/event_pictures/DA_VINCI_WITH_SIEGE_DRAWINGS_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/SCIENCE/EXPERIMENTS/COLLAGE_DAVINCI_SKETCHES.dds"
             allwaystransparent = yes
         }
 
@@ -15198,13 +15198,13 @@ spriteTypes = {
 
 		spriteType = {#existing pictures
 			name = "pirates.8_MALAYAN_PORT_eventPicture"
-			texturefile = "gfx/event_pictures/CHINESE_PIRATES_ATTACK_SHIP_eventPicture.dds"
+			texturefile = "gfx/event_pictures/05_SINO/NAVAL/PIRACY/MERCHANTSHIP_ATTACKED_PIRATES.dds"
 			allwaystransparent = yes
 		}
 
 		spriteType = {#existing pictures
 			name = "pirates.9_MALAYAN_PORT_eventPicture"
-			texturefile = "gfx/event_pictures/CHINESE_PIRATES_ATTACK_SHIP_eventPicture.dds"
+			texturefile = "gfx/event_pictures/05_SINO/NAVAL/PIRACY/MERCHANTSHIP_ATTACKED_PIRATES.dds"
 			allwaystransparent = yes
 		}
 

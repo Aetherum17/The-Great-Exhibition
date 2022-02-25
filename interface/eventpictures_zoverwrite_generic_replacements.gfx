@@ -791,6 +791,12 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "latin_CONQUEST_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/CONQUEST_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
 		name = "COUNTRY_COLLAPSE_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/COUNTRY_COLLAPSE_eventPicture.dds"
 		allwaystransparent = yes
