@@ -294,7 +294,7 @@ spriteTypes = {
             }
         spriteType = {
                 name = "china_events.53_ASSASSINATION_eventPicture"
-                texturefile = "gfx/event_pictures/CHINESE_ASSASSIN_eventPicture.dds"
+                texturefile = "gfx/event_pictures/CHINESE_ASSASSIN_eventpicture.dds"
                 allwaystransparent = yes
             }
         spriteType = {
@@ -3487,6 +3487,12 @@ spriteTypes = {
 
         spriteType = {
             name = "flavor_eng.9100_RELIGION_eventPicture"
+            texturefile = "gfx/event_pictures/WYCLIFFE_DUKE_OF_LANCASTER_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_eng.9100_ADULT_BAPTISME_eventPicture"
             texturefile = "gfx/event_pictures/WYCLIFFE_DUKE_OF_LANCASTER_eventPicture.dds"
             allwaystransparent = yes
         }

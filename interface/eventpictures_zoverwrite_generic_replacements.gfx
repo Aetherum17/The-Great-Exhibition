@@ -13,7 +13,13 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_TGE_EXTENDED/ANZAC_COVE_LANDING_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+        name = "ARMY_WITH_MONASTERY_eventPicture"
+        texturefile = "gfx/event_pictures/RED_MONKS_OF_BRITTANY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
 	spriteType = {
 		name = "BANNOCKBURN_BATTLE_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_TGE_EXTENDED/BANNOCKBURN_BATTLE_eventPicture.dds"
@@ -25,7 +31,20 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_TGE_EXTENDED/BUILDING_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+
+	spriteType = {
+        name = "caroleans_eventPicture"
+        texturefile = "gfx/event_pictures/CAROLEANS_VIVAT_CAROLUS_CEDERSTROM_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "CASTLE_eventPicture"
+        texturefile = "gfx/event_pictures/BRAN_CASTLE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
 	spriteType = {
 		name = "COMMUNISM_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_TGE_EXTENDED/COMMUNISM_eventPicture.dds"
@@ -55,19 +74,73 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_TGE_EXTENDED/THE_PYRAMIDS_MULLER_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+        name = "CROSSROAD_eventPicture"
+        texturefile = "gfx/event_pictures/KNIGHT_AT_CROSSROADS_1878_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "CRUSADER_HORDE_eventPicture"
+        texturefile = "gfx/event_pictures/TEUTONIC_CRUSADERS_HORDE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
 	spriteType = {
 		name = "CRUSADE_BATTLE_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_TGE_EXTENDED/CRUSADE_BATTLE_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+        name = "emperor_eventPicture"
+        texturefile = "gfx/event_pictures/GUSTAV_II_EHRENSTRAHL_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
 	spriteType = {
 		name = "EUROPEAN_DEBATE_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_TGE_EXTENDED/EUROPEAN_DEBATE_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+        name = "GERMAN_UNIFICATION_eventPicture"
+        texturefile = "gfx/event_pictures/GERMAN_UNIFICATION_WERNER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "falun_copper_mine_eventPicture"
+        texturefile = "gfx/event_pictures/FALUN_MINE_DRAWING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "forests_eventPicture"
+        texturefile = "gfx/event_pictures/FORESTS_NORSE_WANDERING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "frozen_village_eventPicture"
+        texturefile = "gfx/event_pictures/SCOUTS_AT_NORSE_WINTER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "KNIGHTS_eventPicture"
+        texturefile = "gfx/event_pictures/TEUTONS_ON_HORSEBACK_COMPANY_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "lord_of_gotland_eventPicture"
+        texturefile = "gfx/event_pictures/ERIC_OF_POMERANIA_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
 	spriteType = {
 		name = "MEDIEVAL_SOLDIERS_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_TGE_EXTENDED/MEDIEVAL_SOLDIERS_eventPicture.dds"
@@ -79,7 +152,25 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_TGE_EXTENDED/MODERN_SOLDIERS_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+        name = "NEGOTIATIONS_LUBLIN_eventPicture"
+        texturefile = "gfx/event_pictures/UNION_OF_LUBLIN_MATEJKO_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "norse_temple_eventPicture"
+        texturefile = "gfx/event_pictures/NORSE_TEMPLE_MOUNTAIN_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "north_sea_maps_eventPicture"
+        texturefile = "gfx/event_pictures/NORTH_SEA_MAP_DRAWING_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
 	spriteType = {
 		name = "NUCLEAR_ENERGY_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_TGE_EXTENDED/NUCLEAR_ENERGY_eventPicture.dds"
@@ -91,7 +182,73 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_TGE_EXTENDED/NY_SKYLINE_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+	spriteType = {
+        name = "PAY_POPE_eventPicture"
+        texturefile = "gfx/event_pictures/WOMAN_PURCHASING_INDULGENCES_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "POLAND_BOHEMIA_eventPicture"
+        texturefile = "gfx/event_pictures/POLAND_AND_BOHEMIA_ON_LETTER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "POLAND_HUNGARY_eventPicture"
+        texturefile = "gfx/event_pictures/POLAND_AND_HUNGARY_ON_LETTER_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "PRUSSIA_eventPicture"
+        texturefile = "gfx/event_pictures/PRUSSIAN_EMBLEM_ON_YELLOW_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "ROYAL_STRESS_eventPicture"
+        texturefile = "gfx/event_pictures/OLD_MAN_ARMCHAIR_REMBRANDT_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "RUNESTONE_eventPicture"
+        texturefile = "gfx/event_pictures/RUNESTONE_GREEN_FOREST_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "sweden_league_war_eventPicture"
+        texturefile = "gfx/event_pictures/GUSTAVUS_ADOLPHUS_BREITENFELD_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "vasa_eventPicture"
+        texturefile = "gfx/event_pictures/VASA_SANDBERG_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "vasa_reforms_eventPicture"
+        texturefile = "gfx/event_pictures/GUSTAV_VASA_PORTRAIT_BLACK_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "VIKING_KING_eventPicture"
+        texturefile = "gfx/event_pictures/VIKING_KING_ON_THRONE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
+	spriteType = {
+        name = "vikings_eventPicture"
+        texturefile = "gfx/event_pictures/VIKING_BATALLION_AXE_eventPicture.dds"
+        allwaystransparent = yes
+    }
+
 	spriteType = {
 		name = "ROMAN_ACQUEDUCT_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_TGE_EXTENDED/ROMAN_ACQUEDUCT_eventPicture.dds"
