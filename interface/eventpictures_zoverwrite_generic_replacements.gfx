@@ -34,7 +34,7 @@ spriteTypes = {
 
 
 	spriteType = {
-        name = "caroleans_eventPicture"
+        name = "CAROLEANS_eventPicture"
         texturefile = "gfx/event_pictures/CAROLEANS_VIVAT_CAROLUS_CEDERSTROM_eventPicture.dds"
         allwaystransparent = yes
     }
@@ -94,7 +94,7 @@ spriteTypes = {
 	}
 
 	spriteType = {
-        name = "emperor_eventPicture"
+        name = "EMPEROR_eventPicture"
         texturefile = "gfx/event_pictures/GUSTAV_II_EHRENSTRAHL_eventPicture.dds"
         allwaystransparent = yes
     }
@@ -112,19 +112,19 @@ spriteTypes = {
     }
 
 	spriteType = {
-        name = "falun_copper_mine_eventPicture"
+        name = "FALUN_COPPER_MINE_eventPicture"
         texturefile = "gfx/event_pictures/FALUN_MINE_DRAWING_eventPicture.dds"
         allwaystransparent = yes
     }
 
 	spriteType = {
-        name = "forests_eventPicture"
+        name = "FORESTS_eventPicture"
         texturefile = "gfx/event_pictures/FORESTS_NORSE_WANDERING_eventPicture.dds"
         allwaystransparent = yes
     }
 
 	spriteType = {
-        name = "frozen_village_eventPicture"
+        name = "FROZEN_VILLAGE_eventPicture"
         texturefile = "gfx/event_pictures/SCOUTS_AT_NORSE_WINTER_eventPicture.dds"
         allwaystransparent = yes
     }
@@ -136,7 +136,7 @@ spriteTypes = {
     }
 
 	spriteType = {
-        name = "lord_of_gotland_eventPicture"
+        name = "LORD_OF_GOTLAND_eventPicture"
         texturefile = "gfx/event_pictures/ERIC_OF_POMERANIA_eventPicture.dds"
         allwaystransparent = yes
     }
@@ -160,13 +160,13 @@ spriteTypes = {
     }
 
 	spriteType = {
-        name = "norse_temple_eventPicture"
+        name = "NORSE_TEMPLE_eventPicture"
         texturefile = "gfx/event_pictures/NORSE_TEMPLE_MOUNTAIN_eventPicture.dds"
         allwaystransparent = yes
     }
 
 	spriteType = {
-        name = "north_sea_maps_eventPicture"
+        name = "NORTH_SEA_MAPS_eventPicture"
         texturefile = "gfx/event_pictures/NORTH_SEA_MAP_DRAWING_eventPicture.dds"
         allwaystransparent = yes
     }
@@ -220,19 +220,19 @@ spriteTypes = {
     }
 
 	spriteType = {
-        name = "sweden_league_war_eventPicture"
+        name = "SWEDEN_LEAGUE_WAR_eventPicture"
         texturefile = "gfx/event_pictures/GUSTAVUS_ADOLPHUS_BREITENFELD_eventPicture.dds"
         allwaystransparent = yes
     }
 
 	spriteType = {
-        name = "vasa_eventPicture"
+        name = "VASA_eventPicture"
         texturefile = "gfx/event_pictures/VASA_SANDBERG_eventPicture.dds"
         allwaystransparent = yes
     }
 
 	spriteType = {
-        name = "vasa_reforms_eventPicture"
+        name = "VASA_REFORMS_eventPicture"
         texturefile = "gfx/event_pictures/GUSTAV_VASA_PORTRAIT_BLACK_eventPicture.dds"
         allwaystransparent = yes
     }
@@ -244,7 +244,7 @@ spriteTypes = {
     }
 
 	spriteType = {
-        name = "vikings_eventPicture"
+        name = "VIKINGS_eventPicture"
         texturefile = "gfx/event_pictures/VIKING_BATALLION_AXE_eventPicture.dds"
         allwaystransparent = yes
     }
@@ -10216,6 +10216,20 @@ spriteTypes = {
 		}
 
 #NAVAL_MILITARY_eventPicture
+
+	#swedish
+	spriteType = {
+		name = "swedish_NAVAL_MILITARY_eventPicture"
+		texturefile = "gfx/event_pictures/SWEDISH_SHIPS_SAILING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	#swedish
+	spriteType = {
+		name = "swedish_SHIP_SAILING_eventPicture"
+		texturefile = "gfx/event_pictures/VASA_WARSHIP_eventPicture.dds"
+		allwaystransparent = yes
+	}
 
 	#japanese_g
 	spriteType = {

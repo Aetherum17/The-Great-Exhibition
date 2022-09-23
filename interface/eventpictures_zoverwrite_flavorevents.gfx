@@ -7017,6 +7017,12 @@ spriteTypes = {
         }
 
         spriteType = {
+            name = "flavor_swe.102_ANGRY_MOB_eventPicture"
+            texturefile = "gfx/event_pictures/ENGELBREKT_AND_GORTZ_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
             name = "flavor_swe.3217_ANGRY_MOB_eventPicture"
             texturefile = "gfx/event_pictures/ENGELBREKT_eventPicture.dds"
             allwaystransparent = yes
