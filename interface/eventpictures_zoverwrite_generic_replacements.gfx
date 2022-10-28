@@ -4573,9 +4573,9 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 	
-		spriteType = {
+		spriteType = {#old was \event_pictures_rb\LARGE_SHIPYARD_eventPicture
 		name = "LARGE_SHIPYARD_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_rb/LARGE_SHIPYARD_eventPicture.dds"
+		texturefile = "gfx/event_pictures/WOODEN_SHIP_CONSTRUCTION_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	
@@ -4603,9 +4603,9 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 	
-		spriteType = {
+		spriteType = {#old was event_pictures_rb/RIOTING_workers_eventPicture
 		name = "RIOTING_workers_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_rb/RIOTING_workers_eventPicture.dds"
+		texturefile = "gfx/event_pictures/DESTROYING_MACHINERY_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	
@@ -10224,10 +10224,10 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 
-	#swedish
+	#swedish entry needed, leave even if there is no unique
 	spriteType = {
 		name = "swedish_SHIP_SAILING_eventPicture"
-		texturefile = "gfx/event_pictures/VASA_WARSHIP_eventPicture.dds"
+		texturefile = "gfx/event_pictures/event_pictures_GE/SHIP_SAILING_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
