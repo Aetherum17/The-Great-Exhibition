@@ -5157,6 +5157,18 @@ spriteTypes = {
             allwaystransparent = yes
         }	
 
+        spriteType = {
+            name = "majapahit.10_PIETY_eventPicture"
+            texturefile = "gfx/event_pictures/SUNNI_PREACHINGS_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "majapahit.10_RELIGION_eventPicture"
+            texturefile = "gfx/event_pictures/SUNNI_PREACHINGS_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
 
         #Reconquest of the city of Timbuktu
         spriteType = {
@@ -14320,6 +14332,20 @@ spriteTypes = {
 
 
         spriteType = {
+            name = "order_events.1_ENCOMIENDA_eventPicture"
+            texturefile = "gfx/event_pictures/COLUMBUS_COURT_CATHOLIC_MONARCHS_CORDERO_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+
+        spriteType = {
+            name = "exploration_events.11_GUARDED_TREASURE_eventPicture"
+            texturefile = "gfx/event_pictures/NATIVE_HUNTER_CANOE_BOW_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        
+        spriteType = {
             name = "seven_cities_events.204_CONQUISTADORS_eventPicture"
             texturefile = "gfx/event_pictures/UNDERGROUND_SPRING_eventPicture.dds"
             allwaystransparent = yes
@@ -15963,6 +15989,12 @@ spriteTypes = {
             allwaystransparent = yes
         }
 
+        spriteType = {
+            name = "fetishist_flavor.458_POPE_PREACHING_eventPicture"
+            texturefile = "gfx/event_pictures/SUNNI_PREACHINGS_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
         spriteType = {#fetishist_flavor.206.t:0 "The Indifference of God"
             name = "africangfx_FAMINE_eventPicture"
             texturefile = "gfx/event_pictures/DROUGHT_SAVANNAH_eventPicture.dds"
@@ -17239,6 +17271,96 @@ spriteTypes = {
 		}
 
 
+
+		spriteType = {
+			name = "estate_regency_events.1_DEBATE_REPUBLICAN_eventPicture"
+			texturefile = "gfx/event_pictures/LOUIS_XIII_GRIEF_COSTUME_POURBUS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "estate_regency_events.2_LIBERUM_VETO_event_Picture"
+			texturefile = "gfx/event_pictures/LOUIS_XIV_CHILD_CORONATION_TESTELIN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "estate_regency_events.3_ACCUSATION_eventPicture"
+			texturefile = "gfx/event_pictures/LOUIS_XIV_CHILD_CORONATION_TESTELIN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "estate_regency_events.4_COUNTRY_COLLAPSE_eventPicture"
+			texturefile = "gfx/event_pictures/LOUIS_XIII_GRIEF_COSTUME_POURBUS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "estate_regency_events.5_CORRUPTION_eventPicture"
+			texturefile = "gfx/event_pictures/LOUIS_XV_AGE_FIVE_RIGAULT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "estate_regency_events.6_RELIGIOUS_CONVERSION_eventPicture"
+			texturefile = "gfx/event_pictures/LOUIS_XIV_CORONATION_ROBES_TESTELIN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "estate_regency_events.7_CONQUEST_eventPicture"
+			texturefile = "gfx/event_pictures/LOUIS_XV_AGE_FIVE_RIGAULT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "estate_regency_events.8_ASSASSINATION_eventPicture"
+			texturefile = "gfx/event_pictures/LOUIS_XIV_CORONATION_ROBES_TESTELIN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "estate_regency_events.9_ADVISOR_eventPicture"
+			texturefile = "gfx/event_pictures/LOUIS_XV_AGE_FIVE_RIGAULT_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "extended_regency_events.1_ASSASSINATION_eventPicture"
+			texturefile = "gfx/event_pictures/LOUIS_XIV_CORONATION_ROBES_TESTELIN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "extended_regency_events.2_BAD_WITH_MONARCH_eventPicture"
+			texturefile = "gfx/event_pictures/LOUIS_XIV_CORONATION_ROBES_TESTELIN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "extended_regency_events.3_SPY_eventPicture"
+			texturefile = "gfx/event_pictures/LOUIS_XIV_CHILD_CORONATION_TESTELIN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "extended_regency_events.4_CORRUPTION_eventPicture"
+			texturefile = "gfx/event_pictures/LOUIS_XIV_CHILD_CORONATION_TESTELIN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "extended_regency_events.5_CIVIL_WAR_eventPicture"
+			texturefile = "gfx/event_pictures/LOUIS_XIII_GRIEF_COSTUME_POURBUS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "extended_regency_events.6_GOOD_WITH_MONARCH_eventPicture"
+			texturefile = "gfx/event_pictures/LOUIS_XV_AGE_FIVE_RIGAULT_eventPicture.dds"
+			allwaystransparent = yes
+		}
 
 
 

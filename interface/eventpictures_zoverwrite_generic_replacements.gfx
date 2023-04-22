@@ -2345,6 +2345,171 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 
+	#1.3 1.35 OTTOMANS patch
+
+	spriteType = {
+		name = "ARTILLERY_eventPicture"
+		texturefile = "gfx/event_pictures/FINAL_ASSAULT_CONSTANTINOPLE_AZKERI_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "CATHERINE_GREAT_eventPICTURE"
+		texturefile = "gfx/event_pictures/CATHERINE_II_LEGISLATRESS_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "CATHERINE_GREAT_eventPicture"
+		texturefile = "gfx/event_pictures/CATHERINE_II_LEGISLATRESS_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "CONQUERER_eventPicture"
+		texturefile = "gfx/event_pictures/ENTRY_OF_MEHMED_CONSTANT_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "CORSAIR_eventPicture"
+		texturefile = "gfx/event_pictures/DUSK_ON_GOLDEN_HORN_AYVAZOVSKY_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "DEVLET_I_RUM_eventPicture"
+		texturefile = "gfx/event_pictures/ROME_AND_OTTOMAN_FLAG_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "DEVSHIRME_eventPicture"
+		texturefile = "gfx/event_pictures/DEVSHIRME_RECRUIT_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "EUNUCH_ESTATE_eventPicture"
+		texturefile = "gfx/event_pictures/XU_XIANQING_PASSING_REFORM_FOLIO_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "EUNUCH_ESTATE_upset_eventPicture"
+		texturefile = "gfx/event_pictures/UPSET_COUNSELORS_ILLUSTRATION_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "EYALET_eventPicture"
+		texturefile = "gfx/event_pictures/SELIM_III_DIGNITARIES_KAPIDAGLI_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "EYALET_REBELLION_eventPicture"
+		texturefile = "gfx/event_pictures/MASSACRE_OF_MAMLUKS_VERNET_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "GRAND_VIZIER_eventPicture"
+		texturefile = "gfx/event_pictures/SULTAN_AND_GREAT_VIZIER_CASTELLAN_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "HAREM_eventPicture"
+		texturefile = "gfx/event_pictures/THE_HAREM_FREDERICK_LEWIS_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "HAYREDDIN_eventPicture"
+		texturefile = "gfx/event_pictures/BARBAROSSA_KHAIR_ED_DIN_VENEZIANO_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "HENRY_eventPicture"
+		texturefile = "gfx/event_pictures/HENRY_VIII_HOLBEIN_CHATSWORTH_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "HISPANIC_MONARCHY_eventPICTURE"
+		texturefile = "gfx/event_pictures/SPANISH_DELEGATES_SOMERSET_HOUSE_CRITZ_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "JANISSARY_ESTATE_eventPicture"
+		texturefile = "gfx/event_pictures/MURAD_WITH_JANISSARIES_AND_CHAMBERLAIN_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "JANISSARY_ESTATE_UPSET_eventPicture"
+		texturefile = "gfx/event_pictures/OTTOMAN_WARRIORS_HOOK_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "JANISSARY_ESTATE_UPSET_eventPicture"
+		texturefile = "gfx/event_pictures/OTTOMAN_WARRIORS_HOOK_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "LAWGIVER_eventPicture"
+		texturefile = "gfx/event_pictures/KANUNI_SULEIMAN_KAPIDAGLI_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "PANIC_eventPicture"
+		texturefile = "gfx/event_pictures/THE_DAMNED_LAST_JUDGEMENT_MICHELANGELO_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	
+	spriteType = {
+		name = "PASHA_NEGOTIATION_eventPicture"
+		texturefile = "gfx/event_pictures/AUDIENCE_WITH_SULTAN_GUARDI_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+	
+	spriteType = {
+		name = "PASHAS_eventPicture"
+		texturefile = "gfx/event_pictures/THE_PASHA_FRAGONARD_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+	
+	spriteType = {
+		name = "PAX_OTTOMANA_eventPicture"
+		texturefile = "gfx/event_pictures/HOUSE_OF_OSMAN_CREST_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+	
+	spriteType = {
+		name = "SONS_OF_ARAGON_eventPicture"
+		texturefile = "gfx/event_pictures/INFANTES_OF_ARAGON_GENEALOGIAS_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+	
+	spriteType = {
+		name = "flavor12_ara_eventpicture"
+		texturefile = "gfx/event_pictures/INFANTES_OF_ARAGON_GENEALOGIAS_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+	
+	spriteType = {
+		name = "infantes_aragon_eventpicture"
+		texturefile = "gfx/event_pictures/INFANTES_OF_ARAGON_GENEALOGIAS_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
 	spriteType = {
 		name = "ANGRY_SHAMANS_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COS/ANGRY_SHAMANS_eventPicture.dds"
@@ -2398,7 +2563,34 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/CATHOLIC_CORRUPTION_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
+
+	#need for all religion
+	spriteType = {
+		name = "muslim_CHURCH_ESTATE_2_eventPicture"
+		texturefile = "gfx/event_pictures/03_MENA/RELIGION/PRAYER/HOUR_OF_PRAYER_FARQUHARSON.dds"
+		allwaystransparent = yes
+	}	
+
+	#need for all religion
+	spriteType = {
+		name = "muslim_CHURCH_ESTATE_2_eventPicture"
+		texturefile = "gfx/event_pictures/03_MENA/RELIGION/PRAYER/HOUR_OF_PRAYER_FARQUHARSON.dds"
+		allwaystransparent = yes
+	}	
+
+	#placeholders replace soon NO_UNIQUE_PICTURE_YET
+	spriteType = {
+		name = "orthodox_CHURCH_ESTATE_2_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/ORTHODOX_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "eastern_CHURCH_ESTATE_2_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_GOOD_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
 	spriteType = {
 		name = "CHURCH_ESTATE_UPSET_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_COS/CHURCH_ESTATE_UPSET_eventPicture.dds"
@@ -4177,7 +4369,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "muslimgfx_BANKRUPTCY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MUSLIM/BANKRUPTCY_eventPicture.dds"
+		texturefile = "gfx/event_pictures/THE_DOUBTFUL_COIN_LEWIS_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
@@ -8769,7 +8961,13 @@ spriteTypes = {
 	#muslim
 	spriteType = {
 		name = "muslim_BANKRUPTCY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MUSLIM/BANKRUPTCY_eventPicture.dds"
+		texturefile = "gfx/event_pictures/THE_DOUBTFUL_COIN_LEWIS_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "muslimgfx_BANKRUPTCY_eventPicture"
+		texturefile = "gfx/event_pictures/THE_DOUBTFUL_COIN_LEWIS_eventPicture.dds"
 		allwaystransparent = yes
 	}	
 
