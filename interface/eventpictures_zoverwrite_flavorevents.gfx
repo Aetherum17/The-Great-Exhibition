@@ -3738,6 +3738,12 @@ spriteTypes = {
         }
 
         spriteType = {
+            name = "flavor_fra.103_big_castle_eventPicture"
+            texturefile = "gfx/event_pictures/CHENONCEAU_MENAGER_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
             name = "flavor_fra.3105_ITALIAN_wars_eventPicture"
             texturefile = "gfx/event_pictures/01_WESTERN/LAND/FORTIFICATIONS/WILLIAM_SIEGE_NAMUR_WYCK.dds"
             allwaystransparent = yes
@@ -3900,7 +3906,11 @@ spriteTypes = {
             allwaystransparent = yes
         }
 
-
+        spriteType = {
+            name = "flavor_gbr.7_FUR_TRADE_eventPicture"
+            texturefile = "gfx/event_pictures/FUR_TRADE_USA_eventPicture.dds"
+            allwaystransparent = yes
+        }	
 
         spriteType = {
             name = "flavor_gen.1_MERCHANTS_TALKING_eventPicture"
@@ -6761,12 +6771,6 @@ spriteTypes = {
         }  
 
         spriteType = {
-            name = "flavor_daimyo.15_BATTLE_eventPicture"
-            texturefile = "gfx/event_pictures/SHIMABARA_REBELLION_YAMAMOTO_eventPicture.dds"
-            allwaystransparent = yes
-        }  
-
-        spriteType = {
             name = "flavor_daimyo.16_COURT_eventPicture"
             texturefile = "gfx/event_pictures/47_RONIN_ACTS_11_KUNIKIYO_eventPicture.dds"
             allwaystransparent = yes
@@ -7189,12 +7193,6 @@ spriteTypes = {
             texturefile = "gfx/event_pictures/RISE_OF_MARATHAS_SEATED_eventPicture.dds"
             allwaystransparent = yes
         } 
-        
-        spriteType = {
-            name = "india_mission_events.5_13_Maratha_Estate_eventPicture"
-            texturefile = "gfx/event_pictures/RISE_OF_MARATHAS_SEATED_eventPicture.dds"
-            allwaystransparent = yes
-        } 
                 
         spriteType = {
             name = "innovativeness_events.2_SCIENTISTS_eventPicture"
@@ -7241,12 +7239,6 @@ spriteTypes = {
         spriteType = {
             name = "maya_religion_events.13_HUMAN_SACRIFICE_eventPicture"
             texturefile = "gfx/event_pictures/IXTAB_eventPicture.dds"
-            allwaystransparent = yes
-        } 
-                
-        spriteType = {
-            name = "revolution.35_REVOLUTION_eventPicture"
-            texturefile = "gfx/event_pictures/NAPOLEONE_DI_BUONAPARTE_GERARD_eventPicture.dds"
             allwaystransparent = yes
         } 
                 
@@ -7307,12 +7299,6 @@ spriteTypes = {
         spriteType = {
             name = "flavor_nol.2_GOOD_WITH_MONARCH_eventPicture"
             texturefile = "gfx/event_pictures/EGFRID_TRUMPWINE_CUTHBERT_BELL_eventPicture.dds"
-            allwaystransparent = yes
-        } 
-        
-        spriteType = {
-            name = "flavor_nol.3_GOOD_WITH_MONARCH_eventPicture"
-            texturefile = "gfx/event_pictures/KING_ELLAS_RAGNAR_SONS_MALMSTROM_eventPicture.dds"
             allwaystransparent = yes
         } 
         

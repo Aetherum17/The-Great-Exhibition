@@ -2372,6 +2372,12 @@ spriteTypes = {
 	}	
 
 	spriteType = {
+		name = "CONQUEROR_eventPicture"
+		texturefile = "gfx/event_pictures/ENTRY_OF_MEHMED_CONSTANT_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
 		name = "CORSAIR_eventPicture"
 		texturefile = "gfx/event_pictures/DUSK_ON_GOLDEN_HORN_AYVAZOVSKY_eventPicture.dds"
 		allwaystransparent = yes
@@ -4364,12 +4370,6 @@ spriteTypes = {
 	spriteType = {
 		name = "muslimgfx_ACCUSATION_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_MUSLIM/ACCUSATION_eventPicture.dds"
-		allwaystransparent = yes
-	}
-
-	spriteType = {
-		name = "muslimgfx_BANKRUPTCY_eventPicture"
-		texturefile = "gfx/event_pictures/THE_DOUBTFUL_COIN_LEWIS_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
