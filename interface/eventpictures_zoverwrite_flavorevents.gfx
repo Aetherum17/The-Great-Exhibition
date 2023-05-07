@@ -1308,6 +1308,12 @@ spriteTypes = {
         }
 
         spriteType = {
+            name = "counts_feud.1_ROYAL_STRESS_eventPicture"
+            texturefile = "gfx/event_pictures/CHRISTIAN_II_EMPRISONED_IN_SMDERBORG_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
             name = "counts_feud.2_ANGRY_MOB_eventPicture"
             texturefile = "gfx/event_pictures/01_WESTERN/LAND/BATTLE/STENBOCK_SHEPHERDS_HELSINGBORG_ANKARCRONA.dds"
             allwaystransparent = yes
@@ -1552,7 +1558,7 @@ spriteTypes = {
     ########################################
 
         spriteType = {
-            name = "ming_crisis.3_CIVIL_WAR_eventPicture"
+            name = "ming_crisis.3_ANGRY_MOB_eventPicture"
             texturefile = "gfx/event_pictures/LI_ZECHENG_eventPicture.dds"
             allwaystransparent = yes
         }
@@ -2693,12 +2699,6 @@ spriteTypes = {
         spriteType = {
             name = "flavor_boh.6_INVENTION_eventPicture"
             texturefile = "gfx/event_pictures/TYCHO_BRAHE_PRAGUE_RUDOLPH_II_eventPicture.dds"
-            allwaystransparent = yes
-        }
-
-        spriteType = {
-            name = "flavor_boh.7_RELIGION_eventPicture"
-            texturefile = "gfx/event_pictures/HUSSITE_PREACH_eventPicture.dds"
             allwaystransparent = yes
         }
 
@@ -4136,7 +4136,7 @@ spriteTypes = {
         }
 
         spriteType = {
-            name = "flavor_hab.1008_LAND_MILITARY_eventPicture"
+            name = "flavor_hab.1008_MILITARY_CAMP_eventPicture"
             texturefile = "gfx/event_pictures/CHARLES_VIII_NAPOLI_CROWN_eventPicture.dds"
             allwaystransparent = yes
         }
@@ -4623,7 +4623,7 @@ spriteTypes = {
 
         # Elizabeth Bathory
         spriteType = {
-            name = "flavor_hun.8_RELIGION_eventPicture"
+            name = "flavor_hun.8_ANGRY_MOB_eventPicture"
             texturefile = "gfx/event_pictures/ELIZABETH_BATHORY_eventPicture.dds"
             allwaystransparent = yes
         }
@@ -5082,7 +5082,7 @@ spriteTypes = {
                 allwaystransparent = yes
             }
         spriteType = {
-                name = "flavor_jap.48_ELECTION_REPUBLICAN_eventPicture"
+                name = "flavor_jap.48_COURT_eventPicture"
                 texturefile = "gfx/event_pictures/SWORD_AND_LETTER_eventPicture.dds"
                 allwaystransparent = yes
             }
@@ -5156,13 +5156,13 @@ spriteTypes = {
         }
 
         spriteType = {
-            name = "flavor_kon.1_POPE_PREACHING_eventPicture"
+            name = "flavor_kon.1_RELIGION_eventPicture"
             texturefile = "gfx/event_pictures/MISSIONARIES_SON_OF_GOD_AFRICA_eventPicture.dds"
             allwaystransparent = yes
         }	
 
         spriteType = {
-            name = "flavor_kon.2_POPE_PREACHING_eventPicture"
+            name = "flavor_kon.2_RELIGION_eventPicture"
             texturefile = "gfx/event_pictures/MISSIONARIES_SON_OF_GOD_AFRICA_eventPicture.dds"
             allwaystransparent = yes
         }	
@@ -6237,7 +6237,7 @@ spriteTypes = {
             }       
                       
             spriteType = {
-                name = "hindu_events.50_BATTLE_eventPicture"
+                name = "hindu_events.50_ADVISOR_eventPicture"
                 texturefile = "gfx/event_pictures/BALA_eventPicture.dds"
                 allwaystransparent = yes
             }     
@@ -7080,7 +7080,7 @@ spriteTypes = {
         } 
         
         spriteType = {
-            name = "flavor_rus.2002_COURT_eventPicture"
+            name = "flavor_rus.2002_ICONS_IN_CHURCH_eventPicture"
             texturefile = "gfx/event_pictures/ENTRANCE_KIYV_IVASIUK_eventPicture.dds"
             allwaystransparent = yes
         } 
@@ -8454,7 +8454,7 @@ spriteTypes = {
         }    
 
         spriteType = {
-            name = "flavor_rus.17_DIPLOMACY_eventPicture"
+            name = "flavor_rus.17_ANGRY_MOB_eventPicture"
             texturefile = "gfx/event_pictures/CAPTURE_OF_CAUCASIAN_CHIEF_BRANDT_eventPicture.dds"
             allwaystransparent = yes
         }
@@ -8558,43 +8558,43 @@ spriteTypes = {
         }
 
         spriteType = {
-            name = "flavor_rus.1010_COURT_eventPicture"
+            name = "flavor_rus.1010_REFORM_eventPicture"
             texturefile = "gfx/event_pictures/PETER_KUSHEVSKY_eventPicture.dds"
             allwaystransparent = yes
         }    
 
         spriteType = {
-            name = "flavor_rus.1011_COURT_eventPicture"
+            name = "flavor_rus.1011_REFORM_eventPicture"
             texturefile = "gfx/event_pictures/LOUIS_XV_AND_PETER_THE_GREAT_HERSENT_eventPicture.dds"
             allwaystransparent = yes
         }    
 
         spriteType = {
-            name = "flavor_rus.1012_COURT_eventPicture"
+            name = "flavor_rus.1012_REFORM_eventPicture"
             texturefile = "gfx/event_pictures/PETER_REVIEWING_FRENCH_MILITARY_LESTANG_PARADE_eventPicture.dds"
             allwaystransparent = yes
         }    
 
         spriteType = {
-            name = "flavor_rus.1013_COURT_eventPicture"
+            name = "flavor_rus.1013_REFORM_eventPicture"
             texturefile = "gfx/event_pictures/PETER_AT_DEPTFORD_MACLISE_eventPicture.dds"
             allwaystransparent = yes
         }    
 
         spriteType = {
-            name = "flavor_rus.1014_COURT_eventPicture"
+            name = "flavor_rus.1014_REFORM_eventPicture"
             texturefile = "gfx/event_pictures/PETER_THE_GREAT_AT_VERSAILLES_eventPicture.dds"
             allwaystransparent = yes
         }  
 
         spriteType = {
-            name = "flavor_rus.1015_COURT_eventPicture"
+            name = "flavor_rus.1015_REFORM_eventPicture"
             texturefile = "gfx/event_pictures/THE_PIETER_AND_PAUL_STORCK_eventPicture.dds"
             allwaystransparent = yes
         }    
 
         spriteType = {
-            name = "flavor_rus.1016_COURT_eventPicture"
+            name = "flavor_rus.1016_REFORM_eventPicture"
             texturefile = "gfx/event_pictures/PETER_AND_HOLLAND_eventPicture.dds"
             allwaystransparent = yes
         }    
@@ -8607,7 +8607,7 @@ spriteTypes = {
         }
 
         spriteType = {
-            name = "flavor_rus.2001_COURT_eventPicture"
+            name = "flavor_rus.2001_BYZANTINE_EAGLE_eventPicture_eventPicture"
             texturefile = "gfx/event_pictures/HAGIA_SOPHIA_GASPARD_eventPicture.dds"
             allwaystransparent = yes
         }    
@@ -8923,6 +8923,12 @@ spriteTypes = {
         }
 
         spriteType = {
+            name = "flavor_swe.1_VASA_REFORMS_eventPicture"
+            texturefile = "gfx/event_pictures/GUSTAV_I_STATUE_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
             name = "flavor_swe.102_ANGRY_MOB_eventPicture"
             texturefile = "gfx/event_pictures/ENGELBREKT_AND_GORTZ_eventPicture.dds"
             allwaystransparent = yes
@@ -8989,7 +8995,13 @@ spriteTypes = {
             name = "flavor_swe.1628_SHIP_SAILING_eventPicture"
             texturefile = "gfx/event_pictures/VASA_SINKING_eventPicture.dds"
             allwaystransparent = yes
-        }    
+        }
+
+        spriteType = {
+            name = "flavor_swe.1628_FLAGSHIP_SUNK_eventPicture"
+            texturefile = "gfx/event_pictures/VASA_SINKING_eventPicture.dds"
+            allwaystransparent = yes
+        }   
 
         spriteType = {
             name = "flavor_swe.3282_ADVISOR_eventPicture"
@@ -10562,8 +10574,15 @@ spriteTypes = {
             texturefile = "gfx/event_pictures/EAST_VIEW_CAIRO_eventPicture.dds"
             allwaystransparent = yes
         }
+
+#Added another entry if CARAVAN_EVENT_Picture get corrected
         spriteType = {
             name = "mamluk_events.7_CARAVAN_EVENT_Picture"
+            texturefile = "gfx/event_pictures/HAJJ_PROCESSION_eventPicture.dds"
+            allwaystransparent = yes
+        }
+        spriteType = {
+            name = "mamluk_events.7_CARAVAN_eventPicture"
             texturefile = "gfx/event_pictures/HAJJ_PROCESSION_eventPicture.dds"
             allwaystransparent = yes
         }
@@ -10857,7 +10876,7 @@ spriteTypes = {
     ########################################
 
         spriteType = {
-            name = "muslim_piety.1_RELIGIOUS_TURMOIL_eventPicture"
+            name = "muslim_piety.1_STREET_SPEECH_eventPicture"
             texturefile = "gfx/event_pictures/FURNITURE_MAKER_eventPicture.dds"
             allwaystransparent = yes
         }
@@ -15032,6 +15051,8 @@ spriteTypes = {
             allwaystransparent = yes
         }
 
+#Added another entry if CARAVAN_EVENT_Picture get corrected
+
         spriteType = {
             name = "trade_policy_events.5_CARAVAN_EVENT_Picture"
             texturefile = "gfx/event_pictures/01_WESTERN/PEOPLE/REFUGEES/BEGGAR_ATTACK_POST_BURKEL.dds"
@@ -15039,7 +15060,19 @@ spriteTypes = {
         }
 
         spriteType = {
+            name = "trade_policy_events.5_CARAVAN_eventPicture"
+            texturefile = "gfx/event_pictures/01_WESTERN/PEOPLE/REFUGEES/BEGGAR_ATTACK_POST_BURKEL.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
             name = "trade_policy_events.6_CARAVAN_EVENT_Picture"
+            texturefile = "gfx/event_pictures/PEDDLERS_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "trade_policy_events.6_CARAVAN_eventPicture"
             texturefile = "gfx/event_pictures/PEDDLERS_eventPicture.dds"
             allwaystransparent = yes
         }
@@ -16263,12 +16296,6 @@ spriteTypes = {
         }
 
         spriteType = {
-            name = "5083_RELIGION_eventPicture"
-            texturefile = "gfx/event_pictures/01_WESTERN/SCIENCE/EXPERIMENTS/COLLAGE_DAVINCI_SKETCHES.dds"
-            allwaystransparent = yes
-        }	
-
-        spriteType = {
             name = "5083_ADVISOR_eventPicture"
             texturefile = "gfx/event_pictures/01_WESTERN/SCIENCE/EXPERIMENTS/COLLAGE_DAVINCI_SKETCHES.dds"
             allwaystransparent = yes
@@ -16569,6 +16596,12 @@ spriteTypes = {
             # Nzinga of Ndongo and Matamba
             spriteType = {
                 name = "women_history_events.19_wihgfx_FEMALE_RULER_eventPicture"
+                texturefile = "gfx/event_pictures/NZINGA_OF_NDONGO_AND_MATAMBA_COLOR_eventPicture.dds"
+                allwaystransparent = yes
+            }
+
+            spriteType = {
+                name = "women_history_events.19_NZINGHA_eventPicture"
                 texturefile = "gfx/event_pictures/NZINGA_OF_NDONGO_AND_MATAMBA_COLOR_eventPicture.dds"
                 allwaystransparent = yes
             }
@@ -17211,7 +17244,7 @@ spriteTypes = {
 		}
 
 		spriteType = {
-			name = "sikhism_flavor.8_ADVISOR_eventPicture"
+			name = "sikhism_flavor.8_NEW_HEIR_eventPicture"
 			texturefile = "gfx/event_pictures/GURU_HAR_KRISHAN_eventPicture.dds"
 			allwaystransparent = yes
 		}
