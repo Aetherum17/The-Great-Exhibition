@@ -3335,21 +3335,21 @@ spriteTypes = {
 	# }
 	
 	#Plague
-	# spriteType = {
-	# 	name = "east_asian_PLAGUE_eventPicture"
-	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/SUFFERING_CHINESE_VILLAGE_eventPicture.dds"
-	# 	allwaystransparent = yes
-	# }
-	# spriteType = {
-	# 	name = "shinto_PLAGUE_eventPicture"
-	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/SUFFERING_CHINESE_VILLAGE_eventPicture.dds"
-	# 	allwaystransparent = yes
-	# }
-	# spriteType = {
-	# 	name = "confucianism_PLAGUE_eventPicture"
-	# 	texturefile = "gfx/event_pictures/event_pictures_MOH/SUFFERING_CHINESE_VILLAGE_eventPicture.dds"
-	# 	allwaystransparent = yes
-	# }
+	spriteType = {
+		name = "east_asian_PLAGUE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_MOH/SUFFERING_CHINESE_VILLAGE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "shinto_PLAGUE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_MOH/SUFFERING_CHINESE_VILLAGE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "confucianism_PLAGUE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_MOH/SUFFERING_CHINESE_VILLAGE_eventPicture.dds"
+		allwaystransparent = yes
+	}
 	
 	
 	#City Development
@@ -6420,11 +6420,10 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_ASIAN/RELIGIOUS_CONVERSION_eventPicture.dds"
 	}
 
-	#was removed because of religion conflicts	
-	# spriteType = {
-	# 	name = "asiangfx_ANGRY_MOB_eventPicture"
-	# 	texturefile = "gfx/event_pictures/event_pictures_ASIAN/ANGRY_MOB_eventPicture.dds"
-	# }
+		spriteType = {
+		name = "asiangfx_ANGRY_MOB_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/ANGRY_MOB_eventPicture.dds"
+	}
 
 	#spriteType = {
 	#	name = "asiangfx_DEBATE_REPUBLICAN_eventPicture"

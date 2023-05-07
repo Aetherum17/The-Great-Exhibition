@@ -13421,9 +13421,16 @@ spriteTypes = {
             texturefile = "gfx/event_pictures/POPE_SELECTION_CARDINALS_eventPicture.dds"
             allwaystransparent = yes
         }
+		
+#PDX made a mistake, spelling "ebent". Next line is just in case they correct
 
         spriteType = {
             name = "canal_events.8_LIBERUM_VETO_ebentPicture"
+            texturefile = "gfx/event_pictures/01_WESTERN/PEOPLE/EMOTIONS/CARRYING_DRUNK_FRIEND_GOYA.dds"
+        }
+
+        spriteType = {
+            name = "canal_events.8_LIBERUM_VETO_eventPicture"
             texturefile = "gfx/event_pictures/01_WESTERN/PEOPLE/EMOTIONS/CARRYING_DRUNK_FRIEND_GOYA.dds"
         }
 
