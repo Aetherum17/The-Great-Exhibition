@@ -294,7 +294,7 @@ spriteTypes = {
             }
         spriteType = {
                 name = "china_events.53_ASSASSINATION_eventPicture"
-                texturefile = "gfx/event_pictures/CHINESE_ASSASSIN_eventpicture.dds"
+                texturefile = "gfx/event_pictures/05_SINO/PEOPLE/CRIME/RUTHLESS_CHINESE_ASSASSIN_LI.dds"
                 allwaystransparent = yes
             }
         spriteType = {
@@ -4131,13 +4131,13 @@ spriteTypes = {
 
         spriteType = {
             name = "flavor_hab.1008_ITALIAN_wars_eventPicture"
-            texturefile = "gfx/event_pictures/CHARLES_VIII_NAPOLI_CROWN_eventPicture.dds"
+            texturefile = "gfx/event_pictures/CHARLES_VIII_RECEIVES_CROWN_NAPOLI_eventPicture.dds"
             allwaystransparent = yes
         }
 
         spriteType = {
             name = "flavor_hab.1008_MILITARY_CAMP_eventPicture"
-            texturefile = "gfx/event_pictures/CHARLES_VIII_NAPOLI_CROWN_eventPicture.dds"
+            texturefile = "gfx/event_pictures/CHARLES_VIII_RECEIVES_CROWN_NAPOLI_eventPicture.dds"
             allwaystransparent = yes
         }
 
@@ -5018,7 +5018,7 @@ spriteTypes = {
             }
         spriteType = {
                 name = "flavor_jap.35_RELIGION_eventPicture"
-                texturefile = "gfx/event_pictures/CHRISTIAN_GRAVES_JAPAN_eventPicture.dds"
+                texturefile = "gfx/event_pictures/09_JAPONIC/RELIGION/DEATH/CHRISTIAN_GRAVES_JAPAN.dds"
                 allwaystransparent = yes
             }
         spriteType = {
@@ -9955,7 +9955,7 @@ spriteTypes = {
 
         spriteType = {#NO_UNIQUE_PICTURE_YET
             name = "flavor_zim.8_SONGHAI_eventPicture"
-            texturefile = "gfx/event_pictures/GOLDEN_JUNK_eventPicture.dds"
+            texturefile = "gfx/event_pictures/THE_GOLDEN_JUNK_BEAUMONT_eventPicture.dds"
             allwaystransparent = yes
         }
 
@@ -10776,7 +10776,7 @@ spriteTypes = {
         }
         spriteType = {
             name = "muslim_dlc.11_ADVISOR_eventPicture"
-            texturefile = "gfx/event_pictures/CELESTIAL_GLOBE_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/SCIENCE/CARTOGRAPHY/STILL_LIFE_GLOBE_LUYCKX.dds"
             allwaystransparent = yes
         }
         spriteType = {
@@ -14461,7 +14461,7 @@ spriteTypes = {
 
         spriteType = {# Good End of Quivira
             name = "seven_cities_events.222_INCA_CITY_eventPicture"
-            texturefile = "gfx/event_pictures/ETZANOA_LARGE_CITY_eventPicture.dds"
+            texturefile = "gfx/event_pictures/event_pictures_PARADISE/CITY_VIEW_eventPicture.dds"
             allwaystransparent = yes
         }
 
@@ -14491,7 +14491,7 @@ spriteTypes = {
 
         spriteType = {#  A Dog's Life
             name = "seven_cities_events.304_CONQUISTADORS_eventPicture"
-            texturefile = "gfx/event_pictures/CONQUISTADOR_DOG_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/PEOPLE/ANIMALS/BECERRILLO_WAR_DOG_RONDEAU.dds"
             allwaystransparent = yes
         }
 
@@ -14865,7 +14865,7 @@ spriteTypes = {
             }
         spriteType = {
                 name = "shinto_events.43_NEO_CONFUCIANISM_INCIDENT_eventPicture"
-                texturefile = "gfx/event_pictures/CATHOLIC_LEADER_AND_SAMURAI_eventPicture.dds"
+                texturefile = "gfx/event_pictures/09_JAPONIC/RELIGION/APOSTLES/SAMURAI_NAZARETH_TAKATO_YAMAMOTO.dds"
                 allwaystransparent = yes
             }
         spriteType = {

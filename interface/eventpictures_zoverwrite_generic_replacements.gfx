@@ -10078,7 +10078,7 @@ spriteTypes = {
 	#bavarian
 	spriteType = {
 		name = "bavarian_LAND_MILITARY_eventPicture"
-		texturefile = "gfx/event_pictures/BAVARIAN_ARMY_SIEGESTOR_eventPicture.dds"
+		texturefile = "gfx/event_pictures/01_WESTERN/LAND/WEAPONRY/BAVARIAN_FELDJAGER_TROOPS.dds"
 		allwaystransparent = yes
 	}
 
