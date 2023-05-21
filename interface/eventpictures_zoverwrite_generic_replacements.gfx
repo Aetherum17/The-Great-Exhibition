@@ -897,14 +897,6 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 
-
-		spriteType = {
-			name = "breton_CITY_VIEW_eventPicture"
-			texturefile = "gfx/event_pictures/WELCOME_TO_BREST_eventPicture.dds"
-			allwaystransparent = yes
-		}				
-
-
 	spriteType = {
 		name = "CIVIL_WAR_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_GE/CIVIL_WAR_eventPicture.dds"
@@ -3385,11 +3377,6 @@ spriteTypes = {
 	
 	#Colonization
 	spriteType = {
-		name = "east_asian_COLONIZATION_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_MOH/TRIBUTARY_FLEET_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	spriteType = {
 		name = "shinto_COLONIZATION_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_MOH/TRIBUTARY_FLEET_eventPicture.dds"
 		allwaystransparent = yes
@@ -3694,103 +3681,6 @@ spriteTypes = {
 		spriteType = {
 			name = "kyushuan_DIPLOMACY_eventPicture"
 			texturefile = "gfx/event_pictures/SHOGUNATE_AUTHORITY_INCIDENT_COLOR_eventPicture.dds"
-			allwaystransparent = yes
-		}	
-	#	
-	#east_asian
-	spriteType = {
-		name = "east_asian_DIPLOMACY_eventPicture"
-		texturefile = "gfx/event_pictures/PRESENTING_AN_ARGUMENT_CHINESE_UNKNOWN_eventPicture.dds"
-		allwaystransparent = yes
-	}
-
-		spriteType = {
-			name = "manchu_new_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/PRESENTING_AN_ARGUMENT_CHINESE_UNKNOWN_eventPicture.dds"
-			allwaystransparent = yes
-		}
-
-		spriteType = {
-			name = "chihan_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/PRESENTING_AN_ARGUMENT_CHINESE_UNKNOWN_eventPicture.dds"
-			allwaystransparent = yes
-		}
-
-		spriteType = {
-			name = "cantonese_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/PRESENTING_AN_ARGUMENT_CHINESE_UNKNOWN_eventPicture.dds"
-			allwaystransparent = yes
-		}
-		
-		spriteType = {
-			name = "jin_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/PRESENTING_AN_ARGUMENT_CHINESE_UNKNOWN_eventPicture.dds"
-			allwaystransparent = yes
-		}		
-
-		spriteType = {
-			name = "wu_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/PRESENTING_AN_ARGUMENT_CHINESE_UNKNOWN_eventPicture.dds"
-			allwaystransparent = yes
-		}
-
-		spriteType = {
-			name = "chimin_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/PRESENTING_AN_ARGUMENT_CHINESE_UNKNOWN_eventPicture.dds"
-			allwaystransparent = yes
-		}
-		
-		spriteType = {
-			name = "hakka_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/PRESENTING_AN_ARGUMENT_CHINESE_UNKNOWN_eventPicture.dds"
-			allwaystransparent = yes
-		}
-
-		spriteType = {
-			name = "gan_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/PRESENTING_AN_ARGUMENT_CHINESE_UNKNOWN_eventPicture.dds"
-			allwaystransparent = yes
-		}
-
-		spriteType = {
-			name = "xiang_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/PRESENTING_AN_ARGUMENT_CHINESE_UNKNOWN_eventPicture.dds"
-			allwaystransparent = yes
-		}
-		
-		spriteType = {
-			name = "sichuanese_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/PRESENTING_AN_ARGUMENT_CHINESE_UNKNOWN_eventPicture.dds"
-			allwaystransparent = yes
-		}
-
-		spriteType = {
-			name = "jianghuai_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/PRESENTING_AN_ARGUMENT_CHINESE_UNKNOWN_eventPicture.dds"
-			allwaystransparent = yes
-		}
-
-		spriteType = {
-			name = "xibei_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/PRESENTING_AN_ARGUMENT_CHINESE_UNKNOWN_eventPicture.dds"
-			allwaystransparent = yes
-		}
-		
-		spriteType = {
-			name = "hubei_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/PRESENTING_AN_ARGUMENT_CHINESE_UNKNOWN_eventPicture.dds"
-			allwaystransparent = yes
-		}
-
-		spriteType = {
-			name = "zhongyuan_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/PRESENTING_AN_ARGUMENT_CHINESE_UNKNOWN_eventPicture.dds"
-			allwaystransparent = yes
-		}
-
-		spriteType = {
-			name = "shandong_culture_DIPLOMACY_eventPicture"
-			texturefile = "gfx/event_pictures/PRESENTING_AN_ARGUMENT_CHINESE_UNKNOWN_eventPicture.dds"
 			allwaystransparent = yes
 		}
 
@@ -4990,15 +4880,7 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_TR/ENTERING_MOSCOW_eventPicture.dds"
 		allwaystransparent = yes
 	}
-	
-	
-	#City View
-	spriteType = {
-		name = "east_slavic_CITY_VIEW_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_TR/ENTERING_MOSCOW_eventPicture.dds"
-		allwaystransparent = yes
-	}
-		
+
 	#Diplomacy
 	spriteType = {
 		name = "east_slavic_DIPLOMACY_eventPicture"
@@ -5059,13 +4941,6 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 	
-	#Assasination
-	spriteType = {
-		name = "east_slavic_ASSASSINATION_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_TR/OPRICHINA_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	
 	#Accusation
 	spriteType = {
 		name = "east_slavic_ACCUSATION_eventPicture"
@@ -5096,13 +4971,6 @@ spriteTypes = {
 	spriteType = {
 		name = "east_slavic_FORT_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_TR/KREMLIN_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	
-	#Battle
-	spriteType = {
-		name = "east_slavic_BATTLE_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_TR/STRELTSY_MARCHING_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
@@ -6038,11 +5906,6 @@ spriteTypes = {
 	spriteType = {
 		name = "asiangfx_BATTLE_eventPicture"
 		texturefile = "gfx/event_pictures/KHMER_CHAMPA_WAR_CARNAGE_eventPicture.dds"
-	}
-
-	spriteType = {
-		name = "asiangfx_CITY_DEVELOPMENT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_ASIAN/CITY_DEVELOPMENT_eventPicture.dds"
 	}
 
 	#spriteType = {
@@ -8178,15 +8041,15 @@ spriteTypes = {
 	#
 
 	#korean_g
-	spriteType = {#Not Korean, replace when possible
+	spriteType = {
 		name = "korean_g_COURT_eventPicture"
-		texturefile = "gfx/event_pictures/GYEONGBOKGUNG_OUTSIDE_eventPicture.dds"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/COURT_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
-		spriteType = {#Not Korean, replace when possible
+		spriteType = {
 			name = "korean_COURT_eventPicture"
-			texturefile = "gfx/event_pictures/GYEONGBOKGUNG_OUTSIDE_eventPicture.dds"
+			texturefile = "gfx/event_pictures/event_pictures_ASIAN/COURT_eventPicture.dds"
 			allwaystransparent = yes
 		}
 	#
@@ -9448,13 +9311,6 @@ spriteTypes = {
 		name = "asiangfx_DIPLOMACY_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_MOH/GIFTS_TO_EMPEROR_eventPicture.dds"
 		allwaystransparent = yes
-	}	
-
-	#Diplomacy
-	spriteType = {
-		name = "east_asian_DIPLOMACY_eventPicture"
-		texturefile = "gfx/event_pictures/HAN_AND_XIONGNU_MEETING_eventPicture.dds"
-		allwaystransparent = yes
 	}
 	spriteType = {
 		name = "shinto_DIPLOMACY_eventPicture"
@@ -10596,20 +10452,6 @@ spriteTypes = {
 	#vajrayana
 	spriteType = {#no asiangfx (indiangfx replaces in India)
 		name = "vajrayana_IMPORTANT_STATUE_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_GOOD_eventPicture.dds"
-		allwaystransparent = yes
-	}
-
-	#confucianism
-	spriteType = {#no asiangfx (indiangfx replaces in India)
-		name = "confucianism_IMPORTANT_STATUE_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_GOOD_eventPicture.dds"
-		allwaystransparent = yes
-	}
-
-	#shinto
-	spriteType = {#no asiangfx (indiangfx replaces in India)
-		name = "shinto_IMPORTANT_STATUE_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_CS/BUDDHISM_GOOD_eventPicture.dds"
 		allwaystransparent = yes
 	}

@@ -3870,7 +3870,7 @@ spriteTypes = {
         }
 
         spriteType = {
-            name = "flavor_fra.206_wihgfx_FEMALE_GENERAL_eventPicture_eventPicture"
+            name = "flavor_fra.206_wihgfx_FEMALE_GENERAL_eventPicture"
             texturefile = "gfx/event_pictures/JOAN_OF_ARC_eventPicture.dds"
             allwaystransparent = yes
         }
@@ -4044,11 +4044,21 @@ spriteTypes = {
             allwaystransparent = yes
         }
 
+
+
         spriteType = {
             name = "flavor_gbr.7_FUR_TRADE_eventPicture"
             texturefile = "gfx/event_pictures/FUR_TRADE_USA_eventPicture.dds"
             allwaystransparent = yes
         }	
+
+        spriteType = {
+            name = "flavor_gbr.10_MERCHANTS_ARGUING_eventPicture"
+            texturefile = "gfx/event_pictures/01_WESTERN/GOVERNMENT/FOUNDING/SHAH_GRANT_DIWANI_WEST.dds"
+            allwaystransparent = yes
+        }	
+
+
 
         spriteType = {
             name = "flavor_gen.1_MERCHANTS_TALKING_eventPicture"
@@ -8765,7 +8775,7 @@ spriteTypes = {
         }
 
         spriteType = {
-            name = "flavor_rus.2001_BYZANTINE_EAGLE_eventPicture_eventPicture"
+            name = "flavor_rus.2001_BYZANTINE_EAGLE_eventPicture"
             texturefile = "gfx/event_pictures/HAGIA_SOPHIA_GASPARD_eventPicture.dds"
             allwaystransparent = yes
         }    
@@ -12435,7 +12445,7 @@ spriteTypes = {
                 allwaystransparent = yes
             }		
         spriteType = {
-                name = "1022_ELECTION_LIBERUM_VETO_eventPicture"
+                name = "1022_LIBERUM_VETO_eventPicture"
                 texturefile = "gfx/event_pictures/THE_BOSTON_TEA_PARTY_MORAN_eventPicture.dds"
                 allwaystransparent = yes
             }
@@ -16154,13 +16164,7 @@ spriteTypes = {
         #new
 
         #vietnamese
-
-
-        spriteType = {
-            name = "africangfx_ADVISOR_eventPicture"
-            texturefile = "gfx/event_pictures/MOSTAERT_AFRICAN_PORTRAIT_eventPicture.dds"
-            allwaystransparent = yes
-        }		
+	
 
         spriteType = {
             name = "fetishist_flavor.1_FETISHIST_FIRE_eventPicture"
