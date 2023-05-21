@@ -3738,8 +3738,140 @@ spriteTypes = {
         }
 
         spriteType = {
+            name = "flavor_fra.100_GOOD_WITH_MONARCH_eventPicture"
+            texturefile = "gfx/event_pictures/COUNCIL_ELROND_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.102_HRE_eventPicture"
+            texturefile = "gfx/event_pictures/REICHSKRONE_KLEIST_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
             name = "flavor_fra.103_big_castle_eventPicture"
             texturefile = "gfx/event_pictures/CHENONCEAU_MENAGER_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.105_wihgfx_FEMALE_RULER_eventPicture"
+            texturefile = "gfx/event_pictures/QUEEN_ELEANOR_SANDYS_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.106_DIPLOMACY_eventPicture"
+            texturefile = "gfx/event_pictures/DONATION_PROVENCE_FORBIN_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.109_MONARCH_CHILD_WITH_REGENT_eventPicture"
+            texturefile = "gfx/event_pictures/FRANCOIS_I_BAYARD_DUCIS_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.112_RELIGION_eventPicture"
+            texturefile = "gfx/event_pictures/CAPTURE_OF_MALTA_ADAM_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.113_DIPLOMACY_eventPicture"
+            texturefile = "gfx/event_pictures/ENTRY_OF_CHARLES_VIII_NAPLES_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.114_CONQUEST_eventPicture"
+            texturefile = "gfx/event_pictures/BATTLE_DENAIN_VILLARS_ALAUX_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.115_POPE_PREACHING_eventPicture"
+            texturefile = "gfx/event_pictures/MEETING_SAINT_LOUIS_INNOCENT_IV_LAGRENEE_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.116_DEBATE_REPUBLICAN_eventPicture"
+            texturefile = "gfx/event_pictures/MEETING_SAINT_LOUIS_INNOCENT_IV_LAGRENEE_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.117_RELIGIOUS_CONVERSION_eventPicture"
+            texturefile = "gfx/event_pictures/MEETING_SAINT_LOUIS_INNOCENT_IV_LAGRENEE_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.118_CULTURE_eventPicture"
+            texturefile = "gfx/event_pictures/LULLY_OPERA_AUBIN_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.119_ECONOMY_eventPicture"
+            texturefile = "gfx/event_pictures/LOUIS_XIV_DOGE_LERCARI_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.120_PRINCE_BISHOP_eventPicture"
+            texturefile = "gfx/event_pictures/MEETING_SAINT_LOUIS_INNOCENT_IV_LAGRENEE_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.121_HRE_eventPicture"
+            texturefile = "gfx/event_pictures/CHARLEMAGNE_VISITING_SCHOOL_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.200_CONQUEST_eventPicture"
+            texturefile = "gfx/event_pictures/CHARLEMAGNE_WIDIKUND_SUBMISSION_PADERBORN_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.201_HRE_eventPicture"
+            texturefile = "gfx/event_pictures/CORONATION_CHARLEMAGNE_MUNCHEN_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.202_HARBOUR_eventPicture"
+            texturefile = "gfx/event_pictures/NAVAL_MANEUVERS_TOULON_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.203_HARBOUR_eventPicture"
+            texturefile = "gfx/event_pictures/ARRIVAL_LOUIS_ENGLAND_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.204_GREAT_BUILDING_eventPicture"
+            texturefile = "gfx/event_pictures/SORBONNE_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.205_RELIGIOUS_WARS_eventPicture"
+            texturefile = "gfx/event_pictures/event_pictures_TGE_EXTENDED/CRUSADE_BATTLE_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_fra.206_wihgfx_FEMALE_GENERAL_eventPicture_eventPicture"
+            texturefile = "gfx/event_pictures/JOAN_OF_ARC_eventPicture.dds"
             allwaystransparent = yes
         }
 
@@ -3999,6 +4131,26 @@ spriteTypes = {
         spriteType = {
             name = "flavor_gen.15_MERCHANTS_TALKING_eventPicture"
             texturefile = "gfx/event_pictures/GENOESE_FORTRESS_CRIMEA_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+
+
+        spriteType = {
+            name = "flavor_got.15_COURT_eventPicture"
+            texturefile = "gfx/event_pictures/ERIC_OF_POMERANIA_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_got.37_DEATH_OF_HEIR_eventPicture"
+            texturefile = "gfx/event_pictures/ERIC_OF_POMERANIA_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_got.38_SMUGGLERS_eventPicture"
+            texturefile = "gfx/event_pictures/ERIC_OF_POMERANIA_eventPicture.dds"
             allwaystransparent = yes
         }
 
@@ -9511,9 +9663,34 @@ spriteTypes = {
             texturefile = "gfx/event_pictures/TURKISH_BECOME_JANISSARIES_DECLINE_eventPicture.dds"
             allwaystransparent = yes
         }
+
         spriteType = {
             name = "flavor_tur.108_MILITARY_CAMP_eventPicture"
             texturefile = "gfx/event_pictures/03_MENA/LAND/FORTIFICATIONS/FORTRESS_WALLS_ENTER_VERESHCHAGIN.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_tur.240_COUNTRY_COLLAPSE_eventPicture"
+            texturefile = "gfx/event_pictures/MARJ_DABIQ_OTTOMAN_MAMLUK_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_tur.241_COUNTRY_COLLAPSE_eventPicture"
+            texturefile = "gfx/event_pictures/MARJ_DABIQ_OTTOMAN_MAMLUK_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_tur.242_COUNTRY_COLLAPSE_eventPicture"
+            texturefile = "gfx/event_pictures/MARJ_DABIQ_OTTOMAN_MAMLUK_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_tur.244_PASHAS_eventPicture"
+            texturefile = "gfx/event_pictures/MARJ_DABIQ_OTTOMAN_MAMLUK_eventPicture.dds"
             allwaystransparent = yes
         }
 
@@ -10208,7 +10385,7 @@ spriteTypes = {
         }
         spriteType = {
             name = "harem_events.23_MILITARISTICALLY_TALENTED_RULER_eventPicture"
-            texturefile = "gfx/event_pictures/ISMAIL_SHAH_TABRIZ_eventPicture.dds"
+            texturefile = "gfx/event_pictures/03_MENA/PEOPLE/ELITE/CHESS_GAME_ORIENTAL_DEUTSCH.dds"
             allwaystransparent = yes
         }
         spriteType = {
@@ -13413,6 +13590,12 @@ spriteTypes = {
         spriteType = {
             name = "emp_mission_events.6_COUNTRY_COLLAPSE_eventPicture"
             texturefile = "gfx/event_pictures/FIRE_MOSCOW_VIKTOR_MAZUROVKSY_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "emp_mission_events.7_GOOD_WITH_MONARCH_eventPicture"
+            texturefile = "gfx/event_pictures/COUNCIL_ELROND_eventPicture.dds"
             allwaystransparent = yes
         }
 

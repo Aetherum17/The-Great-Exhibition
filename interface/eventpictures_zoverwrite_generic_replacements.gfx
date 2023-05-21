@@ -6913,11 +6913,17 @@ spriteTypes = {
 			name = "japanese_g_wihgfx_FEMALES_eventPicture"
 			texturefile = "gfx/event_pictures/GORANAV_JAPANESE_WOMAN_eventPicture.dds"
 			allwaystransparent = yes
-		}	
+		}
 
 		spriteType = {
 			name = "japanese_g_wihgfx_FEMALE_GENERAL_eventPicture"
 			texturefile = "gfx/event_pictures/ONNA_BUSHI_KABUKI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "japanese_g_wihgfx_FEMALE_SIEGE_eventPicture"
+			texturefile = "gfx/event_pictures/SUBJUGATION_KAGOSHIMA_YOSHITOSHI_eventPicture.dds"
 			allwaystransparent = yes
 		}
 
