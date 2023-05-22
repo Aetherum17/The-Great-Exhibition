@@ -3871,7 +3871,7 @@ spriteTypes = {
 
         spriteType = {
             name = "flavor_fra.206_wihgfx_FEMALE_GENERAL_eventPicture"
-            texturefile = "gfx/event_pictures/JOAN_OF_ARC_eventPicture.dds"
+            texturefile = "gfx/event_pictures/event_pictures_SAFFRON/JOAN_OF_ARC_eventPicture.dds"
             allwaystransparent = yes
         }
 
