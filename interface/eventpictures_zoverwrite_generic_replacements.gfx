@@ -10898,7 +10898,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "HEIR_EDUCATION_eventPicture"
-		texturefile = "gfx/event_pictures/EDUCATION_JOHN_OF_ASTURIA_eventPicture.dds"
+		texturefile = "gfx/event_pictures/01_WESTERN/PEOPLE/CHILDREN/DON_JUAN_EDUCATION_CUBELLS.dds"
 		allwaystransparent = yes
 	}
 

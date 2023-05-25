@@ -4299,13 +4299,13 @@ spriteTypes = {
 
         spriteType = {
             name = "flavor_hab.1008_ITALIAN_wars_eventPicture"
-            texturefile = "gfx/event_pictures/CHARLES_VIII_RECEIVES_CROWN_NAPOLI_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/LAND/BATTLE/BATTLE_CROWN_NAPOLI_BASSANO.dds"
             allwaystransparent = yes
         }
 
         spriteType = {
             name = "flavor_hab.1008_MILITARY_CAMP_eventPicture"
-            texturefile = "gfx/event_pictures/CHARLES_VIII_RECEIVES_CROWN_NAPOLI_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/LAND/BATTLE/BATTLE_CROWN_NAPOLI_BASSANO.dds"
             allwaystransparent = yes
         }
 
@@ -13567,13 +13567,13 @@ spriteTypes = {
 
         spriteType = {
             name = "italian_wars.1_ITALIAN_wars_eventPicture"
-            texturefile = "gfx/event_pictures/CHARLES_VIII_RECEIVES_CROWN_NAPOLI_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/LAND/BATTLE/BATTLE_CROWN_NAPOLI_BASSANO.dds"
             allwaystransparent = yes
         }
 
         spriteType = {
             name = "italian_wars.1_MILITARY_CAMP_eventPicture"
-            texturefile = "gfx/event_pictures/CHARLES_VIII_RECEIVES_CROWN_NAPOLI_eventPicture.dds"
+            texturefile = "gfx/event_pictures/01_WESTERN/LAND/BATTLE/BATTLE_CROWN_NAPOLI_BASSANO.dds"
             allwaystransparent = yes
         }
 
