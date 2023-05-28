@@ -1028,7 +1028,7 @@ spriteTypes = {
 			name = "breton_DEATH_OF_HEIR_eventPicture"
 			texturefile = "gfx/event_pictures/ST_DENIS_BASILIQUE_eventPicture.dds"
 			allwaystransparent = yes
-		}						
+		}
 	
 	spriteType = {
 		name = "DEBATE_REPUBLICAN_eventPicture"
@@ -1213,6 +1213,12 @@ spriteTypes = {
 
 	spriteType = {
 		name = "INDUSTRIALIZATION_eventPicture"
+		texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/URBAN/FURNACES_INDUSTRIAL_LONDON_HOUEDE.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = { #necessary for innovativeness_events.14 mistake
+		name = "INDUSTRIALIZATION_eventPictures"
 		texturefile = "gfx/event_pictures/01_WESTERN/ECONOMY/URBAN/FURNACES_INDUSTRIAL_LONDON_HOUEDE.dds"
 		allwaystransparent = yes
 	}
@@ -1604,6 +1610,24 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_GE/TOURNAMENT_eventPicture.dds"
 		allwaystransparent = yes
 	}
+
+	spriteType = {
+		name = "french_TOURNAMENT_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_FLAVOR_UNIVERSALIS/tournament_book_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+		spriteType = {
+			name = "british_TOURNAMENT_eventPicture"
+			texturefile = "gfx/event_pictures/QUEEN_TOURNAMENT_IVANHOE_TOPHAM_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "germanic_TOURNAMENT_eventPicture"
+			texturefile = "gfx/event_pictures/JOUSTING_PAULUS_MAIR_eventPicture.dds"
+			allwaystransparent = yes
+		}
 
 	spriteType = {
 		name = "westerngfx_TRADEGOODS_eventPicture"

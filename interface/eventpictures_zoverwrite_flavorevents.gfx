@@ -3538,7 +3538,7 @@ spriteTypes = {
         }
         spriteType = {
             name = "flavor_eng.9114_COURT_eventPicture"
-            texturefile = "gfx/event_pictures/01_WESTERN/PEOPLE/PORTRAITS/MARY_TUDOR_QUEEN_MOR.dds"
+            texturefile = "gfx/event_pictures/PHILIP_II_BLOODY_MARY_HEER_eventPicture.dds"
             allwaystransparent = yes
         }
         spriteType = {
@@ -4047,16 +4047,94 @@ spriteTypes = {
 
 
         spriteType = {
+            name = "flavor_gbr.1_SIEGE_eventPicture"
+            texturefile = "gfx/event_pictures/BATTLE_POITIERS_DELACROIX_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.2_DIPLOMACY_eventPicture"
+            texturefile = "gfx/event_pictures/ORKNEY_SHETLAND_ATLAS_BLAEU_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.3_DIPLOMACY_eventPicture"
+            texturefile = "gfx/event_pictures/ORKNEY_SHETLAND_ATLAS_BLAEU_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.4_MERCHANTS_TALKING_eventPicture"
+            texturefile = "gfx/event_pictures/ORKNEY_SHETLAND_ATLAS_BLAEU_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.5_MERCHANTS_ARGUING_eventPicture"
+            texturefile = "gfx/event_pictures/ORKNEY_SHETLAND_ATLAS_BLAEU_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.6_GOOD_WITH_MONARCH_eventPicture"
+            texturefile = "gfx/event_pictures/IRISH_HOUSE_COMMONS_WHEATLEY_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
             name = "flavor_gbr.7_FUR_TRADE_eventPicture"
             texturefile = "gfx/event_pictures/FUR_TRADE_USA_eventPicture.dds"
             allwaystransparent = yes
-        }	
+        }
 
         spriteType = {
             name = "flavor_gbr.10_MERCHANTS_ARGUING_eventPicture"
             texturefile = "gfx/event_pictures/01_WESTERN/GOVERNMENT/FOUNDING/SHAH_GRANT_DIWANI_WEST.dds"
             allwaystransparent = yes
-        }	
+        }
+
+        spriteType = {
+            name = "flavor_gbr.101_wihgfx_FEMALE_RULER_eventPicture"
+            texturefile = "gfx/event_pictures/01_WESTERN/SCIENCE/EXPERIMENTS/DEE_EXPERIMENT_ELIZABETH_GLINDONI.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.102_HENRY_eventPicture"
+            texturefile = "gfx/event_pictures/CORONATION_WILLIAM_III_ROCHUSSEN_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.103_RELIGIOUS_WARS_eventPicture"
+            texturefile = "gfx/event_pictures/MARTYRDOM_ABBOT_READING_MORLEY_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.104_CHURCH_ESTATE_UPSET_eventPicture"
+            texturefile = "gfx/event_pictures/KING_MONK_SIMMONDS_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.105_ECONOMY_eventPicture"
+            texturefile = "gfx/event_pictures/DISSOLUTION_MONASTERIES_PETTS_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.114_wihgfx_FEMALE_RULER_eventPicture"
+            texturefile = "gfx/event_pictures/01_WESTERN/PEOPLE/PORTRAITS/MARY_TUDOR_QUEEN_MOR.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.115_TOURNAMENT_eventPicture"
+            texturefile = "gfx/event_pictures/KNIGHTS_ROUND_TABLE_DEPART_DYCE_eventPicture.dds"
+            allwaystransparent = yes
+        }
 
 
 
@@ -8829,7 +8907,7 @@ spriteTypes = {
         }
         spriteType = {
             name = "flavor_sco.5_REFORM_eventPicture"
-            texturefile = "gfx/event_pictures/SINGING_NATIONAL_COVENANT_EDINBURGH_eventPicture.dds"
+            texturefile = "gfx/event_pictures/SCOTTISH_SIGNING_OF_NATIONAL_CONVENTION_eventPicture.dds"
             allwaystransparent = yes
         }
         spriteType = {
@@ -14545,6 +14623,13 @@ spriteTypes = {
         spriteType = {
             name = "order_events.1_ENCOMIENDA_eventPicture"
             texturefile = "gfx/event_pictures/COLUMBUS_COURT_CATHOLIC_MONARCHS_CORDERO_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+
+        spriteType = {
+            name = "exploration_events.7_HUNTER_GATHERERS_eventPicture"
+            texturefile = "gfx/event_pictures/01_WESTERN/COLONIZATION/EXPLORATION/PEACEFUL_KINGDOM_ANDREAS_ROCHA.dds"
             allwaystransparent = yes
         }
 
