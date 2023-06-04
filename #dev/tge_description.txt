@@ -2,45 +2,49 @@
 
 [h1]Description:[/h1]
 
-This modification adds many new pictures to events that change depending on your culture, religion or location. It is based on the Vanilla'd - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=943561459]The Grand Exhibition[/url] - made by Tinholt. However, since he decided to leave the modding scene, further development of his project will take place on this page. I originally picked this mod since no one was updating it for 1.30, as I enjoyed it a lot while playing my pre 1.30 games with it. Hope you will like it too now! 
+The Great Exhibition Mod adds many new pictures to events. The images dynamically change depending on your culture, religion or location, providing unique flavour for your games. The mod is based on another modification, the Vanilla'd - The Grand Exhibition, made by Tinholt. However, since he decided to leave the modding scene, further development of his project will take place on this page. Originally, TGE was updated by Aetherum since no one else was interested in updating the mod for the 1.30 version of the vanilla game. However, now a group of talented modders, which names you can see in the Credits section, is also working on this project, constantly introducing new content. We do hope that this mod becomes one of your favourite ones, as it becomes for its developers!
 _______________________________________________________________
 
 [h1]Features:[/h1]
 
-1) Doesn't change Checksum, Save-Games, Anything gameplay related.
-2) Changes 2000+ event pictures (all Modules combined).
+1) IRONMAN Compatible: Doesn't change Checksum, Save-Games, Anything gameplay related.
+2) Changes 4000+ event pictures
 3) Increases the size of the Event pictures.
 4) Provide you with range of artwork to gaze at, representing artists from Rembrandt to Hokusai.
-5) Culture Specific Event Pictures, that change depending on which nation you play. 
+5) Culture and Religion Specific Event Pictures that change depending on the nation you're playing. 
 _______________________________________________________________
 
 [h1]Follow The Great Exhibition:[/h1]
 
 [url=https://discord.gg/bGVcZyK]DISCORD + Trouble Shooting Instructions[/url]
+
+[url=https://www.reddit.com/r/TheGreatExhibitionMod/]Reddit[/url]
+
+[url=https://forum.paradoxplaza.com/forum/threads/mod-the-great-exhibition.1512273/#post-28579489]Paradox Forums[/url]
 _______________________________________________________________
 
-[h1]If you find a bug - write about it - I'll try to fix the problem in the shortest possible time.[/h1]
+[h1]If you find a bug, report it on our Discord or/and here, we'll try to fix the problem as soon as possible. Precise, if you please, your game version, mod config, country, and religion. You also can provide us a screenshot.[/h1]
 _______________________________________________________________
 
 [h1]Credits:[/h1]
 
 - [url=https://steamcommunity.com/id/Tinholt]Tinholt[/url]  for creating the Vanilla'd - The Grand Exhibition.
-- [url=https://steamcommunity.com/id/snaekomu]Kami[/url]  for helping us automate the event data and some of the scripting. 
-- La Mancha for developing the Great Exhibition.
-- [url=https://steamcommunity.com/profiles/76561197978644420]Ernesttico[/url] for help with the project.
+- [url=https://steamcommunity.com/id/snaekomu]Kami[/url]  for helping us automate the event data and some of the scripting.
+- [url=https://steamcommunity.com/id/Firerozes/]Firerozes[/url] for help with the project.
+- [url=https://steamcommunity.com/profiles/76561197978644420]ernesttico[/url] for help with the project.
+- Doan for help with the project.
 - (ReaPeR2039) for help with the project.
 - [url=https://steamcommunity.com/id/Uberepiczach]UberEpicZach[/url] for help with the project.
 - Shwartz99 for help with the project.
-- Doan for help with the project.
 _______________________________________________________________
 
-[h1]See other mods for Europa Universalis 4:[/h1]
+[h1]See other Aetherum's mods for Europa Universalis 4:[/h1]
 
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1449952810]Elder Scrolls Universalis[/url] 
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1796527319]World of Warcraft Universalis[/url] 
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1351632822]Gameplay Extension[/url]
 _______________________________________________________________
 
-[i]I hope that you will like the result of my labors, that you will spend your time well and will discover this magnificent game from the new side![/i]
+[i]We hope that you will like the result of our labor, that you will have a good time and that you will discover this magnificent game from another point of view ![/i]
 
-[h1]And do not forget to put the likes, to add mod to favorites and to tell friends about it![/h1]
+[h1]Do not forget to leave us a like, to add the mod to your favorites and to tell friends about it ![/h1]
