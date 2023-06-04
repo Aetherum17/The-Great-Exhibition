@@ -4095,6 +4095,30 @@ spriteTypes = {
         }
 
         spriteType = {
+            name = "flavor_gbr.12_THEATRE_eventPicture"
+            texturefile = "gfx/event_pictures/ELIZABETH_GLOBE_THEATRE_SCOTT_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.15_ADVISOR_eventPicture"
+            texturefile = "gfx/event_pictures/SOMERSET_CONFERENCE_CRUZ_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.16_ELECTION_REPUBLICAN_eventPicture"
+            texturefile = "gfx/event_pictures/SOMERSET_CONFERENCE_CRUZ_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.23_GOOD_WITH_MONARCH_eventPicture"
+            texturefile = "gfx/event_pictures/ENGLAND_SPAIN_COAT_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
             name = "flavor_gbr.101_wihgfx_FEMALE_RULER_eventPicture"
             texturefile = "gfx/event_pictures/01_WESTERN/SCIENCE/EXPERIMENTS/DEE_EXPERIMENT_ELIZABETH_GLINDONI.dds"
             allwaystransparent = yes
@@ -4133,6 +4157,42 @@ spriteTypes = {
         spriteType = {
             name = "flavor_gbr.115_TOURNAMENT_eventPicture"
             texturefile = "gfx/event_pictures/KNIGHTS_ROUND_TABLE_DEPART_DYCE_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.118_REVOLUTION_eventPicture"
+            texturefile = "gfx/event_pictures/FIFTH_MONARCHY_ASPINWALL_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.119_RELIGIOUS_TURMOIL_eventPicture"
+            texturefile = "gfx/event_pictures/FIFTH_MONARCHY_ASPINWALL_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.120_PANIC_eventPicture"
+            texturefile = "gfx/event_pictures/FIFTH_MONARCHY_ASPINWALL_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.120_COMET_SIGHTED_eventPicture"
+            texturefile = "gfx/event_pictures/FIFTH_MONARCHY_ASPINWALL_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.122_HENRY_eventPicture"
+            texturefile = "gfx/event_pictures/01_WESTERN/RELIGION/SCHISM/LUTHER_POSTING_THESES_PAUWELS.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.199_GOOD_WITH_MONARCH_eventPicture"
+            texturefile = "gfx/event_pictures/COURSE_EMPIRE_CONSUMMATION_COLE_eventPicture.dds"
             allwaystransparent = yes
         }
 
