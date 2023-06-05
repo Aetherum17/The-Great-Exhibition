@@ -1,0 +1,52 @@
+———————————— Mod The Great Exhibition pour Europa Universalis 4 ———————————
+
+[h1]Description :[/h1]
+
+Ce mod ajoute de nombreuses nouvelles images aux événements, variant en fonction de la culture, de la religion et de la zone géographique. Il est basé sur "The Grand Exhibition", de Tinholt. Cependant, comme il avait décidé de quitter le monde du modding, les développements ultérieurs de son projet auront lieu sur cette page. Aetherum a initialement repris ce mod car personne ne le mettait à jour pour la version 1.30 du jeu de base. Cependant, un groupe de talentueux modders dont les noms apparaissent dans la section Crédits travaillent maintenant sur le projet, introduisant de façon constante du nouveau contenu. Nous espèrons que ce mod deviendra un de vos favori, comme il l'est devenu pour ses developpeurs !
+_______________________________________________________________
+
+[h1]Caractéristiques :[/h1]
+
+1) Compatible avec l’IRONMAN : ne change ni la Checksum, ni les Saves, ni quoi que ce soit qui soit lié au gameplay.
+2) Modifie plus de 4000 images d'événements.
+3) Augmente la taille des images d'événement.
+4) Vous fournit une large gamme d'œuvres d'art à contempler, d’artistes aussi diverses que Rembrandt et Hokusai.
+5) Des images d'événements spécifiques à chaque culture, qui varient en fonction de la nation que vous jouez.
+_______________________________________________________________
+
+[h1]Suivez The Great Exhibition :[/h1]
+
+[url=https://discord.gg/bGVcZyK]DISCORD + Instructions de Dépannage[/url]
+
+[url=https://www.reddit.com/r/TheGreatExhibitionMod/]Reddit[/url]
+
+[url=https://forum.paradoxplaza.com/forum/threads/mod-the-great-exhibition.1512273/#post-28579489]Forums Paradox[/url]
+_______________________________________________________________
+
+[h1]Si vous trouvez un bug, parlez-en : nous essaierons de résoudre le problème dans les plus brefs délais.[/h1]
+
+Si vous utilisez le Stellaris UI Font, assurez-vous d'utiliser le [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2097004524]Patch de Compatibilité [/url]!
+_______________________________________________________________
+
+[h1]Crédits:[/h1]
+
+- [url=https://steamcommunity.com/id/Tinholt]Tinholt[/url] pour la création de  "The Grand Exhibition".
+- [url=https://steamcommunity.com/id/snaekomu]Kami[/url] pour nous avoir aidés à automatiser les données d'événement et certains des scripts.
+- [url=https://steamcommunity.com/id/Firerozes/]Firerozes[/url] pour son aide dans ce projet : traitement des données, apport d'images.
+- [url=https://steamcommunity.com/profiles/76561197978644420]ernesttico[/url] pour son aide dans ce projet : apport d'images, ajout de titres.
+- Doan pour son aide dans ce projet : apport d'image.
+- (ReaPeR2039) pour son aide dans ce projet.
+- [url=https://steamcommunity.com/id/Uberepiczach]UberEpicZach[/url] pour son aide dans ce projet
+- Shwartz99 pour son aide dans ce projet.
+_______________________________________________________________
+
+[h1]D'autres mods d'Aetherum pour Europa Universalis 4 :[/h1]
+
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1449952810]Elder Scrolls Universalis[/url] 
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1796527319]World of Warcraft Universalis[/url] 
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1351632822]Gameplay Extension[/url]
+_______________________________________________________________
+
+[i]Nous espérons que vous aimerez le résultat de nos travaux, que vous profiterez et que vous découvrirez ce magnifique jeu sous un nouveau jour ![/i]
+
+[h1]Et n'oubliez pas de mettre des likes, d'ajouter le mod à vos favoris et d'en parler à vos amis ![/h1]

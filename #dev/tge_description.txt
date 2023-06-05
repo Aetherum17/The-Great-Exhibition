@@ -1,20 +1,20 @@
 ———————————— The Great Exhibition Mod for Europa Universalis 4 ———————————
 
-[h1]Description:[/h1]
+[h1]Description :[/h1]
 
-The Great Exhibition Mod adds many new pictures to events. The images dynamically change depending on your culture, religion or location, providing unique flavour for your games. The mod is based on another modification, the Vanilla'd - The Grand Exhibition, made by Tinholt. However, since he decided to leave the modding scene, further development of his project will take place on this page. Originally, TGE was updated by Aetherum since no one else was interested in updating the mod for the 1.30 version of the vanilla game. However, now a group of talented modders, which names you can see in the Credits section, is also working on this project, constantly introducing new content. We do hope that this mod becomes one of your favourite ones, as it becomes for its developers!
+The Great Exhibition Mod adds many new pictures to events. The images dynamically change depending on your culture, religion or location, providing unique flavour for your games. The mod is based on another modification, the Vanilla'd - The Grand Exhibition, made by Tinholt. However, since he decided to leave the modding scene, further development of his project will take place on this page. Originally, TGE was updated by Aetherum since no one else was interested in updating the mod for the 1.30 version of the vanilla game. However, now a group of talented modders, which names you can see in the Credits section, is also working on this project, constantly introducing new content. We do hope that this mod becomes one of your favourite ones, as it has for its' developers !
 _______________________________________________________________
 
-[h1]Features:[/h1]
+[h1]Features :[/h1]
 
 1) IRONMAN Compatible: Doesn't change Checksum, Save-Games, Anything gameplay related.
-2) Changes 4000+ event pictures
+2) Changes 4000+ event pictures.
 3) Increases the size of the Event pictures.
 4) Provide you with range of artwork to gaze at, representing artists from Rembrandt to Hokusai.
 5) Culture and Religion Specific Event Pictures that change depending on the nation you're playing. 
 _______________________________________________________________
 
-[h1]Follow The Great Exhibition:[/h1]
+[h1]Follow The Great Exhibition :[/h1]
 
 [url=https://discord.gg/bGVcZyK]DISCORD + Trouble Shooting Instructions[/url]
 
@@ -26,19 +26,19 @@ _______________________________________________________________
 [h1]If you find a bug, report it on our Discord or/and here, we'll try to fix the problem as soon as possible. Precise, if you please, your game version, mod config, country, and religion. You also can provide us a screenshot.[/h1]
 _______________________________________________________________
 
-[h1]Credits:[/h1]
+[h1]Credits :[/h1]
 
 - [url=https://steamcommunity.com/id/Tinholt]Tinholt[/url]  for creating the Vanilla'd - The Grand Exhibition.
 - [url=https://steamcommunity.com/id/snaekomu]Kami[/url]  for helping us automate the event data and some of the scripting.
-- [url=https://steamcommunity.com/id/Firerozes/]Firerozes[/url] for help with the project.
-- [url=https://steamcommunity.com/profiles/76561197978644420]ernesttico[/url] for help with the project.
-- Doan for help with the project.
+- [url=https://steamcommunity.com/id/Firerozes/]Firerozes[/url] for help with the project : data processing, coding and pictures finding.
+- [url=https://steamcommunity.com/profiles/76561197978644420]ernesttico[/url] for help with the project : pictures finding and picture titling.
+- Doan for help with the project : pictures finding.
 - (ReaPeR2039) for help with the project.
 - [url=https://steamcommunity.com/id/Uberepiczach]UberEpicZach[/url] for help with the project.
 - Shwartz99 for help with the project.
 _______________________________________________________________
 
-[h1]See other Aetherum's mods for Europa Universalis 4:[/h1]
+[h1]See other Aetherum's mods for Europa Universalis 4 :[/h1]
 
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1449952810]Elder Scrolls Universalis[/url] 
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1796527319]World of Warcraft Universalis[/url] 
