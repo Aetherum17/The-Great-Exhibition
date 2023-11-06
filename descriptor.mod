@@ -1,4 +1,4 @@
-version="1.3.3"
+version="1.3.4"
 tags={
 	"Events"
 	"Expansion"
@@ -8,5 +8,5 @@ tags={
 	"Utilities"
 }
 name="The Great Exhibition"
-supported_version="1.35.*"
+supported_version="1.36.*"
 remote_file_id="2016264376"
