@@ -124,7 +124,7 @@ spriteTypes = {
             }
         spriteType = {
                 name = "china_events.19_NAVAL_MILITARY_eventPicture"
-                texturefile = "gfx/event_pictures/CHINESE_JUNK_KEYING_eventPicture.dds"
+                texturefile = "gfx/event_pictures/05_SINO/NAVAL/SHIPWRECKS/DAMAGED_CHINESE_JUNK_SHROEDER.dds"
                 allwaystransparent = yes
             }
         spriteType = {
@@ -4115,6 +4115,12 @@ spriteTypes = {
         spriteType = {
             name = "flavor_gbr.23_GOOD_WITH_MONARCH_eventPicture"
             texturefile = "gfx/event_pictures/ENGLAND_SPAIN_COAT_eventPicture.dds"
+            allwaystransparent = yes
+        }
+
+        spriteType = {
+            name = "flavor_gbr.24_GOOD_WITH_MONARCH_eventPicture"
+            texturefile = "gfx/event_pictures/ENGLAND_ITALY_COAT_eventPicture.dds"
             allwaystransparent = yes
         }
 

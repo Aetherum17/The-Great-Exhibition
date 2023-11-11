@@ -307,7 +307,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "westerngfx_16_Trade_Company_eventPicture"
-			texturefile = "gfx/event_pictures/CORRUPT_DEALINGS_eventPicture.dds"
+			texturefile = "gfx/event_pictures/event_pictures_GE/CORRUPTION_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
@@ -3891,6 +3891,12 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "NEO_CONFUCIANISM_INCIDENT_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_MOH/NEO_CONFUCIANISM_INCIDENT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "NEO_CONFUCIANISM_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_MOH/NEO_CONFUCIANISM_INCIDENT_eventPicture.dds"
 		allwaystransparent = yes
 	}
@@ -9030,13 +9036,13 @@ spriteTypes = {
 	#korean_g
 	spriteType = {#Not Korean, #PAGODA_CONSTRUCTION_eventPicture not actually shinto
 		name = "korean_g_CITY_DEVELOPMENT_eventPicture"
-		texturefile = "gfx/event_pictures/SHINTO_CITY_DEVELOPMENT2_eventPicture.dds"
+		texturefile = "gfx/event_pictures/SHINTO_CITY_DEVELOPMENT_eventPicture.dds"
 		allwaystransparent = yes
 	}
 
 		spriteType = {#Not Korean, #PAGODA_CONSTRUCTION_eventPicture not actually shinto
 			name = "korean_CITY_DEVELOPMENT_eventPicture"
-			texturefile = "gfx/event_pictures/SHINTO_CITY_DEVELOPMENT2_eventPicture.dds"
+			texturefile = "gfx/event_pictures/SHINTO_CITY_DEVELOPMENT_eventPicture.dds"
 			allwaystransparent = yes
 		}
 
@@ -11326,6 +11332,38 @@ spriteTypes = {
 		spriteType = {
 			name = "SHWEDAGON_PAGON_eventPicture"
 			texturefile = "gfx/event_pictures/SHWEDAGON_PAGON_HAZE_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+	# King of Kings
+
+		spriteType = {
+			name = "CONSTANTINOPLE_eventPicture"
+			texturefile = "gfx/event_pictures/CONSTANTINOPLE_CORRODI_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "GHULAMS_ESTATE_DEMANDS_eventPicture"
+			texturefile = "gfx/event_pictures/GHULAMS_IRREGULAR_PERSIAN_TROOPS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "GHULAMS_ESTATE_eventPicture"
+			texturefile = "gfx/event_pictures/FATH_ALI_SHAH_GHULAMS_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "QIZILBASH_ESTATE_DEMANDS_eventPicture"
+			texturefile = "gfx/event_pictures/ABBAS_II_RECEIVING_NADR_KHAN_eventPicture.dds"
+			allwaystransparent = yes
+		}
+
+		spriteType = {
+			name = "QIZILBASH_ESTATE_eventPicture"
+			texturefile = "gfx/event_pictures/ISMAIL_I_QIZILBASH_eventPicture.dds"
 			allwaystransparent = yes
 		}
 
