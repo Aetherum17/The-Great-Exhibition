@@ -1,7 +1,3 @@
-RULE OVER ZOVERWRITE -> Firerozes copied last 4 declarations that weren't in zoverwrite to zoverwrite, will close the problem on next update
-
-three .png were deleted : check if nothing was disturbed at the next update
-
 ideagroups.1919 is messed up but it's PDX fault
 
 use the unused entitled pictures
