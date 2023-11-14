@@ -8179,7 +8179,11 @@ spriteTypes = {
             texturefile = "gfx/event_pictures/ROBERT_SHIRLEY_eventPicture.dds"
             allwaystransparent = yes
         }
-
+        spriteType = {
+            name = "flavor_per.4_QIZILBASH_ESTATE_DEMANDS_eventPicture"
+            texturefile = "gfx/event_pictures/TURKMEN_WANING_POWER_eventPicture.dds"
+            allwaystransparent = yes
+        }
         spriteType = {
             name = "flavor_per.4_LIBERUM_VETO_eventPicture"
             texturefile = "gfx/event_pictures/TURKMEN_WANING_POWER_eventPicture.dds"
@@ -8219,6 +8223,11 @@ spriteTypes = {
         spriteType = {
             name = "flavor_per.11_RELIGIOUS_CONVERSION_eventPicture"
             texturefile = "gfx/event_pictures/ISLAMIC_SECT_TEACHINGS_eventPicture.dds"
+            allwaystransparent = yes
+        }
+        spriteType = {
+            name = "flavor_per.12_QIZILBASH_ESTATE_DEMANDS_eventPicture"
+            texturefile = "gfx/event_pictures/KURDISH_TURKS_JANISSARY_eventPicture.dds"
             allwaystransparent = yes
         }
         spriteType = {
