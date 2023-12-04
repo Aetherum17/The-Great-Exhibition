@@ -4288,7 +4288,11 @@ spriteTypes = {
             allwaystransparent = yes
         }
 
-
+        spriteType = {
+            name = "flavor_geo.3_AB_BATTLE_eventPicture"
+            texturefile = "gfx/event_pictures/FALL_OF_SARAI_eventPicture.dds"
+            allwaystransparent = yes
+        }
 
         spriteType = {
             name = "flavor_got.15_COURT_eventPicture"
@@ -4497,7 +4501,7 @@ spriteTypes = {
 
         spriteType = {
             name = "flavor_hab.3201_ANGRY_MOB_eventPicture"
-            texturefile = "gfx/event_pictures/REVOLT_PUGACHEV_eventPicture.dds"
+            texturefile = "gfx/event_pictures/event_pictures_AOW/REVOLT_HUNGARIAN_eventPicture.dds"
             allwaystransparent = yes
         }
 
@@ -6983,15 +6987,14 @@ spriteTypes = {
             name = "flavor_ara.5_ST_PETERS_CHURCH_eventPicture"
             texturefile = "gfx/event_pictures/CHAPTER_SANTA_MARIA_SIGENA_CARDERERA_eventPicture.dds"
             allwaystransparent = yes
-        }      
+        }
   
         spriteType = {
             name = "flavor_ara.6_ELECTION_REPUBLICAN_eventPicture"
             texturefile = "gfx/event_pictures/REMENCES_REBELLION_ARAGON_eventPicture.dds"
             allwaystransparent = yes
-        }    
+        }
 
-          
         spriteType = {
             name = "flavor_arw.1_BORDER_TENSION_eventPicture"
             texturefile = "gfx/event_pictures/SOUTH_AMERICA_NATIVES_NEAR_RIVER_eventPicture.dds"
@@ -8704,7 +8707,7 @@ spriteTypes = {
 
         spriteType = {
             name = "flavor_rus.3_MILITARY_CAMP_eventPicture"
-            texturefile = "gfx/event_pictures/IVAN_THE_TERRIBLE_AT_KAZAN_eventPicture.dds"
+            texturefile = "gfx/event_pictures/IVAN_IV_CONQUERING_KAZAN_eventPicture.dds"
             allwaystransparent = yes
         }
 
@@ -10285,7 +10288,6 @@ spriteTypes = {
             texturefile = "gfx/event_pictures/01_WESTERN/GOVERNMENT/SURRENDER/LAST_MOMENTS_DOGE_HAYEZ.dds"
             allwaystransparent = yes
         }
-
 
         spriteType = {
             name = "flavor_zim.1_AFRICAN_CARAVAN_eventPicture"

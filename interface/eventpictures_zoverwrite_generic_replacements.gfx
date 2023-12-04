@@ -4156,6 +4156,12 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "muslimgfx_TRADE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_MUSLIM/MERCHANTS_TALKING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
 		name = "muslimgfx_GOOD_WITH_MONARCH_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_MUSLIM/GOOD_WITH_MONARCH_eventPicture.dds"
 		allwaystransparent = yes
