@@ -8,5 +8,5 @@ tags={
 	"Utilities"
 }
 name="The Great Exhibition"
-supported_version="1.37.*"
+supported_version="v1.37.*"
 remote_file_id="2016264376"
