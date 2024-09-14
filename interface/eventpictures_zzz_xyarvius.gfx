@@ -1,0 +1,123 @@
+spriteTypes = {
+	
+	##############################
+    # Fixed Events               #
+    ##############################
+	
+	# Jánošík, Ján Novák, 1938 (see: https://commons.wikimedia.org/wiki/File:J%C3%A1n_Nov%C3%A1k,_J%C3%A1no%C5%A1%C3%ADk.jpg)
+	spriteType = {
+		name = "JURAJ_JANOSIK_eventPicture"
+		texturefile = "gfx/event_pictures/JURAJ_JANOSIK_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	# Procession from the Turbanning Ceremony of His Imperial Highness the Garsan Fulani of Kano, John Howard Sanden, ca. 2005 (see: http://www.johnhowardsanden.com/portraits-africa/africa04-parade.htm)
+	# replaces entry in line 6911 in eventpictures_zoverwrite_flavorevents.gfx
+	spriteType = { 
+		name = "flavor_oyo.3_MERCHANTS_TALKING_eventPicture"
+		texturefile = "gfx/event_pictures/KANO_HORSEMEN_RETURN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	# 1920 - scythe, Jakub Rozalski, ca. 2017 (see: https://jrozalski.com/projects/L3RPP)
+	spriteType = {
+		name = "TEMPORAL_RIFT_eventPicture"
+		texturefile = "gfx/event_pictures/TEMPORAL_RIFT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	# The Sack of Rome, Francisco Javier Amérigo y Aparici, 1887 (see: https://commons.wikimedia.org/wiki/File:El_Saco_de_Roma.jpg)
+	spriteType = {
+		name = "flavor_got.42_SMUGGLERS_eventPicture"
+		texturefile = "gfx/event_pictures/SACK_ROME_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	# Recruiting for a pirate ship in the 17th Century, Francisco Javier Amérigo y Aparici, 1932 (see: https://www.meisterdrucke.ie/fine-art-prints/Arthur-David-McCormick/1084358/Recruiting-for-a-pirate-ship-in-the-17th-Century.html)
+	spriteType = {
+		name = "pirates.25_SMUGGLERS_eventPicture"
+		texturefile = "gfx/event_pictures/PIRATE_SUCCESS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	# Bostonians reading Stamp Act, 1765, New York Public Library, 1882 (see: https://de.m.wikipedia.org/wiki/Datei:1765_BostoniansReadingStampAct.png)
+	spriteType = {
+		name = "colonial_nation.15_WOUNDED_SOLDIER_eventPicture"
+		texturefile = "gfx/event_pictures/STAMP_ACT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	# Aztecs offer human sacrifices to the sun god, Granger - Historical Picture Archive, late 19th century (see: https://www.granger.com/results.asp?inline=true&image=0029404&wwwflag=4&itemx=16, https://www.nationalgeographic.fr/histoire/culture-generale-civilisation-azteques-recit-dun-declin-apres-des-siecles-de-domination)
+	spriteType = {
+		name = "fetishist_flavor.504_WOUNDED_SOLDIER_eventPicture"
+		texturefile = "gfx/event_pictures/AZTEC_SACRIFICE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	# Japanese swordswoman in a duel, Utagawa Kuniyoshi, 1845 (see: https://commons.wikimedia.org/wiki/File:Japanese_Swordswoman.jpg)
+	spriteType = {
+		name = "wihgfx_FEMALE_SIEGE_eventPicture"
+		texturefile = "gfx/event_pictures/ONNA_MUSHA_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	# Embarco moriscos en el Grao de Valencia, Pere Oromig, 1616 (see: https://en.m.wikipedia.org/wiki/File:Embarco_moriscos_en_el_Grao_de_valencia.jpg)
+	spriteType = {
+		name = "flavor_tur.219_PILGRIMAGE_eventPicture"
+		texturefile = "gfx/event_pictures/MORISCOS_ARRIVAl_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	# The Zapotec and Mixtec Civilization, Diego Rivera, 1945 (see: https://homepages.bluffton.edu/~sullivanm/mexico/mexicocity/rivera/zapotec.html)
+	spriteType = {
+		name = "flavor_azt.20_AZTEC_WARRIOR_eventPicture"
+		texturefile = "gfx/event_pictures/AZTEC_ZAPOTECS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	# Palazzo Ducale and the Piazza di San Marco, Canaletto, 1755 (see: https://commons.wikimedia.org/wiki/File:Giovanni_Antonio_Canal,_il_Canaletto_-_Palazzo_Ducale_and_the_Piazza_di_San_Marco_-_WGA03958.jpg)
+	spriteType = {
+		name = "DOGE_PALACE_eventPicture"
+		texturefile = "gfx/event_pictures/DOGE_PALACE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	# Portrait of Moctezuma II, Antonio Rodriguez, ca. 1680 (see: https://commons.wikimedia.org/wiki/File:Moctezuma_Xocoyotzin.png)
+	spriteType = {
+		name = "flavor_azt.23_GREAT_MAN_eventPicture"
+		texturefile = "gfx/event_pictures/AZTEC_EMPEROR_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	# Codex Borbonicus, unknown, ca. 1520 (see: https://commons.wikimedia.org/wiki/File:Codex_Borbonicus_%28p._14%29.jpg, https://ro.m.wikipedia.org/wiki/Fi%C8%99ier:Codex_Borbonicus_%28p._5%29.jpg)
+	spriteType = {
+		name = "flavor_azt.24_HUIZTILOPOCHTLI_eventPicture"
+		texturefile = "gfx/event_pictures/AZTEC_DEITIES_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	# 16th century painting of Abtai Sain Khan, unknown, 16th century (see: https://de.m.wikipedia.org/wiki/Datei:AbtaiPainting.jpg)
+	spriteType = {
+		name = "flavor_yua.1_TRADE_eventPicture"
+		texturefile = "gfx/event_pictures/NAADAM_FESTIVAl_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	# Arab Caravan, Alberto Pasini, before 1899 (see: https://commons.wikimedia.org/wiki/File:Pasini_Alberto_An_Arab_Caravan.jpg)
+	spriteType = {
+		name = "flavor_YEM.1_TRADE_eventPicture"
+		texturefile = "gfx/event_pictures/ARAB_CARAVAN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	##############################
+    # Events for Winds of Change #
+    ##############################
+	
+	# Self-portrait, Titian, 1546–47 (see: https://commons.wikimedia.org/wiki/File:Self-portrait_of_Titian.jpg)
+	spriteType = {
+		name = "flavor_ven.40_ADVISOR_eventPicture"
+		texturefile = "gfx/event_pictures/VENICE_CHAMPION_TITIAN_eventPicture.dds" 
+		allwaystransparent = yes
+	}
+}
